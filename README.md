@@ -1,4 +1,4 @@
-### Son Güncelleme: 27.06.2025 20:21
+### Son Güncelleme: 27.06.2025 20:28
 
 ### Repo Kısa Kodu: TRplugins
 
@@ -7,7 +7,8 @@
 ---
 
 ### Depo Sahibi:
-
+[<img src='https://github.com/PyrusDrago.png' width='48' height='48' style='border-radius:50%;'>](https://github.com/PyrusDrago)  
+[PyrusDrago](https://github.com/PyrusDrago)
 ---
 
 ## 📦 Eklenti Listesi
