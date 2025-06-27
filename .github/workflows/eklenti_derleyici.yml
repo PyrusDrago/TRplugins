@@ -9,6 +9,8 @@ jobs:
   build-and-push-plugins:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
@@ -77,5 +79,5 @@ jobs:
           git config user.name "GitHub Action"
           git config user.email "action@github.com"
           git add plugins.json
-          git diff --staged --quiet || git commit -m "🎥Eklentiler güncellendi sinemaya devam"
+          git diff --staged --quiet || git commit -m "Update plugins.json"
           git push
