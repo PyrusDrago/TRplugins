@@ -1,0 +1,141 @@
+name: README Builder
+
+on:
+  schedule:
+    - cron: "0 *20 * * *"
+  workflow_dispatch:
+
+jobs:
+  build-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Generate README.md
+        run: |
+          import json
+          from datetime import datetime, timedelta, timezone
+          from pathlib import Path
+
+          OWNER = "PyrusDrago"
+          OWNER_AVATAR = "https://github.com/TRplugins.png"
+          OWNER_PROFILE = "https://github.com/TRplugins"
+          REPO_SHORT_CODE = "TRplugins"
+
+          IMAGE_KEYS = ["iconUrl", "image", "icon", "logo", "thumbnail", "cover", "img", "picture", "poster"]
+          LANGUAGE_FLAGS = {
+              "af": ("🇿🇦", "ZA"), "az": ("🇦🇿", "AZ"), "id": ("🇮🇩", "ID"), "ms": ("🇲🇾", "MY"),
+              "de": ("🇩🇪", "DE"), "en": ("🇬🇧", "GB"), "es": ("🇪🇸", "ES"), "eo": ("🏳️‍🌈", "EO"),
+              "fil": ("🇵🇭", "PH"), "fr": ("🇫🇷", "FR"), "gl": ("🇪🇸", "ES"), "hr": ("🇭🇷", "HR"),
+              "it": ("🇮🇹", "IT"), "lv": ("🇱🇻", "LV"), "lt": ("🇱🇹", "LT"), "hu": ("🇭🇺", "HU"),
+              "mt": ("🇲🇹", "MT"), "nl": ("🇳🇱", "NL"), "no": ("🇳🇴", "NO"), "pl": ("🇵🇱", "PL"),
+              "pt": ("🇵🇹", "PT"), "pt-br": ("🇧🇷", "BR"), "ro": ("🇷🇴", "RO"), "sk": ("🇸🇰", "SK"),
+              "so": ("🇸🇴", "SO"), "sv": ("🇸🇪", "SE"), "tl": ("🇵🇭", "PH"), "vi": ("🇻🇳", "VN"),
+              "tr": ("🇹🇷", "TR"), "cs": ("🇨🇿", "CZ"), "el": ("🇬🇷", "GR"), "bg": ("🇧🇬", "BG"),
+              "mk": ("🇲🇰", "MK"), "ru": ("🇷🇺", "RU"), "uk": ("🇺🇦", "UA"), "he": ("🇮🇱", "IL"),
+              "ur": ("🇵🇰", "PK"), "ar": ("🇦🇪", "AE"), "ar-sa": ("🇸🇦", "SA"), "ar-ly": ("🇱🇾", "LY"),
+              "fa": ("🇮🇷", "IR"), "ne": ("🇳🇵", "NP"), "in": ("🇮🇳", "IN"), "bn": ("🇧🇩", "BD"),
+              "my": ("🇲🇲", "MM"), "am": ("🇪🇹", "ET"), "ti": ("🇪🇹", "ET"), "om": ("🇪🇹", "ET"),
+              "zh": ("🇨🇳", "CN"), "ja": ("🇯🇵", "JP"), "zh-tw": ("🇹🇼", "TW"), "ko": ("🇰🇷", "KR"),
+          }
+          INDIA_LANGS = {"hi", "as", "or", "ta", "kn", "ml"}
+          DEFAULT_FLAG = ("🏴‍☠️", "")
+
+          def fix_icon_url(url):
+              if url and "%size%" in url:
+                  return url.replace("%size%", "64")
+              return url
+
+          def turkish_types(tvtypes):
+              if not tvtypes or not isinstance(tvtypes, list) or not tvtypes:
+                  return ["Bilinmiyor"]
+              types = []
+              for t in tvtypes:
+                  for subt in str(t).split(","):
+                      st = subt.strip().lower()
+                      types.append({
+                          "movie": "Film",
+                          "animemovie": "Anime Filmi",
+                          "tvseries": "Dizi",
+                          "cartoon": "Çizgi Film",
+                          "anime": "Anime",
+                          "ova": "OVA (Anime)",
+                          "torrent": "Torrent",
+                          "documentary": "Belgesel",
+                          "asiandrama": "Asya Dizisi",
+                          "live": "Canlı TV",
+                          "others": "Diğer",
+                          "music": "Müzik",
+                          "audiobook": "Sesli Kitap",
+                          "custommedia": "Özel Medya",
+                          "audio": "Ses",
+                          "podcast": "Podcast"
+                      }.get(st, st.capitalize() if st else "Bilinmiyor"))
+              return list(dict.fromkeys(types))
+
+          def get_flag_and_code(language):
+              language = (language or "").lower().strip().replace("_", "-")
+              base = language.split("-")[0]
+              if base in INDIA_LANGS:
+                  return LANGUAGE_FLAGS["in"]
+              return LANGUAGE_FLAGS.get(language) or LANGUAGE_FLAGS.get(base) or DEFAULT_FLAG
+
+          turkey_tz = timezone(timedelta(hours=3))
+          formatted_date = datetime.now(turkey_tz).strftime("%d.%m.%Y %H:%M")
+
+          with open("plugins.json", encoding="utf-8") as f:
+              plugins = json.load(f)
+
+          unique_plugins = {}
+          for plugin in plugins:
+              name = (plugin.get("name") or plugin.get("title") or str(plugin)).strip()
+              if not name or name in unique_plugins:
+                  continue
+              language = (plugin.get("language") or "").lower().strip()
+              flag, code = get_flag_and_code(language)
+              img_url = next((fix_icon_url(plugin[key]) for key in IMAGE_KEYS if plugin.get(key)), None)
+              tur_types = turkish_types(plugin.get("tvTypes"))
+              unique_plugins[name] = (img_url, tur_types, flag, code)
+
+          plugin_count = len(unique_plugins)
+          readme_header = (
+              f"### Last update: {formatted_date}\n\n"
+              f"### Repo short code: {REPO_SHORT_CODE}\n\n"
+              f"### Total plugins in repo: {plugin_count}\n\n"
+              "---\n\n"
+              f"### Owner:\n"
+              f"[<img src='{OWNER_AVATAR}' width='48' height='48' style='border-radius:50%;'>]({OWNER_PROFILE})  \n"
+              f"[{OWNER}]({OWNER_PROFILE})\n"
+              "---\n\n"
+              "## 📦 Plugin List\n\n"
+              "| Icon | Plugin Name | Types | Country |\n"
+              "|:----:|:------------|:---------|:-----:|\n"
+          )
+
+          table_rows = []
+          for name, (img_url, tur_types, flag, code) in sorted(unique_plugins.items()):
+              tur_text = ", ".join(tur_types)
+              img_md = f'<img src=\"{img_url}\" width=\"32\" style=\"vertical-align:middle;\">' if img_url else "—"
+              country_col = f"{flag} [{code}]" if flag and code else DEFAULT_FLAG[0]
+              table_rows.append(f"| {img_md} | **{name}** | {tur_text} | {country_col} |")
+
+          readme_content = readme_header + "\n".join(table_rows)
+          Path("README.md").write_text(readme_content, encoding="utf-8")
+        shell: python
+
+      - name: Commit and push README.md
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add README.md
+          if ! git diff --staged --quiet; then
+            git commit -m "Docs: Update README.md with plugin list"
+            git push
+          else
+            echo "No changes detected in README.md"
+          fi
