@@ -3,15 +3,17 @@ name: Readme Oluşturucu
 
 on:
   schedule:
-    - cron: '0 20 * * *'
-  workflow_dispatch:
+    - cron: '0 20 * * *'  # Her gün 20:00'de çalışır
+  workflow_dispatch:       # Manuel çalıştırma
 
 jobs:
   build-readme:
+    name: README Dosyası Oluştur ve Güncelle
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Depoyu Klonla
+        uses: actions/checkout@v4
 
       - name: Python Ortamını Kur
         uses: actions/setup-python@v5
@@ -24,96 +26,120 @@ jobs:
           from datetime import datetime, timedelta, timezone
           from pathlib import Path
 
-          SAHIP = "PyrusDrago"
-          SAHIP_RESIM = "https://github.com/TRplugins.png"
-          SAHIP_PROFIL = "https://github.com/TRplugins"
-          REPO_KISA_KODU = "TRplugins"
+          OWNER = "PyrusDrago"
+          OWNER_AVATAR = "https://github.com/TRplugins.png"
+          OWNER_PROFILE = "https://github.com/TRplugins"
+          REPO_SHORT_CODE = "TRplugins"
 
-          GORSEL_ANAHTARLARI = ["iconUrl", "image", "icon", "logo", "thumbnail", "cover", "img", "picture", "poster"]
-          DIL_BAYRAKLARI = {
-              "tr": ("🇹🇷", "TR"), "en": ("🇬🇧", "GB"), "de": ("🇩🇪", "DE"), "fr": ("🇫🇷", "FR"),
-              "es": ("🇪🇸", "ES"), "it": ("🇮🇹", "IT"), "ru": ("🇷🇺", "RU"), "zh": ("🇨🇳", "CN"),
-              "ja": ("🇯🇵", "JP"), "ko": ("🇰🇷", "KR"), "pt": ("🇵🇹", "PT"), "pt-br": ("🇧🇷", "BR"),
-              "ar": ("🇦🇪", "AE")
+          IMAGE_KEYS = ["iconUrl", "image", "icon", "logo", "thumbnail", "cover", "img", "picture", "poster"]
+          LANGUAGE_FLAGS = {
+              "af": ("🇿🇦", "ZA"), "az": ("🇦🇿", "AZ"), "id": ("🇮🇩", "ID"), "ms": ("🇲🇾", "MY"),
+              "de": ("🇩🇪", "DE"), "en": ("🇬🇧", "GB"), "es": ("🇪🇸", "ES"), "eo": ("🏳️‍🌈", "EO"),
+              "fil": ("🇵🇭", "PH"), "fr": ("🇫🇷", "FR"), "gl": ("🇪🇸", "ES"), "hr": ("🇭🇷", "HR"),
+              "it": ("🇮🇹", "IT"), "lv": ("🇱🇻", "LV"), "lt": ("🇱🇹", "LT"), "hu": ("🇭🇺", "HU"),
+              "mt": ("🇲🇹", "MT"), "nl": ("🇳🇱", "NL"), "no": ("🇳🇴", "NO"), "pl": ("🇵🇱", "PL"),
+              "pt": ("🇵🇹", "PT"), "pt-br": ("🇧🇷", "BR"), "ro": ("🇷🇴", "RO"), "sk": ("🇸🇰", "SK"),
+              "so": ("🇸🇴", "SO"), "sv": ("🇸🇪", "SE"), "tl": ("🇵🇭", "PH"), "vi": ("🇻🇳", "VN"),
+              "tr": ("🇹🇷", "TR"), "cs": ("🇨🇿", "CZ"), "el": ("🇬🇷", "GR"), "bg": ("🇧🇬", "BG"),
+              "mk": ("🇲🇰", "MK"), "ru": ("🇷🇺", "RU"), "uk": ("🇺🇦", "UA"), "he": ("🇮🇱", "IL"),
+              "ur": ("🇵🇰", "PK"), "ar": ("🇦🇪", "AE"), "ar-sa": ("🇸🇦", "SA"), "ar-ly": ("🇱🇾", "LY"),
+              "fa": ("🇮🇷", "IR"), "ne": ("🇳🇵", "NP"), "in": ("🇮🇳", "IN"), "bn": ("🇧🇩", "BD"),
+              "my": ("🇲🇲", "MM"), "am": ("🇪🇹", "ET"), "ti": ("🇪🇹", "ET"), "om": ("🇪🇹", "ET"),
+              "zh": ("🇨🇳", "CN"), "ja": ("🇯🇵", "JP"), "zh-tw": ("🇹🇼", "TW"), "ko": ("🇰🇷", "KR")
           }
-          VARSAYILAN_BAYRAK = ("🏴‍☠️", "")
+          INDIA_LANGS = {"hi", "as", "or", "ta", "kn", "ml"}
+          DEFAULT_FLAG = ("🏴‍☠️", "")
 
-          TURKCE_TIPLER = {
-              "movie": "Film", "animemovie": "Anime Filmi", "tvseries": "Dizi", "cartoon": "Çizgi Film",
-              "anime": "Anime", "ova": "OVA (Anime)", "torrent": "Torrent", "documentary": "Belgesel",
-              "asiandrama": "Asya Dizisi", "live": "Canlı TV", "others": "Diğer", "music": "Müzik",
-              "audiobook": "Sesli Kitap", "custommedia": "Özel Medya", "audio": "Ses", "podcast": "Podcast"
-          }
+          def fix_icon_url(url):
+              if url and "%size%" in url:
+                  return url.replace("%size%", "64")
+              return url
 
-          def bayrak_kodu(dil):
-              dil = (dil or "").lower().strip().replace("_", "-")
-              return DIL_BAYRAKLARI.get(dil, VARSAYILAN_BAYRAK)
-
-          def tipleri_cevir(tvtypes):
-              if not isinstance(tvtypes, list):
+          def turkish_types(tvtypes):
+              if not tvtypes or not isinstance(tvtypes, list):
                   return ["Bilinmiyor"]
-              sonuc = []
+              types = []
               for t in tvtypes:
-                  for alt in str(t).split(","):
-                      alt = alt.strip().lower()
-                      sonuc.append(TURKCE_TIPLER.get(alt, alt.capitalize()))
-              return list(dict.fromkeys(sonuc))
+                  for subt in str(t).split(","):
+                      st = subt.strip().lower()
+                      types.append({
+                          "movie": "Film",
+                          "animemovie": "Anime Filmi",
+                          "tvseries": "Dizi",
+                          "cartoon": "Çizgi Film",
+                          "anime": "Anime",
+                          "ova": "OVA (Anime)",
+                          "torrent": "Torrent",
+                          "documentary": "Belgesel",
+                          "asiandrama": "Asya Dizisi",
+                          "live": "Canlı TV",
+                          "others": "Diğer",
+                          "music": "Müzik",
+                          "audiobook": "Sesli Kitap",
+                          "custommedia": "Özel Medya",
+                          "audio": "Ses",
+                          "podcast": "Podcast"
+                      }.get(st, st.capitalize() if st else "Bilinmiyor"))
+              return list(dict.fromkeys(types))
 
-          def gorsel_url(plugin):
-              for anahtar in GORSEL_ANAHTARLARI:
-                  if plugin.get(anahtar):
-                      return plugin[anahtar].replace("%size%", "64")
-              return None
+          def get_flag_and_code(language):
+              language = (language or "").lower().strip().replace("_", "-")
+              base = language.split("-")[0]
+              if base in INDIA_LANGS:
+                  return LANGUAGE_FLAGS["in"]
+              return LANGUAGE_FLAGS.get(language) or LANGUAGE_FLAGS.get(base) or DEFAULT_FLAG
 
-          turkiye_saati = timezone(timedelta(hours=3))
-          tarih = datetime.now(turkiye_saati).strftime("%d.%m.%Y %H:%M")
+          turkey_tz = timezone(timedelta(hours=3))
+          formatted_date = datetime.now(turkey_tz).strftime("%d.%m.%Y %H:%M")
 
           with open("plugins.json", encoding="utf-8") as f:
-              eklentiler = json.load(f)
+              plugins = json.load(f)
 
-          benzersiz = {}
-          for e in eklentiler:
-              ad = (e.get("name") or e.get("title") or "").strip()
-              if not ad or ad in benzersiz:
+          unique_plugins = {}
+          for plugin in plugins:
+              name = (plugin.get("name") or plugin.get("title") or str(plugin)).strip()
+              if not name or name in unique_plugins:
                   continue
-              bayrak, kod = bayrak_kodu(e.get("language"))
-              resim = gorsel_url(e)
-              turler = tipleri_cevir(e.get("tvTypes"))
-              benzersiz[ad] = (resim, turler, bayrak, kod)
+              language = (plugin.get("language") or "").lower().strip()
+              flag, code = get_flag_and_code(language)
+              img_url = next((fix_icon_url(plugin[key]) for key in IMAGE_KEYS if plugin.get(key)), None)
+              tur_types = turkish_types(plugin.get("tvTypes"))
+              unique_plugins[name] = (img_url, tur_types, flag, code)
 
-          satirlar = []
-          for ad, (resim, turler, bayrak, kod) in sorted(benzersiz.items()):
-              ikon = f'<img src="{resim}" width="32" style="vertical-align:middle;">' if resim else "—"
-              tur_text = ", ".join(turler)
-              ulke = f"{bayrak} [{kod}]" if kod else bayrak
-              satirlar.append(f"| {ikon} | **{ad}** | {tur_text} | {ulke} |")
-
-          govde = (
-              f"### Son Güncelleme: {tarih}\n\n"
-              f"### Depo Kodu: {REPO_KISA_KODU}\n\n"
-              f"### Toplam Eklenti Sayısı: {len(benzersiz)}\n\n"
+          plugin_count = len(unique_plugins)
+          readme_header = (
+              f"### Son Güncelleme: {formatted_date}\n\n"
+              f"### Repo Kısa Kodu: {REPO_SHORT_CODE}\n\n"
+              f"### Toplam Eklenti Sayısı: {plugin_count}\n\n"
               "---\n\n"
-              "### Geliştirici:\n"
-              f"[<img src='{SAHIP_RESIM}' width='48' height='48' style='border-radius:50%;'>]({SAHIP_PROFIL})  \n"
-              f"[{SAHIP}]({SAHIP_PROFIL})\n"
+              f"### Depo Sahibi:\n"
+              f"[<img src='{OWNER_AVATAR}' width='48' height='48' style='border-radius:50%;'>]({OWNER_PROFILE})  \n"
+              f"[{OWNER}]({OWNER_PROFILE})\n"
               "---\n\n"
               "## 📦 Eklenti Listesi\n\n"
               "| İkon | Eklenti Adı | Türler | Ülke |\n"
-              "|:----:|:------------|:---------|:-----:|\n"
-              + "\n".join(satirlar)
+              "|:----:|:------------|:-------|:----:|\n"
           )
 
-          Path("README.md").write_text(govde, encoding="utf-8")
+          table_rows = []
+          for name, (img_url, tur_types, flag, code) in sorted(unique_plugins.items()):
+              tur_text = ", ".join(tur_types)
+              img_md = f'<img src="{img_url}" width="32" style="vertical-align:middle;">' if img_url else "—"
+              country_col = f"{flag} [{code}]" if flag and code else DEFAULT_FLAG[0]
+              table_rows.append(f"| {img_md} | **{name}** | {tur_text} | {country_col} |")
+
+          readme_content = readme_header + "\n".join(table_rows)
+          Path("README.md").write_text(readme_content, encoding="utf-8")
         shell: python
 
-      - name: README.md Değişikliklerini Gönder
+      - name: README.md Dosyasını Commit ve Push Et
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git add README.md
           if ! git diff --staged --quiet; then
-            git commit -m "📝 README.md eklenti listesiyle güncellendi"
+            git commit -m "Docs: README.md dosyası güncellendi"
             git push
           else
-            echo "Değişiklik yok, commit atılmadı."
+            echo "README.md dosyasında değişiklik tespit edilmedi."
           fi
