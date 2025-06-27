@@ -7,8 +7,8 @@
 ---
 
 ### Depo Sahibi:
-[<img src='https://github.com/PyrusDrago.png' width='48' height='48' style='border-radius:50%;'>](https://github.com/PyrusDrago.png)  
-[PyrusDrago](https://github.com/TRplugins)
+[<img src='https://github.com/PyrusDrago.png' width='48' height='48' style='border-radius:50%;'>](https://github.com/PyrusDrago)  
+[PyrusDrago](https://github.com/PyrusDrago)
 ---
 
 ## 📦 Eklenti Listesi
