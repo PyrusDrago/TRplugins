@@ -3,7 +3,7 @@ name: Eklenti Derleyici
 
 on:
   schedule:
-    - cron: '0 20 * * *'
+    - cron: '21 20 * * *'
   workflow_dispatch:
 
 jobs:
@@ -52,14 +52,12 @@ jobs:
                   }
                   let added = 0;
                   for (const plugin of plugins) {
+                    // NSFW eklentilerini atla
                     if (Array.isArray(plugin.tvTypes) && plugin.tvTypes.includes('NSFW')) continue;
-                    if (!plugin.authors) {
-                      plugin.authors = [botOwner];
-                    } else if (Array.isArray(plugin.authors)) {
-                      if (!plugin.authors.includes(botOwner)) plugin.authors.push(botOwner);
-                    } else if (typeof plugin.authors === 'string') {
-                      plugin.authors = plugin.authors !== botOwner ? [plugin.authors, botOwner] : [botOwner];
-                    }
+
+                    // Yazar bilgisini sadece botOwner (PyrusDrago) olarak ayarla
+                    plugin.authors = [botOwner];
+
                     merged.push(plugin);
                     added++;
                   }
