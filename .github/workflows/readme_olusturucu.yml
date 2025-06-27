@@ -1,8 +1,9 @@
-name: README Builder
+# bu araç @PyrusDrago tarafından yazılmıştır...
+name: Readme Oluşturucu
 
 on:
   schedule:
-    - cron: "0 *20 * * *"
+    - cron: '0 20 * * *'
   workflow_dispatch:
 
 jobs:
