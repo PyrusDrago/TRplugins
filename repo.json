@@ -1,0 +1,8 @@
+{
+    "name": "PyrusDrago-TRplugins",
+    "description": "Türk depo eklentileri havuzu",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/PyrusDrago/TRplugins/main/plugins.json"
+    ]
+}
