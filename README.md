@@ -1,19 +1,19 @@
-### Last update: 27.06.2025 17:40
+### Son Güncelleme: 27.06.2025 17:52
 
-### Repo short code: TRplugins
+### Depo Kodu: TRplugins
 
-### Total plugins in repo: 127
+### Toplam Eklenti Sayısı: 127
 
 ---
 
-### Owner:
+### Geliştirici:
 [<img src='https://github.com/TRplugins.png' width='48' height='48' style='border-radius:50%;'>](https://github.com/TRplugins)  
 [PyrusDrago](https://github.com/TRplugins)
 ---
 
-## 📦 Plugin List
+## 📦 Eklenti Listesi
 
-| Icon | Plugin Name | Types | Country |
+| İkon | Eklenti Adı | Türler | Ülke |
 |:----:|:------------|:---------|:-----:|
 | <img src="https://www.4kfilmizleme.net/wp-content/uploads/2022/09/4kfilmizlemefavicon-1.png" width="32" style="vertical-align:middle;"> | **4KFilmIzleme** | Film | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=www.4kfilmizlesene.org&sz=64" width="32" style="vertical-align:middle;"> | **4KFilmIzlesene** | Film | 🇹🇷 [TR] |
@@ -91,7 +91,7 @@
 | <img src="https://www.google.com/s2/favicons?domain=kultfilmler.net&sz=64" width="32" style="vertical-align:middle;"> | **KultFilmler** | Film, Dizi | 🇹🇷 [TR] |
 | <img src="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzikkanallari.png" width="32" style="vertical-align:middle;"> | **Müzik TV ve Radyo - Latte** | Canlı TV | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=colorhunt.co&sz=64" width="32" style="vertical-align:middle;"> | **NeonSpor** | Canlı TV | 🇹🇷 [TR] |
-| <img src="https://iosmirror.cc/img/nf2/icon_x192.png" width="32" style="vertical-align:middle;"> | **NetflixMirror** | Film, Dizi | 🇮🇳 [IN] |
+| <img src="https://iosmirror.cc/img/nf2/icon_x192.png" width="32" style="vertical-align:middle;"> | **NetflixMirror** | Film, Dizi | 🏴‍☠️ |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/c3/b7/35c3b7b0-4a84-cceb-d3e2-349e19712b07/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg" width="32" style="vertical-align:middle;"> | **Puhu** | Film, Dizi | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=rarefilmm.com&sz=64" width="32" style="vertical-align:middle;"> | **RareFilmm** | Film | 🇬🇧 [GB] |
 | <img src="https://rectvapp.com.tr/wp-content/uploads/2024/08/cropped-cropped-Screenshot_2023-08-31_at_11.02.55_PM-removebg-preview-32x32.webp" width="32" style="vertical-align:middle;"> | **RecTV** | Film, Canlı TV, Dizi | 🇹🇷 [TR] |
