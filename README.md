@@ -1,8 +1,8 @@
-### Son Güncelleme: 28.06.2025 23:35
+### Son Güncelleme: 29.06.2025 23:35
 
 ### Repo Kısa Kodu: TRplugins
 
-### Toplam Eklenti Sayısı: 127
+### Toplam Eklenti Sayısı: 126
 
 ---
 
@@ -43,7 +43,6 @@
 | <img src="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-vpn.png" width="32" style="vertical-align:middle;"> | **DaddyLive Spor (VPN) - Latte** | Canlı TV | 🇹🇷 [TR] |
 | <img src="https://www.ddizi.im/favicon.ico" width="32" style="vertical-align:middle;"> | **Ddizi** | Dizi | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=www.dizibox.live&sz=64" width="32" style="vertical-align:middle;"> | **DiziBox** | Dizi | 🇹🇷 [TR] |
-| <img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.dizifon.com&size=128" width="32" style="vertical-align:middle;"> | **DiziFon** | Asya Dizisi | 🇹🇷 [TR] |
 | <img src="https://dizifun2.com/images/data/favicon.png" width="32" style="vertical-align:middle;"> | **DiziFun** | Dizi, Film | 🇹🇷 [TR] |
 | <img src="https://dizifun3.com/images/data/darklogo.png" width="32" style="vertical-align:middle;"> | **DiziFun - Latte** | Dizi, Film | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=dizigom1.co&sz=64" width="32" style="vertical-align:middle;"> | **DiziGom** | Film | 🇹🇷 [TR] |
