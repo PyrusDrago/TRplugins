@@ -2300,7 +2300,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.superfilmgeldi.biz&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-    "fileSize": 18226,
+    "fileSize": 18231,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -2309,7 +2309,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 9,
+    "version": 10,
     "internalName": "SuperFilmGeldi",
     "description": "Hd film izliyerek arkadaşlarınızla ve sevdiklerinizle iyi bir vakit geçirmek istiyorsanız açın bir film eğlenmeye bakın. Bilim kurgu filmleri, aşk drama vahşet aşk romantik sıradışı korku filmlerini izle.",
     "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/SuperFilmGeldi.cs3",
@@ -2490,7 +2490,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=webteizle2.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-    "fileSize": 22421,
+    "fileSize": 22423,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -2499,7 +2499,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 37,
+    "version": 38,
     "internalName": "WebteIzle",
     "description": "Her türlü filmi ister dublaj ister altyazılı, en kaliteli bir şekilde izleyebileceğiniz arşivi en geniş gerçek film izleme siteniz.",
     "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/WebteIzle.cs3",
@@ -2699,7 +2699,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.club&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-    "fileSize": 26040,
+    "fileSize": 26681,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -2708,7 +2708,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 27,
+    "version": 28,
     "internalName": "Dizilla",
     "description": "Dizilla tüm yabancı dizileri ücretsiz olarak Türkçe Dublaj ve altyazılı seçenekleri ile 1080P kalite izleyebileceğiniz yeni nesil yabancı dizi izleme siteniz.",
     "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/Dizilla.cs3",
@@ -3108,7 +3108,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.superfilmgeldi.info&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-    "fileSize": 18232,
+    "fileSize": 18235,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3117,7 +3117,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 9,
+    "version": 10,
     "internalName": "SuperFilmGeldi",
     "description": "Hd film izliyerek arkadaşlarınızla ve sevdiklerinizle iyi bir vakit geçirmek istiyorsanız açın bir film eğlenmeye bakın. Bilim kurgu filmleri, aşk drama vahşet aşk romantik sıradışı korku filmlerini izle.",
     "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/SuperFilmGeldi.cs3",
@@ -3203,7 +3203,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=ugurfilm7.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-    "fileSize": 21008,
+    "fileSize": 21033,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3212,7 +3212,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 5,
+    "version": 6,
     "internalName": "UgurFilm",
     "description": "Yabancı film izle, Türkçe dublaj ve Türkçe altyazılı film seçenekleriyle 720p ve 1080p HD kalitesinde film izle - Uğur Film full hd film izle.",
     "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/UgurFilm.cs3",
@@ -3606,8 +3606,8 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.club&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-    "fileSize": 40276,
-    "status": 0,
+    "fileSize": 40588,
+    "status": 1,
     "language": "tr",
     "authors": [
       "PyrusDrago"
@@ -3615,7 +3615,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 28,
+    "version": 30,
     "internalName": "Dizilla",
     "description": "Dizilla tüm yabancı dizileri ücretsiz olarak Türkçe Dublaj ve altyazılı seçenekleri ile 1080P kalite izleyebileceğiniz yeni nesil yabancı dizi izleme siteniz.",
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/Dizilla.cs3",
@@ -4284,7 +4284,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.superfilmgeldi.biz&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-    "fileSize": 18187,
+    "fileSize": 18596,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -4293,7 +4293,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 10,
+    "version": 12,
     "internalName": "SuperFilmGeldi",
     "description": "Hd film izliyerek arkadaşlarınızla ve sevdiklerinizle iyi bir vakit geçirmek istiyorsanız açın bir film eğlenmeye bakın. Bilim kurgu filmleri, aşk drama vahşet aşk romantik sıradışı korku filmlerini izle.",
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/SuperFilmGeldi.cs3",
@@ -4342,7 +4342,7 @@
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ugurfilm9.com&size=128",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-    "fileSize": 20962,
+    "fileSize": 20966,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -4351,11 +4351,32 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 9,
+    "version": 10,
     "internalName": "UgurFilm",
     "description": "Yabancı film izle, Türkçe dublaj ve Türkçe altyazılı film seçenekleriyle 720p ve 1080p HD kalitesinde film izle - Uğur Film full hd film izle.",
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/UgurFilm.cs3",
     "name": "UgurFilm"
+  },
+  {
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://webdramaturkey.org/&size=40",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
+    "fileSize": 23183,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "PyrusDrago"
+    ],
+    "tvTypes": [
+      "AsianDrama",
+      "Movie",
+      "Anime"
+    ],
+    "version": 2,
+    "internalName": "WebDramaTurkey",
+    "description": "Web Drama Turkey - Kore, Çin, Japon Dizileri, Filmleri ve Animeler",
+    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/WebDramaTurkey.cs3",
+    "name": "WebDramaTurkey"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=webteizle2.com&sz=%size%",
@@ -4536,7 +4557,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
-    "fileSize": 18702,
+    "fileSize": 18683,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -4545,7 +4566,7 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 6,
+    "version": 7,
     "internalName": "CanliTV",
     "description": "Canlı TV",
     "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/CanliTV.cs3",
@@ -4823,7 +4844,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.filmmodu17.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
-    "fileSize": 14785,
+    "fileSize": 14786,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -4832,7 +4853,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 9,
+    "version": 10,
     "internalName": "FilmModu",
     "description": "Film modun geldiyse yüksek kalitede en yeni filmleri izle, 1080p izleyebileceğiniz reklamsiz film sitesi.",
     "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/FilmModu.cs3",
