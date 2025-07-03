@@ -1,4 +1,4 @@
-### Son Güncelleme: 02.07.2025 23:37
+### Son Güncelleme: 03.07.2025 23:38
 
 ### Repo Kısa Kodu: TRplugins
 
@@ -124,7 +124,7 @@
 | <img src="https://www.google.com/s2/favicons?domain=wfilmizle.my&sz=64" width="32" style="vertical-align:middle;"> | **WFilmİzle** | Film | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=watch2movies.net&sz=64" width="32" style="vertical-align:middle;"> | **Watch2Movies** | Film | 🇬🇧 [GB] |
 | <img src="https://img.watch32.sx/xxrz/400x400/100/a9/5e/a95e15a880a9df3c045f6a5224daf576/a95e15a880a9df3c045f6a5224daf576.png" width="32" style="vertical-align:middle;"> | **Watch32** | Film, Dizi | 🇬🇧 [GB] |
-| <img src="https://webdramaturkey.org/public/static/logo.webp?v=1.0.19" width="32" style="vertical-align:middle;"> | **WebDramaTurkey** | Asya Dizisi, Film, Dizi, Anime | 🇹🇷 [TR] |
+| <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://webdramaturkey.org/&size=40" width="32" style="vertical-align:middle;"> | **WebDramaTurkey** | Asya Dizisi, Film, Anime | 🇹🇷 [TR] |
 | <img src="https://webdramaturkey.org/public/static/logo.webp?v=2.1.8" width="32" style="vertical-align:middle;"> | **WebDramaTurkey - Latte** | Film, Podcast, Asya Dizisi, Anime | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=webteizle2.com&sz=64" width="32" style="vertical-align:middle;"> | **WebteIzle** | Film | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=xprime.tv&sz=64" width="32" style="vertical-align:middle;"> | **XPrime** | Film | 🇹🇷 [TR] |
