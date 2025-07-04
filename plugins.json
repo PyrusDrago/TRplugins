@@ -1908,7 +1908,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.fullhdfilmizlesene.de&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-    "fileSize": 33621,
+    "fileSize": 33617,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -2601,25 +2601,6 @@
     "name": "BelgeselX"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=%size%",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-    "fileSize": 18640,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "PyrusDrago"
-    ],
-    "tvTypes": [
-      "Live"
-    ],
-    "version": 9,
-    "internalName": "CanliTV",
-    "description": "Canlı TV",
-    "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/CanliTV.cs3",
-    "name": "CanliTV"
-  },
-  {
     "iconUrl": "https://www.google.com/s2/favicons?domain=cizgimax.online&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
@@ -2699,7 +2680,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.club&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-    "fileSize": 26681,
+    "fileSize": 26727,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -2708,7 +2689,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 28,
+    "version": 29,
     "internalName": "Dizilla",
     "description": "Dizilla tüm yabancı dizileri ücretsiz olarak Türkçe Dublaj ve altyazılı seçenekleri ile 1080P kalite izleyebileceğiniz yeni nesil yabancı dizi izleme siteniz.",
     "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/Dizilla.cs3",
@@ -2872,7 +2853,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.fullhdfilmizlesene.de&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-    "fileSize": 31295,
+    "fileSize": 33138,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -2881,7 +2862,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 21,
+    "version": 23,
     "internalName": "FullHDFilmizlesene",
     "description": "Sinema zevkini evinize kadar getirdik. Türkiye'nin lider Film sitesinde, en yeni filmleri Full HD izleyin.",
     "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/FullHDFilmizlesene.cs3",
@@ -2990,7 +2971,7 @@
     "iconUrl": "https://netfree2.cc/mobile/img/nf2/icon_x192.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-    "fileSize": 39116,
+    "fileSize": 43023,
     "status": 1,
     "language": "hi",
     "authors": [
@@ -3000,7 +2981,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 29,
+    "version": 31,
     "internalName": "NetflixMirror",
     "description": "Netflix, PrimeVideo Content in Multiple Languages",
     "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/NetflixMirror.cs3",
@@ -3146,7 +3127,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=tranimaci.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-    "fileSize": 12586,
+    "fileSize": 12611,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3155,7 +3136,7 @@
     "tvTypes": [
       "Anime"
     ],
-    "version": 16,
+    "version": 17,
     "internalName": "TRanimaci",
     "description": "TRanimeci - Türkiye'nin Online Anime izleme sitesi.",
     "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/TRanimaci.cs3",
