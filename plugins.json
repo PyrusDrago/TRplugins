@@ -31,7 +31,7 @@
     "tvTypes": [
       "Anime"
     ],
-    "version": 19,
+    "version": 20,
     "internalName": "AnimeciX",
     "description": "AnimeciX, animeleri keşfedebileceğiniz ve animeler hakkında her şeyi öğrenebileceğiniz bir paylaşım platformudur.",
     "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/AnimeciX.cs3",
@@ -1141,7 +1141,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.superfilmgeldi.info&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/maarrem/cs-Kekik",
-    "fileSize": 18278,
+    "fileSize": 18277,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -1150,7 +1150,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 8,
+    "version": 9,
     "internalName": "SuperFilmGeldi",
     "description": "Hd film izliyerek arkadaşlarınızla ve sevdiklerinizle iyi bir vakit geçirmek istiyorsanız açın bir film eğlenmeye bakın. Bilim kurgu filmleri, aşk drama vahşet aşk romantik sıradışı korku filmlerini izle.",
     "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/SuperFilmGeldi.cs3",
@@ -2661,7 +2661,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizikorea.vip&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-    "fileSize": 20350,
+    "fileSize": 20535,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -2670,7 +2670,7 @@
     "tvTypes": [
       "AsianDrama"
     ],
-    "version": 24,
+    "version": 25,
     "internalName": "DiziKorea",
     "description": "En Güncel Kore Dizileri izleme Sitesi",
     "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziKorea.cs3",
@@ -3031,7 +3031,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.setfilmizle.nl&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-    "fileSize": 19026,
+    "fileSize": 19024,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3041,7 +3041,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 20,
+    "version": 23,
     "internalName": "SetFilmIzle",
     "description": "Setfilmizle sitemizde, donma yaşamadan Türkçe dublaj ve altyazılı filmleri ile dizileri muhteşem 1080p full HD kalitesinde izleyebilirsiniz.",
     "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/SetFilmIzle.cs3",
@@ -3587,7 +3587,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.club&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-    "fileSize": 40588,
+    "fileSize": 41952,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3596,7 +3596,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 30,
+    "version": 33,
     "internalName": "Dizilla",
     "description": "Dizilla tüm yabancı dizileri ücretsiz olarak Türkçe Dublaj ve altyazılı seçenekleri ile 1080P kalite izleyebileceğiniz yeni nesil yabancı dizi izleme siteniz.",
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/Dizilla.cs3",
