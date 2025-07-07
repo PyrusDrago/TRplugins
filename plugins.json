@@ -1678,7 +1678,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.club&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-    "fileSize": 28809,
+    "fileSize": 28798,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -1687,7 +1687,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 21,
+    "version": 22,
     "internalName": "Dizilla",
     "description": "Dizilla tüm yabancı dizileri ücretsiz olarak Türkçe Dublaj ve altyazılı seçenekleri ile 1080P kalite izleyebileceğiniz yeni nesil yabancı dizi izleme siteniz.",
     "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/Dizilla.cs3",
@@ -2661,7 +2661,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizikorea.vip&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-    "fileSize": 20535,
+    "fileSize": 22753,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -2670,7 +2670,7 @@
     "tvTypes": [
       "AsianDrama"
     ],
-    "version": 25,
+    "version": 27,
     "internalName": "DiziKorea",
     "description": "En Güncel Kore Dizileri izleme Sitesi",
     "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziKorea.cs3",
@@ -2680,7 +2680,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.club&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-    "fileSize": 26727,
+    "fileSize": 26755,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -2689,7 +2689,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 29,
+    "version": 31,
     "internalName": "Dizilla",
     "description": "Dizilla tüm yabancı dizileri ücretsiz olarak Türkçe Dublaj ve altyazılı seçenekleri ile 1080P kalite izleyebileceğiniz yeni nesil yabancı dizi izleme siteniz.",
     "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/Dizilla.cs3",
@@ -2913,7 +2913,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://jetfilmizle.de&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-    "fileSize": 13680,
+    "fileSize": 16422,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -2922,7 +2922,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 37,
+    "version": 38,
     "internalName": "JetFilmizle",
     "description": "Binlerce Film İzleme Seçeneğiyle En İyi Film İzleme Sitesi",
     "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/JetFilmizle.cs3",
@@ -3433,7 +3433,7 @@
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.birasyadizi.com/&size=16",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-    "fileSize": 12987,
+    "fileSize": 13045,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3442,7 +3442,7 @@
     "tvTypes": [
       "AsianDrama"
     ],
-    "version": 3,
+    "version": 4,
     "internalName": "BirAsyaDizi",
     "description": "Asya'nın En Ünlü Dizilerini en yüksek çözünürlükte HD ve kesintisiz izleyin, kaliteli Asya film ve dizilerinin keyfini sürün.",
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/BirAsyaDizi.cs3",
@@ -3683,7 +3683,7 @@
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal932.com&size=128",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-    "fileSize": 39830,
+    "fileSize": 40005,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3692,7 +3692,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 10,
+    "version": 12,
     "internalName": "DiziPalOrijinal",
     "description": "DiziPal Orijinal.",
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/DiziPalOrijinal.cs3",
