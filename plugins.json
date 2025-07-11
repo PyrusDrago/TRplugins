@@ -3357,7 +3357,7 @@
     "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQLGJxL_3l-lZofrxkC-vpKFzHzyKW-Z0lYg&s",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-    "fileSize": 26789,
+    "fileSize": 26823,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3366,7 +3366,7 @@
     "tvTypes": [
       "Anime"
     ],
-    "version": 20,
+    "version": 21,
     "internalName": "Anizm",
     "description": "Türkçe Altyazılı Anime İzle.",
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/Anizm.cs3",
@@ -3838,7 +3838,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=filmmakinesi.film&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-    "fileSize": 14797,
+    "fileSize": 15633,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3847,7 +3847,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 14,
+    "version": 15,
     "internalName": "FilmMakinesi",
     "description": "Film Makinesi, en yeni ve en güncel filmleri sitemizde full HD kalite farkı ile izleyebilirsiniz. HD film izle denildiğinde akla gelen en kaliteli film izleme sitesi.",
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/FilmMakinesi.cs3",
@@ -3972,7 +3972,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-    "fileSize": 24500,
+    "fileSize": 26123,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3982,7 +3982,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 27,
+    "version": 28,
     "internalName": "HDFilmCehennemi",
     "description": "Türkiye'nin en hızlı hd film izleme sitesi",
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/HDFilmCehennemi.cs3",
