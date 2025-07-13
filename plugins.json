@@ -3357,7 +3357,7 @@
     "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQLGJxL_3l-lZofrxkC-vpKFzHzyKW-Z0lYg&s",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-    "fileSize": 26823,
+    "fileSize": 26796,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3366,7 +3366,7 @@
     "tvTypes": [
       "Anime"
     ],
-    "version": 21,
+    "version": 22,
     "internalName": "Anizm",
     "description": "Türkçe Altyazılı Anime İzle.",
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/Anizm.cs3",
@@ -3780,7 +3780,7 @@
     "iconUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRbK_Pe3vpG-yUVt1NvckDpaD6COLDitImrBUnHfAVA4fawhijE",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-    "fileSize": 16682,
+    "fileSize": 16689,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3790,7 +3790,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 8,
+    "version": 9,
     "internalName": "FilmHane",
     "description": "Son çıkan en yeni filmleri türkçe dublaj ve türkçe altyazılı dil seçenekleriyle Full HD (1080p) kalitelerinde film izle.",
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/FilmHane.cs3",
@@ -3800,7 +3800,7 @@
     "iconUrl": "https://filmizle.cx/favicon.ico",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-    "fileSize": 21924,
+    "fileSize": 21918,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3809,7 +3809,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 5,
+    "version": 7,
     "internalName": "FilmIzle",
     "description": "Filmizle ile Full HD Film izle. Yerli ve yabancı filmleri Türkçe dublaj veya Alt yazılı seçeneğiyle kesintisiz ve sorunsuz en hızlı film sitesi.",
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/FilmIzle.cs3",
