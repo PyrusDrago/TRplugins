@@ -1735,7 +1735,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal683.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-    "fileSize": 18746,
+    "fileSize": 18745,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -2718,7 +2718,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal952.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-    "fileSize": 19438,
+    "fileSize": 19436,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -2728,7 +2728,7 @@
       "TvSeries",
       "Movie"
     ],
-    "version": 15,
+    "version": 16,
     "internalName": "DiziPal",
     "description": "en yeni dizileri güvenli ve hızlı şekilde sunar.",
     "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziPal.cs3",
@@ -3673,7 +3673,7 @@
       "TvSeries",
       "Movie"
     ],
-    "version": 33,
+    "version": 34,
     "internalName": "DiziPal",
     "description": "en yeni dizileri güvenli ve hızlı şekilde sunar.",
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/DiziPal.cs3",
@@ -4481,7 +4481,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=animecix.net&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
-    "fileSize": 23054,
+    "fileSize": 23052,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -4490,7 +4490,7 @@
     "tvTypes": [
       "Anime"
     ],
-    "version": 10,
+    "version": 11,
     "internalName": "AnimeciX",
     "description": "AnimeciX, animeleri keşfedebileceğiniz ve animeler hakkında her şeyi öğrenebileceğiniz bir paylaşım platformudur.",
     "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/AnimeciX.cs3",
@@ -5155,7 +5155,7 @@
     "iconUrl": "https://rectvapk.cc/wp-content/uploads/2023/02/Rec-TV.webp",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
-    "fileSize": 20990,
+    "fileSize": 20989,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -5166,7 +5166,7 @@
       "Live",
       "TvSeries"
     ],
-    "version": 76,
+    "version": 77,
     "internalName": "RecTV",
     "description": "RecTv APK, Türkiye’deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
     "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/RecTV.cs3",
@@ -5274,7 +5274,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.superfilmgeldi.biz&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
-    "fileSize": 18302,
+    "fileSize": 18301,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -5283,7 +5283,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 7,
+    "version": 8,
     "internalName": "SuperFilmGeldi",
     "description": "Hd film izliyerek arkadaşlarınızla ve sevdiklerinizle iyi bir vakit geçirmek istiyorsanız açın bir film eğlenmeye bakın. Bilim kurgu filmleri, aşk drama vahşet aşk romantik sıradışı korku filmlerini izle.",
     "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/SuperFilmGeldi.cs3",
