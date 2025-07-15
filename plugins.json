@@ -2795,7 +2795,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=filmmakinesi.film&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-    "fileSize": 16599,
+    "fileSize": 17376,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -2872,7 +2872,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-    "fileSize": 25082,
+    "fileSize": 25309,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -2882,7 +2882,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 17,
+    "version": 18,
     "internalName": "HDFilmCehennemi",
     "description": "Türkiye'nin en hızlı hd film izleme sitesi",
     "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/HDFilmCehennemi.cs3",
@@ -3411,6 +3411,44 @@
     "name": "AsyaFanatiklerim"
   },
   {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.asyaking.com&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
+    "fileSize": 15426,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "PyrusDrago"
+    ],
+    "tvTypes": [
+      "AsianDrama"
+    ],
+    "version": 1,
+    "internalName": "AsyaKing",
+    "description": "Asya Dizi İzle, kore dizi izle, çin dizi izle, bl dizileri izle denilince akla gelen ilk site ; 1080p fullhd türkçe altyazılı olarak izleyin.",
+    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/AsyaKing.cs3",
+    "name": "AsyaKing"
+  },
+  {
+    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://asyaminik.com/&size=128",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
+    "fileSize": 13861,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "PyrusDrago"
+    ],
+    "tvTypes": [
+      "AsianDrama"
+    ],
+    "version": 2,
+    "internalName": "AsyaMinik",
+    "description": "Asyaminik - En Güncel Asya Dizileri Burada!",
+    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/AsyaMinik.cs3",
+    "name": "AsyaMinik"
+  },
+  {
     "iconUrl": "https://www.google.com/s2/favicons?domain=belgeselx.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
@@ -3487,6 +3525,47 @@
     "name": "CizgiveDizi"
   },
   {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=diziasia.com&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
+    "fileSize": 15948,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "PyrusDrago"
+    ],
+    "tvTypes": [
+      "Movie",
+      "AsianDrama"
+    ],
+    "version": 1,
+    "internalName": "DiziAsia",
+    "description": "DiziAsia - Asya Dizileri İzle",
+    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/DiziAsia.cs3",
+    "name": "DiziAsia"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.diziasya.com/&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
+    "fileSize": 27124,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "PyrusDrago"
+    ],
+    "tvTypes": [
+      "AsianDrama",
+      "Movie",
+      "Anime"
+    ],
+    "version": 2,
+    "internalName": "DiziAsya",
+    "description": "Asya'nın en iyi Çin ve Kore dizilerini ve filmlerini keşfedin! Romantizm, dram, aksiyon... Diziasya ile Asya kültürüne hemen adım atın!",
+    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/DiziAsya.cs3",
+    "name": "DiziAsya"
+  },
+  {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizibox.de&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
@@ -3504,6 +3583,26 @@
     "description": "Yabancı Dizi izle, Tüm yabancı dizilerin yeni ve eski sezonlarını full hd izleyebileceğiniz elit site.",
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/DiziBox.cs3",
     "name": "DiziBox"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=dizican.tv&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
+    "fileSize": 14927,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "PyrusDrago"
+    ],
+    "tvTypes": [
+      "Movie",
+      "AsianDrama"
+    ],
+    "version": 1,
+    "internalName": "Dizican",
+    "description": "DiziCan TV'de en popüler Kore, Çin ve Asya dizilerini keşfet! Güncel bölümler, kaliteli altyazılar ve sınırsız dizi keyfi seni bekliyor.",
+    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/Dizican.cs3",
+    "name": "Dizican"
   },
   {
     "iconUrl": "https://dizifun2.com/images/data/favicon.png",
@@ -3546,21 +3645,22 @@
     "name": "DiziGom"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizikorea.vip&sz=%size%",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=dizikorea.pw&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-    "fileSize": 21137,
+    "fileSize": 29232,
     "status": 1,
     "language": "tr",
     "authors": [
       "PyrusDrago"
     ],
     "tvTypes": [
-      "AsianDrama"
+      "AsianDrama",
+      "Movie"
     ],
-    "version": 9,
+    "version": 6,
     "internalName": "DiziKorea",
-    "description": "En Güncel Kore Dizileri izleme Sitesi",
+    "description": "Kore Dizileri izle, Dizikorea size en yeni ve güncel romantik komedi, okul tarzında ki Kore Asya Dizilerini Full HD Türkçe Altyazılı izleme şansı verir.",
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/DiziKorea.cs3",
     "name": "DiziKorea"
   },
@@ -4420,10 +4520,10 @@
     "name": "YTS"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=dizipal953.com&sz=32",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=dizipal954.com&sz=32",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/sarapcanagii/Pitipitii",
-    "fileSize": 20060,
+    "fileSize": 20061,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -4433,7 +4533,7 @@
       "TvSeries",
       "Movie"
     ],
-    "version": 33,
+    "version": 34,
     "internalName": "DiziPal",
     "description": "En yeni dizileri güvenli ve hızlı şekilde sunar.",
     "url": "https://raw.githubusercontent.com/sarapcanagii/Pitipitii/builds/DiziPal.cs3",
