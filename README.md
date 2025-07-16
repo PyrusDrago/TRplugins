@@ -1,8 +1,8 @@
-### Son Güncelleme: 15.07.2025 23:42
+### Son Güncelleme: 16.07.2025 23:41
 
 ### Repo Kısa Kodu: TRplugins
 
-### Toplam Eklenti Sayısı: 126
+### Toplam Eklenti Sayısı: 131
 
 ---
 
@@ -26,6 +26,8 @@
 | <img src="https://asyaanimeleri.top/wp-content/uploads/2021/08/Asya-animeleri-12-e1629130525708.png" width="32" style="vertical-align:middle;"> | **AsyaAnimeleri** | Anime | 🇹🇷 [TR] |
 | <img src="https://asyafanatiklerim.com/wp-content/uploads/2018/08/md_5aaeb1de75bea.png" width="32" style="vertical-align:middle;"> | **AsyaFanatiklerim** | Asya Dizisi | 🇹🇷 [TR] |
 | <img src="https://asyafilmizlesene.org/wp-content/uploads/2022/09/rsm.png" width="32" style="vertical-align:middle;"> | **AsyaFilmIzlesene** | Film | 🇹🇷 [TR] |
+| <img src="https://www.google.com/s2/favicons?domain=www.asyaking.com&sz=64" width="32" style="vertical-align:middle;"> | **AsyaKing** | Asya Dizisi | 🇹🇷 [TR] |
+| <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://asyaminik.com/&size=128" width="32" style="vertical-align:middle;"> | **AsyaMinik** | Asya Dizisi | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=asyawatch.com&sz=64" width="32" style="vertical-align:middle;"> | **AsyaWatch** | Film, Dizi | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=belgeselx.com&sz=64" width="32" style="vertical-align:middle;"> | **BelgeselX** | Belgesel | 🇹🇷 [TR] |
 | <img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.birasyadizi.com/&size=16" width="32" style="vertical-align:middle;"> | **BirAsyaDizi** | Asya Dizisi | 🇹🇷 [TR] |
@@ -42,6 +44,8 @@
 | <img src="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive.png" width="32" style="vertical-align:middle;"> | **DaddyLive Spor (Açık) - Latte** | Canlı TV | 🇹🇷 [TR] |
 | <img src="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-vpn.png" width="32" style="vertical-align:middle;"> | **DaddyLive Spor (VPN) - Latte** | Canlı TV | 🇹🇷 [TR] |
 | <img src="https://www.ddizi.im/favicon.ico" width="32" style="vertical-align:middle;"> | **Ddizi** | Dizi | 🇹🇷 [TR] |
+| <img src="https://www.google.com/s2/favicons?domain=diziasia.com&sz=64" width="32" style="vertical-align:middle;"> | **DiziAsia** | Film, Asya Dizisi | 🇹🇷 [TR] |
+| <img src="https://www.google.com/s2/favicons?domain=https://www.diziasya.com/&sz=64" width="32" style="vertical-align:middle;"> | **DiziAsya** | Asya Dizisi, Film, Anime | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=www.dizibox.live&sz=64" width="32" style="vertical-align:middle;"> | **DiziBox** | Dizi | 🇹🇷 [TR] |
 | <img src="https://dizifun2.com/images/data/favicon.png" width="32" style="vertical-align:middle;"> | **DiziFun** | Dizi, Film | 🇹🇷 [TR] |
 | <img src="https://dizifun3.com/images/data/darklogo.png" width="32" style="vertical-align:middle;"> | **DiziFun - Latte** | Dizi, Film | 🇹🇷 [TR] |
@@ -55,6 +59,7 @@
 | <img src="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal932.com&size=128" width="32" style="vertical-align:middle;"> | **DiziPalOrijinal** | Dizi | 🇹🇷 [TR] |
 | <img src="https://www.diziyo.de/wp-content/uploads/2019/11/favicon-150x150.ico" width="32" style="vertical-align:middle;"> | **DiziYo** | Dizi, Film, Anime | 🇹🇷 [TR] |
 | <img src="https://cdn.diziyou6.com/wp-content/uploads/2020/04/diziyou-favicon.png" width="32" style="vertical-align:middle;"> | **DiziYou** | Dizi | 🇹🇷 [TR] |
+| <img src="https://www.google.com/s2/favicons?domain=dizican.tv&sz=64" width="32" style="vertical-align:middle;"> | **Dizican** | Film, Asya Dizisi | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=dizilla.club&sz=64" width="32" style="vertical-align:middle;"> | **Dizilla** | Dizi | 🇹🇷 [TR] |
 | <img src="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizist.club/&size=128" width="32" style="vertical-align:middle;"> | **Dizist** | Dizi | 🇹🇷 [TR] |
 | <img src="https://raw.githubusercontent.com/Kohi-den/extensions-source/927f9c68fd64ce52f6212ae633d0f0585eca3545/src/en/donghuastream/res/mipmap-xxxhdpi/ic_launcher.png" width="32" style="vertical-align:middle;"> | **Donghuastream** | Anime | 🇨🇳 [CN] |
