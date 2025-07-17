@@ -1735,7 +1735,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal683.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-    "fileSize": 18745,
+    "fileSize": 18746,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -1745,7 +1745,7 @@
       "TvSeries",
       "Movie"
     ],
-    "version": 33,
+    "version": 34,
     "internalName": "DiziPal",
     "description": "en yeni dizileri güvenli ve hızlı şekilde sunar.",
     "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/DiziPal.cs3",
@@ -1831,7 +1831,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=filmmakinesi.film&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-    "fileSize": 22171,
+    "fileSize": 22178,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -1840,7 +1840,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 13,
+    "version": 14,
     "internalName": "FilmMakinesi",
     "description": "Film Makinesi, en yeni ve en güncel filmleri sitemizde full HD kalite farkı ile izleyebilirsiniz. HD film izle denildiğinde akla gelen en kaliteli film izleme sitesi.",
     "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/FilmMakinesi.cs3",
@@ -1927,7 +1927,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-    "fileSize": 26436,
+    "fileSize": 26454,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -1937,7 +1937,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 25,
+    "version": 26,
     "internalName": "HDFilmCehennemi",
     "description": "Türkiye'nin en hızlı hd film izleme sitesi",
     "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/HDFilmCehennemi.cs3",
@@ -2795,7 +2795,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=filmmakinesi.film&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-    "fileSize": 17376,
+    "fileSize": 17392,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -2804,7 +2804,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 21,
+    "version": 22,
     "internalName": "FilmMakinesi",
     "description": "Film Makinesi, en yeni ve en güncel filmleri sitemizde full HD kalite farkı ile izleyebilirsiniz. HD film izle denildiğinde akla gelen en kaliteli film izleme sitesi.",
     "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/FilmMakinesi.cs3",
@@ -2872,7 +2872,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-    "fileSize": 25309,
+    "fileSize": 25349,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -2882,7 +2882,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 18,
+    "version": 19,
     "internalName": "HDFilmCehennemi",
     "description": "Türkiye'nin en hızlı hd film izleme sitesi",
     "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/HDFilmCehennemi.cs3",
@@ -3241,7 +3241,7 @@
     "iconUrl": "https://www.4kfilmizleme.net/wp-content/uploads/2022/09/4kfilmizlemefavicon-1.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-    "fileSize": 30352,
+    "fileSize": 34882,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3250,7 +3250,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 17,
+    "version": 18,
     "internalName": "4KFilmIzleme",
     "description": "Film izle, ⚡ En yeni çıkan yabancı vizyon filmleri 4KFilmizleme ile Online 1080p kalite veya Ultra Full HD 4K Film izle.",
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/4KFilmIzleme.cs3",
@@ -3490,7 +3490,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=cizgimax.online&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-    "fileSize": 21731,
+    "fileSize": 24729,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3499,7 +3499,7 @@
     "tvTypes": [
       "Cartoon"
     ],
-    "version": 9,
+    "version": 10,
     "internalName": "CizgiMax",
     "description": "ÇizgiMax ile Çizgi Film izlemek artık daha kolay, donmadan full hd ve reklamsız bir sitedir, içerisinde 700 den fazla çizgi film olan, Bu site bu işi profesyonelce yapıyor.",
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/CizgiMax.cs3",
@@ -4265,6 +4265,26 @@
     "name": "RoketDizi"
   },
   {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=seicode.net&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
+    "fileSize": 19842,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "PyrusDrago"
+    ],
+    "tvTypes": [
+      "Anime",
+      "Movie"
+    ],
+    "version": 1,
+    "internalName": "SeiCode",
+    "description": "Seicode ile en yeni animeler keşfedin!",
+    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/SeiCode.cs3",
+    "name": "SeiCode"
+  },
+  {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.setfilmizle.de&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
@@ -4439,6 +4459,26 @@
     "name": "UgurFilm"
   },
   {
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://unutulmazfilmler4.com/&size=64",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
+    "fileSize": 38241,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "PyrusDrago"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": 2,
+    "internalName": "UnutulmazFilmler",
+    "description": "Yıllar geçse bile izledikten sonraki etkisi hala süren o unutulmaz filmleri sizler için derliyoruz. Altyazılı film izle. Sadece En iyi filmler.",
+    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/UnutulmazFilmler.cs3",
+    "name": "UnutulmazFilmler"
+  },
+  {
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://webdramaturkey.org/&size=40",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
@@ -4496,6 +4536,25 @@
     "description": "Son çıkan yabancı dizi ve filmleri yabancidizi' de izle. En yeni yabancı film ve diziler, türkçe altyazılı yada dublaj olarak 1080p kalitesinde hd izle.",
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/YabanciDizi.cs3",
     "name": "YabanciDizi"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=yeniwatch.net.tr&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
+    "fileSize": 15343,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "PyrusDrago"
+    ],
+    "tvTypes": [
+      "Anime"
+    ],
+    "version": 4,
+    "internalName": "YeniWatch",
+    "description": "Yeni diziwatch yani Yeniwatch. Yabancı dizi izle, anime izle, en popüler yabancı dizileri ve animeleri ücretsiz olarak yeniwatch.net.tr'te izleyin.",
+    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/YeniWatch.cs3",
+    "name": "YeniWatch"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/main/yts.png",
