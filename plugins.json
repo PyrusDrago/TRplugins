@@ -2680,7 +2680,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.club&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-    "fileSize": 26755,
+    "fileSize": 26757,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -2689,7 +2689,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 31,
+    "version": 32,
     "internalName": "Dizilla",
     "description": "Dizilla tüm yabancı dizileri ücretsiz olarak Türkçe Dublaj ve altyazılı seçenekleri ile 1080P kalite izleyebileceğiniz yeni nesil yabancı dizi izleme siteniz.",
     "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/Dizilla.cs3",
@@ -2738,7 +2738,7 @@
     "iconUrl": "https://cdn.diziyou6.com/wp-content/uploads/2020/04/diziyou-favicon.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-    "fileSize": 15796,
+    "fileSize": 15799,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -2747,7 +2747,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 12,
+    "version": 13,
     "internalName": "DiziYou",
     "description": "Diziyou en kaliteli Türkçe dublaj ve altyazılı yabancı dizi izleme sitesidir. Güncel ve efsanevi dizileri 1080p Full HD kalitede izlemek için hemen tıkla!",
     "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziYou.cs3",
@@ -3070,7 +3070,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.sinema.cx&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-    "fileSize": 14691,
+    "fileSize": 14689,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3079,7 +3079,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 10,
+    "version": 11,
     "internalName": "SinemaCX",
     "description": "Güncel ve en iyi yabancı filmleri yüksek görüntü kalitesinde, Türkçe dublaj ve altyazı seçenekleriyle filmleri full izleyin.",
     "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/SinemaCX.cs3",
@@ -3414,7 +3414,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.asyaking.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-    "fileSize": 15426,
+    "fileSize": 15574,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3423,7 +3423,7 @@
     "tvTypes": [
       "AsianDrama"
     ],
-    "version": 1,
+    "version": 2,
     "internalName": "AsyaKing",
     "description": "Asya Dizi İzle, kore dizi izle, çin dizi izle, bl dizileri izle denilince akla gelen ilk site ; 1080p fullhd türkçe altyazılı olarak izleyin.",
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/AsyaKing.cs3",
@@ -3528,7 +3528,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=diziasia.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-    "fileSize": 15948,
+    "fileSize": 16143,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3538,7 +3538,7 @@
       "Movie",
       "AsianDrama"
     ],
-    "version": 1,
+    "version": 2,
     "internalName": "DiziAsia",
     "description": "DiziAsia - Asya Dizileri İzle",
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/DiziAsia.cs3",
@@ -3548,7 +3548,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.diziasya.com/&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-    "fileSize": 27124,
+    "fileSize": 27469,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3559,7 +3559,7 @@
       "Movie",
       "Anime"
     ],
-    "version": 2,
+    "version": 3,
     "internalName": "DiziAsya",
     "description": "Asya'nın en iyi Çin ve Kore dizilerini ve filmlerini keşfedin! Romantizm, dram, aksiyon... Diziasya ile Asya kültürüne hemen adım atın!",
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/DiziAsya.cs3",
@@ -3588,7 +3588,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizican.tv&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-    "fileSize": 14927,
+    "fileSize": 15289,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3598,7 +3598,7 @@
       "Movie",
       "AsianDrama"
     ],
-    "version": 1,
+    "version": 2,
     "internalName": "Dizican",
     "description": "DiziCan TV'de en popüler Kore, Çin ve Asya dizilerini keşfet! Güncel bölümler, kaliteli altyazılar ve sınırsız dizi keyfi seni bekliyor.",
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/Dizican.cs3",
@@ -3687,7 +3687,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.club&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-    "fileSize": 41952,
+    "fileSize": 42263,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3696,7 +3696,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 33,
+    "version": 36,
     "internalName": "Dizilla",
     "description": "Dizilla tüm yabancı dizileri ücretsiz olarak Türkçe Dublaj ve altyazılı seçenekleri ile 1080P kalite izleyebileceğiniz yeni nesil yabancı dizi izleme siteniz.",
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/Dizilla.cs3",
@@ -3792,7 +3792,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 14,
+    "version": 15,
     "internalName": "DiziPalOrijinal",
     "description": "DiziPal Orijinal.",
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/DiziPalOrijinal.cs3",
@@ -3842,7 +3842,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.diziyou.co&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-    "fileSize": 13826,
+    "fileSize": 13822,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3851,7 +3851,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 13,
+    "version": 14,
     "internalName": "DiziYou",
     "description": "Diziyou en kaliteli Türkçe dublaj ve altyazılı yabancı dizi izleme sitesidir. Güncel ve efsanevi dizileri 1080p Full HD kalitede izlemek için hemen tıkla!",
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/DiziYou.cs3",
@@ -4347,7 +4347,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.sinema.cx&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-    "fileSize": 13918,
+    "fileSize": 13917,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -4356,7 +4356,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 7,
+    "version": 8,
     "internalName": "SinemaCX",
     "description": "Güncel ve en iyi yabancı filmleri yüksek görüntü kalitesinde, Türkçe dublaj ve altyazı seçenekleriyle filmleri full izleyin.",
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/SinemaCX.cs3",
