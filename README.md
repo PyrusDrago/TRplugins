@@ -1,8 +1,8 @@
-### Son Güncelleme: 17.07.2025 23:41
+### Son Güncelleme: 18.07.2025 23:40
 
 ### Repo Kısa Kodu: TRplugins
 
-### Toplam Eklenti Sayısı: 131
+### Toplam Eklenti Sayısı: 134
 
 ---
 
@@ -100,6 +100,7 @@
 | <img src="https://www.google.com/s2/favicons?domain=rarefilmm.com&sz=64" width="32" style="vertical-align:middle;"> | **RareFilmm** | Film | 🇬🇧 [GB] |
 | <img src="https://rectvapp.com.tr/wp-content/uploads/2024/08/cropped-cropped-Screenshot_2023-08-31_at_11.02.55_PM-removebg-preview-32x32.webp" width="32" style="vertical-align:middle;"> | **RecTV** | Film, Canlı TV, Dizi | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=roketdizi.co&sz=64" width="32" style="vertical-align:middle;"> | **RoketDizi** | Dizi | 🇹🇷 [TR] |
+| <img src="https://www.google.com/s2/favicons?domain=seicode.net&sz=64" width="32" style="vertical-align:middle;"> | **SeiCode** | Anime, Film | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=selcukflix.com&sz=64" width="32" style="vertical-align:middle;"> | **SelcukFlix** | Film, Dizi | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=www.setfilmizle.nl&sz=64" width="32" style="vertical-align:middle;"> | **SetFilmIzle** | Film, Dizi | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=sezonlukdizi6.com&sz=64" width="32" style="vertical-align:middle;"> | **SezonlukDizi** | Dizi | 🇹🇷 [TR] |
@@ -124,6 +125,7 @@
 | <img src="https://www.google.com/s2/favicons?domain=tvdiziler.cc&sz=64" width="32" style="vertical-align:middle;"> | **TvDiziler** | Dizi | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=twitch.tv&sz=64" width="32" style="vertical-align:middle;"> | **Twitch** | Canlı TV | 🏴‍☠️ |
 | <img src="https://www.google.com/s2/favicons?domain=ugurfilm7.com&sz=64" width="32" style="vertical-align:middle;"> | **UgurFilm** | Film | 🇹🇷 [TR] |
+| <img src="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://unutulmazfilmler4.com/&size=64" width="32" style="vertical-align:middle;"> | **UnutulmazFilmler** | Film, Dizi | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=vavoo.to&sz=64" width="32" style="vertical-align:middle;"> | **Vavoo** | Canlı TV | 🇹🇷 [TR] |
 | <img src="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" width="32" style="vertical-align:middle;"> | **Vavoo Türkiye (Açık) - Latte** | Canlı TV | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=wfilmizle.my&sz=64" width="32" style="vertical-align:middle;"> | **WFilmİzle** | Film | 🇹🇷 [TR] |
@@ -135,6 +137,7 @@
 | <img src="https://www.google.com/s2/favicons?domain=xprime.tv&sz=64" width="32" style="vertical-align:middle;"> | **XPrime** | Film | 🇹🇷 [TR] |
 | <img src="https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/yts.png" width="32" style="vertical-align:middle;"> | **YTS** | Film, Torrent | 🇬🇧 [GB] |
 | <img src="https://www.google.com/s2/favicons?domain=yabancidizi.tv&sz=64" width="32" style="vertical-align:middle;"> | **YabanciDizi** | Dizi | 🇹🇷 [TR] |
+| <img src="https://www.google.com/s2/favicons?domain=yeniwatch.net.tr&sz=64" width="32" style="vertical-align:middle;"> | **YeniWatch** | Anime | 🇹🇷 [TR] |
 | <img src="https://png.pngtree.com/png-clipart/20220823/ourmid/pngtree-turkey-country-flag-pin-icon-png-image_6120061.png" width="32" style="vertical-align:middle;"> | **YerelDiziler** | Tv series | 🇹🇷 [TR] |
 | <img src="https://png.pngtree.com/png-clipart/20220823/ourmid/pngtree-turkey-country-flag-pin-icon-png-image_6120061.png" width="32" style="vertical-align:middle;"> | **YerelProgramlar** | Tv series | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=youtube.com&sz=64" width="32" style="vertical-align:middle;"> | **YouTube** | Diğer | 🇹🇷 [TR] |
