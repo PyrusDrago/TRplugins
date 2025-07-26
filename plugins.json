@@ -1697,7 +1697,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizimag.net&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-    "fileSize": 26513,
+    "fileSize": 26506,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -1706,7 +1706,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 11,
+    "version": 12,
     "internalName": "DiziMag",
     "description": "En son çıkan yabancı dizi ve filmleri DiziMag farkıyla full hd 1080p kalitede izle. Dizimag Geniş ve güncel arşiviyle dizi ve filmlerin tadını çıkartın.",
     "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/DiziMag.cs3",
@@ -1764,7 +1764,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 14,
+    "version": 15,
     "internalName": "DiziYou",
     "description": "Diziyou en kaliteli Türkçe dublaj ve altyazılı yabancı dizi izleme sitesidir. Güncel ve efsanevi dizileri 1080p Full HD kalitede izlemek için hemen tıkla!",
     "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/DiziYou.cs3",
@@ -2413,7 +2413,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=webteizle2.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-    "fileSize": 27053,
+    "fileSize": 27050,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -2422,7 +2422,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 43,
+    "version": 44,
     "internalName": "WebteIzle",
     "description": "Her türlü filmi ister dublaj ister altyazılı, en kaliteli bir şekilde izleyebileceğiniz arşivi en geniş gerçek film izleme siteniz.",
     "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/WebteIzle.cs3",
@@ -2661,7 +2661,7 @@
     "iconUrl": "https://cdn.diziyou6.com/wp-content/uploads/2020/04/diziyou-favicon.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-    "fileSize": 15794,
+    "fileSize": 15797,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -2670,7 +2670,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 14,
+    "version": 15,
     "internalName": "DiziYou",
     "description": "Diziyou en kaliteli Türkçe dublaj ve altyazılı yabancı dizi izleme sitesidir. Güncel ve efsanevi dizileri 1080p Full HD kalitede izlemek için hemen tıkla!",
     "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziYou.cs3",
@@ -2718,7 +2718,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=filmmakinesi.film&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-    "fileSize": 17517,
+    "fileSize": 17549,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -2727,7 +2727,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 23,
+    "version": 24,
     "internalName": "FilmMakinesi",
     "description": "Film Makinesi, en yeni ve en güncel filmleri sitemizde full HD kalite farkı ile izleyebilirsiniz. HD film izle denildiğinde akla gelen en kaliteli film izleme sitesi.",
     "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/FilmMakinesi.cs3",
@@ -2795,7 +2795,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-    "fileSize": 25409,
+    "fileSize": 25424,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -2805,7 +2805,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 20,
+    "version": 21,
     "internalName": "HDFilmCehennemi",
     "description": "Türkiye'nin en hızlı hd film izleme sitesi",
     "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/HDFilmCehennemi.cs3",
@@ -3629,7 +3629,7 @@
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizimag.pro&size=32",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-    "fileSize": 29638,
+    "fileSize": 29636,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3638,7 +3638,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 17,
+    "version": 18,
     "internalName": "DiziMag",
     "description": "En son çıkan yabancı dizi ve filmleri DiziMag farkıyla full hd 1080p kalitede izle. Dizimag Geniş ve güncel arşiviyle dizi ve filmlerin tadını çıkartın.",
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/DiziMag.cs3",
@@ -3648,7 +3648,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizimom.tv&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-    "fileSize": 29802,
+    "fileSize": 29793,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3657,7 +3657,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 17,
+    "version": 18,
     "internalName": "DiziMom",
     "description": "Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/DiziMom.cs3",
@@ -3706,7 +3706,7 @@
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal932.com&size=128",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-    "fileSize": 41288,
+    "fileSize": 41289,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3715,7 +3715,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 22,
+    "version": 23,
     "internalName": "DiziPalOrijinal",
     "description": "DiziPal Orijinal.",
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/DiziPalOrijinal.cs3",
@@ -3765,7 +3765,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.diziyou.co&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-    "fileSize": 13879,
+    "fileSize": 13882,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3774,7 +3774,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 18,
+    "version": 19,
     "internalName": "DiziYou",
     "description": "Diziyou en kaliteli Türkçe dublaj ve altyazılı yabancı dizi izleme sitesidir. Güncel ve efsanevi dizileri 1080p Full HD kalitede izlemek için hemen tıkla!",
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/DiziYou.cs3",
