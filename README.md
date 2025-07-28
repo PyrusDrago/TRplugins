@@ -1,8 +1,8 @@
-### Son Güncelleme: 27.07.2025 23:39
+### Son Güncelleme: 28.07.2025 23:13
 
 ### Repo Kısa Kodu: TRplugins
 
-### Toplam Eklenti Sayısı: 134
+### Toplam Eklenti Sayısı: 135
 
 ---
 
@@ -85,6 +85,7 @@
 | <img src="https://www.google.com/s2/favicons?domain=hdfilmizle.to&sz=64" width="32" style="vertical-align:middle;"> | **HDFilmIzle** | Film, Dizi | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=hdfilmsitesi.net&sz=64" width="32" style="vertical-align:middle;"> | **HDFilmSitesi** | Film | 🇹🇷 [TR] |
 | <img src="https://hdfilmcehennemi2.rip/wp-content/uploads/2023/07/favi.png" width="32" style="vertical-align:middle;"> | **HdFilmCehennemi2** | Film | 🇹🇷 [TR] |
+| <img src="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://hintdizi.com&size=128" width="32" style="vertical-align:middle;"> | **HintDizi** | Asya Dizisi | 🇹🇷 [TR] |
 | <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vCp6N1K4bECoYRQD-cisJF2_6V_Hk01ZhDmoPR2JuM8O5qr4MqrPO1munM9cRlleBBSK6odYhLtDBWv4E3vhPhynlmS5hVVtJZShHoGA5REQ8_3v8SIlccTEqzVQu2UJyNYQdJNrKIfWy66RQeT0D-CcmFCbHPz5023H6p2v5fv4NVloZ5Rqo_yGrIY/s320/iNat-Box-App.png" width="32" style="vertical-align:middle;"> | **InatBox** | Film, Dizi, Canlı TV | 🇹🇷 [TR] |
 | <img src="https://iptvplay.stream/favicon.ico" width="32" style="vertical-align:middle;"> | **IpTvPlayStream** | Canlı TV | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=720pizle.ai&sz=64" width="32" style="vertical-align:middle;"> | **IzleAI** | Film | 🇹🇷 [TR] |
