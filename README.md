@@ -1,4 +1,4 @@
-### Son Güncelleme: 29.07.2025 23:13
+### Son Güncelleme: 30.07.2025 23:11
 
 ### Repo Kısa Kodu: TRplugins
 
@@ -25,7 +25,7 @@
 | <img src="https://anizm.net/upload/assets/favicon.ico" width="32" style="vertical-align:middle;"> | **Anizm** | Anime | 🇹🇷 [TR] |
 | <img src="https://asyaanimeleri.top/wp-content/uploads/2021/08/Asya-animeleri-12-e1629130525708.png" width="32" style="vertical-align:middle;"> | **AsyaAnimeleri** | Anime | 🇹🇷 [TR] |
 | <img src="https://asyafanatiklerim.com/wp-content/uploads/2018/08/md_5aaeb1de75bea.png" width="32" style="vertical-align:middle;"> | **AsyaFanatiklerim** | Asya Dizisi | 🇹🇷 [TR] |
-| <img src="https://asyafilmizlesene.org/wp-content/uploads/2022/09/rsm.png" width="32" style="vertical-align:middle;"> | **AsyaFilmIzlesene** | Film | 🇹🇷 [TR] |
+| <img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://asyafilmizlesene.org&size=128" width="32" style="vertical-align:middle;"> | **AsyaFilmIzlesene** | Asya Dizisi | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=www.asyaking.com&sz=64" width="32" style="vertical-align:middle;"> | **AsyaKing** | Asya Dizisi | 🇹🇷 [TR] |
 | <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://asyaminik.com/&size=128" width="32" style="vertical-align:middle;"> | **AsyaMinik** | Asya Dizisi | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=asyawatch.com&sz=64" width="32" style="vertical-align:middle;"> | **AsyaWatch** | Film, Dizi | 🇹🇷 [TR] |
