@@ -1,8 +1,8 @@
-### Son Güncelleme: 31.07.2025 23:12
+### Son Güncelleme: 01.08.2025 23:12
 
 ### Repo Kısa Kodu: TRplugins
 
-### Toplam Eklenti Sayısı: 135
+### Toplam Eklenti Sayısı: 136
 
 ---
 
@@ -68,6 +68,7 @@
 | <img src="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://filmekseni.net/&size=128" width="32" style="vertical-align:middle;"> | **FilmEkseni** | Film | 🇹🇷 [TR] |
 | <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRbK_Pe3vpG-yUVt1NvckDpaD6COLDitImrBUnHfAVA4fawhijE" width="32" style="vertical-align:middle;"> | **FilmHane** | Film, Dizi | 🇹🇷 [TR] |
 | <img src="https://filmizle.cx/favicon.ico" width="32" style="vertical-align:middle;"> | **FilmIzle** | Film | 🇹🇷 [TR] |
+| <img src="https://www.google.com/s2/favicons?domain=www.filmizleilk.com&sz=64" width="32" style="vertical-align:middle;"> | **FilmIzleIlk** | Film, Dizi | 🇹🇷 [TR] |
 | <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.filmizyon.com/&size=64" width="32" style="vertical-align:middle;"> | **FilmIzyon** | Film | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=filmkovasi.tv&sz=64" width="32" style="vertical-align:middle;"> | **FilmKovasi** | Film | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=filmmakinesi.film&sz=64" width="32" style="vertical-align:middle;"> | **FilmMakinesi** | Film | 🇹🇷 [TR] |
