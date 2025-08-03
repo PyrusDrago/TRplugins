@@ -1716,7 +1716,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizimom.tv&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-    "fileSize": 30574,
+    "fileSize": 30572,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -1725,7 +1725,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 19,
+    "version": 20,
     "internalName": "DiziMom",
     "description": "Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
     "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/DiziMom.cs3",
@@ -1986,7 +1986,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmizle.to&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-    "fileSize": 28274,
+    "fileSize": 28268,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -1996,7 +1996,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 6,
+    "version": 7,
     "internalName": "HDFilmIzle",
     "description": "HDFilmizle ile Full HD izle, 1080p kalitede Yerli ve Yabancı filmlerle Türkçe dublaj veya Altyazı olarak kesintisiz film izlemenin tadını çıkarın.",
     "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/HDFilmIzle.cs3",
@@ -2433,7 +2433,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=webteizle2.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-    "fileSize": 30573,
+    "fileSize": 30572,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -2442,7 +2442,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 48,
+    "version": 49,
     "internalName": "WebteIzle",
     "description": "Her türlü filmi ister dublaj ister altyazılı, en kaliteli bir şekilde izleyebileceğiniz arşivi en geniş gerçek film izleme siteniz.",
     "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/WebteIzle.cs3",
@@ -2642,7 +2642,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizimom.plus&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-    "fileSize": 30908,
+    "fileSize": 30909,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -2651,7 +2651,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 16,
+    "version": 17,
     "internalName": "DiziMom",
     "description": "Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
     "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziMom.cs3",
@@ -2661,7 +2661,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal952.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-    "fileSize": 19438,
+    "fileSize": 19442,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -2671,7 +2671,7 @@
       "TvSeries",
       "Movie"
     ],
-    "version": 17,
+    "version": 18,
     "internalName": "DiziPal",
     "description": "en yeni dizileri güvenli ve hızlı şekilde sunar.",
     "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziPal.cs3",
@@ -3706,7 +3706,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizimom.tv&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-    "fileSize": 30397,
+    "fileSize": 30403,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3715,7 +3715,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 19,
+    "version": 20,
     "internalName": "DiziMom",
     "description": "Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/DiziMom.cs3",
@@ -3919,7 +3919,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=filmmakinesi.film&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-    "fileSize": 17075,
+    "fileSize": 17496,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3928,7 +3928,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 28,
+    "version": 29,
     "internalName": "FilmMakinesi",
     "description": "Film Makinesi, en yeni ve en güncel filmleri sitemizde full HD kalite farkı ile izleyebilirsiniz. HD film izle denildiğinde akla gelen en kaliteli film izleme sitesi.",
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/FilmMakinesi.cs3",
@@ -4053,7 +4053,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-    "fileSize": 27328,
+    "fileSize": 27677,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -4063,7 +4063,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 40,
+    "version": 41,
     "internalName": "HDFilmCehennemi",
     "description": "Türkiye'nin en hızlı hd film izleme sitesi",
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/HDFilmCehennemi.cs3",
@@ -4505,7 +4505,7 @@
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://webdramaturkey.org/&size=40",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-    "fileSize": 23183,
+    "fileSize": 24436,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -4516,7 +4516,7 @@
       "Movie",
       "Anime"
     ],
-    "version": 4,
+    "version": 6,
     "internalName": "WebDramaTurkey",
     "description": "Web Drama Turkey - Kore, Çin, Japon Dizileri, Filmleri ve Animeler",
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/WebDramaTurkey.cs3",
