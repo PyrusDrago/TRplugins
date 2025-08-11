@@ -1,8 +1,8 @@
-### Son Güncelleme: 10.08.2025 23:11
+### Son Güncelleme: 11.08.2025 23:12
 
 ### Repo Kısa Kodu: TRplugins
 
-### Toplam Eklenti Sayısı: 136
+### Toplam Eklenti Sayısı: 137
 
 ---
 
@@ -57,6 +57,7 @@
 | <img src="view-source:https://dizimore.com/wp-content/uploads/2024/03/morefav.png" width="32" style="vertical-align:middle;"> | **DiziMore** | Dizi | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=https://dizipal952.com&sz=64" width="32" style="vertical-align:middle;"> | **DiziPal** | Dizi, Film | 🇹🇷 [TR] |
 | <img src="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal932.com&size=128" width="32" style="vertical-align:middle;"> | **DiziPalOrijinal** | Dizi | 🇹🇷 [TR] |
+| <img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://diziwatch.tv&size=128" width="32" style="vertical-align:middle;"> | **DiziWatch** | Dizi, Anime | 🇹🇷 [TR] |
 | <img src="https://www.diziyo.de/wp-content/uploads/2019/11/favicon-150x150.ico" width="32" style="vertical-align:middle;"> | **DiziYo** | Dizi, Film, Anime | 🇹🇷 [TR] |
 | <img src="https://cdn.diziyou6.com/wp-content/uploads/2020/04/diziyou-favicon.png" width="32" style="vertical-align:middle;"> | **DiziYou** | Dizi | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=dizican.tv&sz=64" width="32" style="vertical-align:middle;"> | **Dizican** | Film, Asya Dizisi | 🇹🇷 [TR] |
