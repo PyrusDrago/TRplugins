@@ -1,8 +1,8 @@
-### Son Güncelleme: 11.08.2025 23:12
+### Son Güncelleme: 12.08.2025 23:12
 
 ### Repo Kısa Kodu: TRplugins
 
-### Toplam Eklenti Sayısı: 137
+### Toplam Eklenti Sayısı: 134
 
 ---
 
@@ -17,12 +17,13 @@
 |:----:|:------------|:-------|:----:|
 | <img src="https://www.4kfilmizleme.net/wp-content/uploads/2022/09/4kfilmizlemefavicon-1.png" width="32" style="vertical-align:middle;"> | **4KFilmIzleme** | Film | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=www.4kfilmizlesene.org&sz=64" width="32" style="vertical-align:middle;"> | **4KFilmIzlesene** | Film | 🇹🇷 [TR] |
-| <img src="https://www.animeizlesene.com/public/assets/img/favicon-32x32.png" width="32" style="vertical-align:middle;"> | **AnimeIzlesene** | Anime Filmi, Anime, OVA (Anime) | 🇹🇷 [TR] |
+| <img src="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.animeizlesene.com&size=128" width="32" style="vertical-align:middle;"> | **AnimeIzlesene** | Anime Filmi, Anime, OVA (Anime) | 🇹🇷 [TR] |
 | <img src="https://anm.cx/favicon.ico" width="32" style="vertical-align:middle;"> | **AnimeciX** | Anime | 🇹🇷 [TR] |
 | <img src="https://animeler.me/wp-content/uploads/cropped-animelerpw-48x48.png" width="32" style="vertical-align:middle;"> | **Animeler** | Anime | 🇹🇷 [TR] |
 | <img src="https://animex.tr/wp-content/uploads/2024/06/favicon.ico" width="32" style="vertical-align:middle;"> | **Animex** | Anime | 🇹🇷 [TR] |
 | <img src="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/aniworld.png" width="32" style="vertical-align:middle;"> | **Aniworld MC - Latte** | Anime Filmi, Anime, OVA (Anime) | 🇩🇪 [DE] |
-| <img src="https://anizm.net/upload/assets/favicon.ico" width="32" style="vertical-align:middle;"> | **Anizm** | Anime | 🇹🇷 [TR] |
+| <img src="https://anizium.co/assets/images/logo.png" width="32" style="vertical-align:middle;"> | **Anizium** | Anime Filmi, Anime | 🇹🇷 [TR] |
+| <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQLGJxL_3l-lZofrxkC-vpKFzHzyKW-Z0lYg&s" width="32" style="vertical-align:middle;"> | **Anizm** | Anime | 🇹🇷 [TR] |
 | <img src="https://asyaanimeleri.top/wp-content/uploads/2021/08/Asya-animeleri-12-e1629130525708.png" width="32" style="vertical-align:middle;"> | **AsyaAnimeleri** | Anime | 🇹🇷 [TR] |
 | <img src="https://asyafanatiklerim.com/wp-content/uploads/2018/08/md_5aaeb1de75bea.png" width="32" style="vertical-align:middle;"> | **AsyaFanatiklerim** | Asya Dizisi | 🇹🇷 [TR] |
 | <img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://asyafilmizlesene.org&size=128" width="32" style="vertical-align:middle;"> | **AsyaFilmIzlesene** | Asya Dizisi | 🇹🇷 [TR] |
@@ -32,7 +33,6 @@
 | <img src="https://www.google.com/s2/favicons?domain=belgeselx.com&sz=64" width="32" style="vertical-align:middle;"> | **BelgeselX** | Belgesel | 🇹🇷 [TR] |
 | <img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.birasyadizi.com/&size=16" width="32" style="vertical-align:middle;"> | **BirAsyaDizi** | Asya Dizisi | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=64" width="32" style="vertical-align:middle;"> | **CanliTV** | Canlı TV | 🇹🇷 [TR] |
-| <img src="https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=64" width="32" style="vertical-align:middle;"> | **CanliTelevizyon** | Canlı TV | 🇹🇷 [TR] |
 | <img src="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" width="32" style="vertical-align:middle;"> | **CanliTv** | Canlı TV | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=cizgimax.online&sz=64" width="32" style="vertical-align:middle;"> | **CizgiMax** | Çizgi Film | 🇹🇷 [TR] |
 | <img src="https://cizgivedizi.com/Logo.png" width="32" style="vertical-align:middle;"> | **CizgiVeDizi** | Çizgi Film, Dizi | 🇹🇷 [TR] |
@@ -54,17 +54,16 @@
 | <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizikral.nl/mofy/img/192x192_.png&size=128" width="32" style="vertical-align:middle;"> | **DiziKral** | Dizi | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=dizimag.net&sz=64" width="32" style="vertical-align:middle;"> | **DiziMag** | Dizi | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=www.dizimom.plus&sz=64" width="32" style="vertical-align:middle;"> | **DiziMom** | Dizi | 🇹🇷 [TR] |
-| <img src="view-source:https://dizimore.com/wp-content/uploads/2024/03/morefav.png" width="32" style="vertical-align:middle;"> | **DiziMore** | Dizi | 🇹🇷 [TR] |
+| <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizimore.com&size=64" width="32" style="vertical-align:middle;"> | **DiziMore** | Dizi | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=https://dizipal952.com&sz=64" width="32" style="vertical-align:middle;"> | **DiziPal** | Dizi, Film | 🇹🇷 [TR] |
 | <img src="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal932.com&size=128" width="32" style="vertical-align:middle;"> | **DiziPalOrijinal** | Dizi | 🇹🇷 [TR] |
 | <img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://diziwatch.tv&size=128" width="32" style="vertical-align:middle;"> | **DiziWatch** | Dizi, Anime | 🇹🇷 [TR] |
-| <img src="https://www.diziyo.de/wp-content/uploads/2019/11/favicon-150x150.ico" width="32" style="vertical-align:middle;"> | **DiziYo** | Dizi, Film, Anime | 🇹🇷 [TR] |
+| <img src="https://icons.iconarchive.com/icons/yohproject/crayon-cute/256/movies-icon.png" width="32" style="vertical-align:middle;"> | **DiziYo** | Dizi, Film, Anime | 🇹🇷 [TR] |
 | <img src="https://cdn.diziyou6.com/wp-content/uploads/2020/04/diziyou-favicon.png" width="32" style="vertical-align:middle;"> | **DiziYou** | Dizi | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=dizican.tv&sz=64" width="32" style="vertical-align:middle;"> | **Dizican** | Film, Asya Dizisi | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=dizilla.club&sz=64" width="32" style="vertical-align:middle;"> | **Dizilla** | Dizi | 🇹🇷 [TR] |
 | <img src="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizist.club/&size=128" width="32" style="vertical-align:middle;"> | **Dizist** | Dizi | 🇹🇷 [TR] |
 | <img src="https://raw.githubusercontent.com/Kohi-den/extensions-source/927f9c68fd64ce52f6212ae633d0f0585eca3545/src/en/donghuastream/res/mipmap-xxxhdpi/ic_launcher.png" width="32" style="vertical-align:middle;"> | **Donghuastream** | Anime | 🇨🇳 [CN] |
-| <img src="https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=64" width="32" style="vertical-align:middle;"> | **DragonTV** | Canlı TV | 🇹🇷 [TR] |
 | <img src="https://filmbip.com/uploads/favicon/original/favicon.webp" width="32" style="vertical-align:middle;"> | **FilmBip** | Film | 🇹🇷 [TR] |
 | <img src="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://filmekseni.net/&size=128" width="32" style="vertical-align:middle;"> | **FilmEkseni** | Film | 🇹🇷 [TR] |
 | <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRbK_Pe3vpG-yUVt1NvckDpaD6COLDitImrBUnHfAVA4fawhijE" width="32" style="vertical-align:middle;"> | **FilmHane** | Film, Dizi | 🇹🇷 [TR] |
@@ -98,7 +97,7 @@
 | <img src="https://www.google.com/s2/favicons?domain=kultfilmler.net&sz=64" width="32" style="vertical-align:middle;"> | **KultFilmler** | Film, Dizi | 🇹🇷 [TR] |
 | <img src="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzikkanallari.png" width="32" style="vertical-align:middle;"> | **Müzik TV ve Radyo - Latte** | Canlı TV | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=colorhunt.co&sz=64" width="32" style="vertical-align:middle;"> | **NeonSpor** | Canlı TV | 🇹🇷 [TR] |
-| <img src="https://iosmirror.cc/img/nf2/icon_x192.png" width="32" style="vertical-align:middle;"> | **NetflixMirror** | Film, Dizi | 🇮🇳 [IN] |
+| <img src="https://netfree2.cc/mobile/img/nf2/icon_x192.png" width="32" style="vertical-align:middle;"> | **NetflixMirror** | Film, Dizi | 🇮🇳 [IN] |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/c3/b7/35c3b7b0-4a84-cceb-d3e2-349e19712b07/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg" width="32" style="vertical-align:middle;"> | **Puhu** | Film, Dizi | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=rarefilmm.com&sz=64" width="32" style="vertical-align:middle;"> | **RareFilmm** | Film | 🇬🇧 [GB] |
 | <img src="https://rectvapp.com.tr/wp-content/uploads/2024/08/cropped-cropped-Screenshot_2023-08-31_at_11.02.55_PM-removebg-preview-32x32.webp" width="32" style="vertical-align:middle;"> | **RecTV** | Film, Canlı TV, Dizi | 🇹🇷 [TR] |
@@ -107,8 +106,8 @@
 | <img src="https://www.google.com/s2/favicons?domain=selcukflix.com&sz=64" width="32" style="vertical-align:middle;"> | **SelcukFlix** | Film, Dizi | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=www.setfilmizle.nl&sz=64" width="32" style="vertical-align:middle;"> | **SetFilmIzle** | Film, Dizi | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=sezonlukdizi6.com&sz=64" width="32" style="vertical-align:middle;"> | **SezonlukDizi** | Dizi | 🇹🇷 [TR] |
-| <img src="https://play-lh.googleusercontent.com/brwGNmr7IjA_MKk_TTPs0va10hdKE_bD_a1lnKoiMuCayW98EHpRv55edA6aEoJlmwfX" width="32" style="vertical-align:middle;"> | **SineWix** | Film, Dizi, Anime | 🇹🇷 [TR] |
-| <img src="https://sinefy3.com/assets/img/sinefy/icon-144x144.png" width="32" style="vertical-align:middle;"> | **Sinefy** | Film, Dizi | 🇹🇷 [TR] |
+| <img src="https://www.google.com/s2/favicons?domain=https://www.sinewix.com/&sz=64" width="32" style="vertical-align:middle;"> | **SineWix** | Film, Dizi, Anime | 🇹🇷 [TR] |
+| <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://sinefy3.com/&size=128" width="32" style="vertical-align:middle;"> | **Sinefy** | Film, Dizi | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=www.sinema.cx&sz=64" width="32" style="vertical-align:middle;"> | **SinemaCX** | Film | 🇹🇷 [TR] |
 | <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://sinezy.org/&size=48" width="32" style="vertical-align:middle;"> | **Sinezy** | Film | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=www.superfilmgeldi.info&sz=64" width="32" style="vertical-align:middle;"> | **SuperFilmGeldi** | Film | 🇹🇷 [TR] |
@@ -129,16 +128,14 @@
 | <img src="https://www.google.com/s2/favicons?domain=twitch.tv&sz=64" width="32" style="vertical-align:middle;"> | **Twitch** | Canlı TV | 🏴‍☠️ |
 | <img src="https://www.google.com/s2/favicons?domain=ugurfilm7.com&sz=64" width="32" style="vertical-align:middle;"> | **UgurFilm** | Film | 🇹🇷 [TR] |
 | <img src="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://unutulmazfilmler4.com/&size=64" width="32" style="vertical-align:middle;"> | **UnutulmazFilmler** | Film, Dizi | 🇹🇷 [TR] |
-| <img src="https://www.google.com/s2/favicons?domain=vavoo.to&sz=64" width="32" style="vertical-align:middle;"> | **Vavoo** | Canlı TV | 🇹🇷 [TR] |
 | <img src="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" width="32" style="vertical-align:middle;"> | **Vavoo Türkiye (Açık) - Latte** | Canlı TV | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=wfilmizle.my&sz=64" width="32" style="vertical-align:middle;"> | **WFilmİzle** | Film | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=watch2movies.net&sz=64" width="32" style="vertical-align:middle;"> | **Watch2Movies** | Film | 🇬🇧 [GB] |
-| <img src="https://img.watch32.sx/xxrz/400x400/100/a9/5e/a95e15a880a9df3c045f6a5224daf576/a95e15a880a9df3c045f6a5224daf576.png" width="32" style="vertical-align:middle;"> | **Watch32** | Film, Dizi | 🇬🇧 [GB] |
 | <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://webdramaturkey.org/&size=40" width="32" style="vertical-align:middle;"> | **WebDramaTurkey** | Asya Dizisi, Film, Anime | 🇹🇷 [TR] |
 | <img src="https://webdramaturkey.org/public/static/logo.webp?v=2.1.8" width="32" style="vertical-align:middle;"> | **WebDramaTurkey - Latte** | Film, Podcast, Asya Dizisi, Anime | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=webteizle2.com&sz=64" width="32" style="vertical-align:middle;"> | **WebteIzle** | Film | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=xprime.tv&sz=64" width="32" style="vertical-align:middle;"> | **XPrime** | Film | 🇹🇷 [TR] |
-| <img src="https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/yts.png" width="32" style="vertical-align:middle;"> | **YTS** | Film, Torrent | 🇬🇧 [GB] |
+| <img src="https://raw.githubusercontent.com/phisher98/TVVVV/main/yts.png" width="32" style="vertical-align:middle;"> | **YTS** | Film, Torrent | 🇬🇧 [GB] |
 | <img src="https://www.google.com/s2/favicons?domain=yabancidizi.tv&sz=64" width="32" style="vertical-align:middle;"> | **YabanciDizi** | Dizi | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=yeniwatch.net.tr&sz=64" width="32" style="vertical-align:middle;"> | **YeniWatch** | Anime | 🇹🇷 [TR] |
 | <img src="https://png.pngtree.com/png-clipart/20220823/ourmid/pngtree-turkey-country-flag-pin-icon-png-image_6120061.png" width="32" style="vertical-align:middle;"> | **YerelDiziler** | Tv series | 🇹🇷 [TR] |
