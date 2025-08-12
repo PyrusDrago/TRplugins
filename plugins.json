@@ -1235,7 +1235,7 @@
     "iconUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vCp6N1K4bECoYRQD-cisJF2_6V_Hk01ZhDmoPR2JuM8O5qr4MqrPO1munM9cRlleBBSK6odYhLtDBWv4E3vhPhynlmS5hVVtJZShHoGA5REQ8_3v8SIlccTEqzVQu2UJyNYQdJNrKIfWy66RQeT0D-CcmFCbHPz5023H6p2v5fv4NVloZ5Rqo_yGrIY/s320/iNat-Box-App.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-    "fileSize": 30823,
+    "fileSize": 30824,
     "status": 3,
     "language": "tr",
     "authors": [
@@ -1352,7 +1352,7 @@
     "iconUrl": "https://rectvapk.cc/wp-content/uploads/2023/02/Rec-TV.webp",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-    "fileSize": 20926,
+    "fileSize": 20924,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -2682,7 +2682,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
     "fileSize": 24668,
-    "status": 0,
+    "status": 1,
     "language": "tr",
     "authors": [
       "PyrusDrago"
@@ -2690,7 +2690,7 @@
     "tvTypes": [
       "Cartoon"
     ],
-    "version": 15,
+    "version": 16,
     "internalName": "CizgiMax",
     "description": "ÇizgiMax ile Çizgi Film izlemek artık daha kolay, donmadan full hd ve reklamsız bir sitedir, içerisinde 700 den fazla çizgi film olan, Bu site bu işi profesyonelce yapıyor.",
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/CizgiMax.cs3",
@@ -2779,7 +2779,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizibox.de&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-    "fileSize": 24216,
+    "fileSize": 24350,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -2788,7 +2788,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 14,
+    "version": 16,
     "internalName": "DiziBox",
     "description": "Yabancı Dizi izle, Tüm yabancı dizilerin yeni ve eski sezonlarını full hd izleyebileceğiniz elit site.",
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/DiziBox.cs3",
@@ -3146,25 +3146,6 @@
     "name": "FilmIzle"
   },
   {
-    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.filmizyon.com/&size=64",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-    "fileSize": 11767,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "PyrusDrago"
-    ],
-    "tvTypes": [
-      "Movie"
-    ],
-    "version": 6,
-    "internalName": "FilmIzyon",
-    "description": "Yerli ve yabancı ödüllü tüm filmleri Türkçe Dublaj veya Orjinal dilde izleyebileceğiniz Türkiye'nin en kaliteli film izleme platformuna hoşgeldiniz.",
-    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/FilmIzyon.cs3",
-    "name": "FilmIzyon"
-  },
-  {
     "iconUrl": "https://www.google.com/s2/favicons?domain=filmmakinesi.film&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
@@ -3379,25 +3360,6 @@
     "name": "InatBox"
   },
   {
-    "iconUrl": "https://iptvplay.stream/favicon.ico",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-    "fileSize": 11702,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "PyrusDrago"
-    ],
-    "tvTypes": [
-      "Live"
-    ],
-    "version": 5,
-    "internalName": "IpTvPlayStream",
-    "description": "Watch free IPTV channels from around the world.",
-    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/IpTvPlayStream.cs3",
-    "name": "IpTvPlayStream"
-  },
-  {
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://jetfilmizle.de&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
@@ -3478,7 +3440,7 @@
     "iconUrl": "https://rectvapk.cc/wp-content/uploads/2023/02/Rec-TV.webp",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-    "fileSize": 20786,
+    "fileSize": 20788,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3489,7 +3451,7 @@
       "Live",
       "TvSeries"
     ],
-    "version": 83,
+    "version": 84,
     "internalName": "RecTV",
     "description": "RecTv APK, Türkiye’deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/RecTV.cs3",
