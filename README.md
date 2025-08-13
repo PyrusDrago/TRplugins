@@ -1,8 +1,8 @@
-### Son Güncelleme: 12.08.2025 23:12
+### Son Güncelleme: 13.08.2025 23:11
 
 ### Repo Kısa Kodu: TRplugins
 
-### Toplam Eklenti Sayısı: 134
+### Toplam Eklenti Sayısı: 132
 
 ---
 
@@ -69,7 +69,6 @@
 | <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRbK_Pe3vpG-yUVt1NvckDpaD6COLDitImrBUnHfAVA4fawhijE" width="32" style="vertical-align:middle;"> | **FilmHane** | Film, Dizi | 🇹🇷 [TR] |
 | <img src="https://filmizle.cx/favicon.ico" width="32" style="vertical-align:middle;"> | **FilmIzle** | Film | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=www.filmizleilk.com&sz=64" width="32" style="vertical-align:middle;"> | **FilmIzleIlk** | Film, Dizi | 🇹🇷 [TR] |
-| <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.filmizyon.com/&size=64" width="32" style="vertical-align:middle;"> | **FilmIzyon** | Film | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=filmkovasi.tv&sz=64" width="32" style="vertical-align:middle;"> | **FilmKovasi** | Film | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=filmmakinesi.film&sz=64" width="32" style="vertical-align:middle;"> | **FilmMakinesi** | Film | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=www.filmmodu17.com&sz=64" width="32" style="vertical-align:middle;"> | **FilmModu** | Film | 🇹🇷 [TR] |
@@ -88,7 +87,6 @@
 | <img src="https://hdfilmcehennemi2.rip/wp-content/uploads/2023/07/favi.png" width="32" style="vertical-align:middle;"> | **HdFilmCehennemi2** | Film | 🇹🇷 [TR] |
 | <img src="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://hintdizi.com&size=128" width="32" style="vertical-align:middle;"> | **HintDizi** | Asya Dizisi | 🇹🇷 [TR] |
 | <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vCp6N1K4bECoYRQD-cisJF2_6V_Hk01ZhDmoPR2JuM8O5qr4MqrPO1munM9cRlleBBSK6odYhLtDBWv4E3vhPhynlmS5hVVtJZShHoGA5REQ8_3v8SIlccTEqzVQu2UJyNYQdJNrKIfWy66RQeT0D-CcmFCbHPz5023H6p2v5fv4NVloZ5Rqo_yGrIY/s320/iNat-Box-App.png" width="32" style="vertical-align:middle;"> | **InatBox** | Film, Dizi, Canlı TV | 🇹🇷 [TR] |
-| <img src="https://iptvplay.stream/favicon.ico" width="32" style="vertical-align:middle;"> | **IpTvPlayStream** | Canlı TV | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=720pizle.ai&sz=64" width="32" style="vertical-align:middle;"> | **IzleAI** | Film | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=https://jetfilmizle.de&sz=64" width="32" style="vertical-align:middle;"> | **JetFilmizle** | Film | 🇹🇷 [TR] |
 | <img src="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/kick.png" width="32" style="vertical-align:middle;"> | **KICK Türkiye - Latte** | Dizi, Film | 🇹🇷 [TR] |
