@@ -2815,7 +2815,7 @@
     "name": "Dizican"
   },
   {
-    "iconUrl": "https://dizifun2.com/images/data/favicon.png",
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizifun4.com&size=128",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
     "fileSize": 28246,
@@ -2828,7 +2828,7 @@
       "TvSeries",
       "Movie"
     ],
-    "version": 17,
+    "version": 18,
     "internalName": "DiziFun",
     "description": "Her Dizi Bir Macera, Her An Bir Keşif!",
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/DiziFun.cs3",
@@ -2913,10 +2913,10 @@
     "name": "Dizilla"
   },
   {
-    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizimag.pro&size=32",
+    "iconUrl": "https://dizimag.me/uploads/logo/original/logo-5063.webp",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-    "fileSize": 29551,
+    "fileSize": 29552,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -2925,14 +2925,14 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 23,
+    "version": 24,
     "internalName": "DiziMag",
     "description": "En son çıkan yabancı dizi ve filmleri DiziMag farkıyla full hd 1080p kalitede izle. Dizimag Geniş ve güncel arşiviyle dizi ve filmlerin tadını çıkartın.",
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/DiziMag.cs3",
     "name": "DiziMag"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizimom.tv&sz=%size%",
+    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.dizimom.mom&size=32",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
     "fileSize": 30394,
@@ -2944,7 +2944,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 25,
+    "version": 26,
     "internalName": "DiziMom",
     "description": "Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/DiziMom.cs3",
@@ -3072,7 +3072,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.diziyou.co&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-    "fileSize": 14485,
+    "fileSize": 14451,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3081,7 +3081,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 25,
+    "version": 26,
     "internalName": "DiziYou",
     "description": "Diziyou en kaliteli Türkçe dublaj ve altyazılı yabancı dizi izleme sitesidir. Güncel ve efsanevi dizileri 1080p Full HD kalitede izlemek için hemen tıkla!",
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/DiziYou.cs3",
@@ -3260,25 +3260,6 @@
     "description": "Vpn Gerekli! Dünyanın tüm ülkelerinden ücretsiz çevrimiçi TV.",
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/GinikoCanli.cs3",
     "name": "GinikoCanli"
-  },
-  {
-    "iconUrl": "https://hdfilm.cx/apple-touch-icon.png",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-    "fileSize": 34293,
-    "status": 0,
-    "language": "tr",
-    "authors": [
-      "PyrusDrago"
-    ],
-    "tvTypes": [
-      "Movie"
-    ],
-    "version": 18,
-    "internalName": "HDFilm",
-    "description": "Hdfilm.cx ile HD Film izle, Türkiye'nin binlerce filmlik orijinal arşiviyle Full HD 1080p kalite Türkçe Dublaj ve Altyazılı Film izleme keyfini yaşayın.",
-    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/HDFilm.cs3",
-    "name": "HDFilm"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.com&sz=%size%",
@@ -3792,11 +3773,11 @@
     "name": "YeniWatch"
   },
   {
-    "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/main/yts.png",
-    "jarFileSize": 76886,
+    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://en.yts-official.mx&size=128",
+    "jarFileSize": 76378,
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-    "fileSize": 15971,
+    "fileSize": 15876,
     "status": 1,
     "language": "en",
     "authors": [
@@ -3806,7 +3787,7 @@
       "Movie",
       "Torrent"
     ],
-    "version": 9,
+    "version": 10,
     "internalName": "YTS",
     "jarUrl": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/YTS.jar",
     "description": "YTS Movies 4K Support (Torrent)",
