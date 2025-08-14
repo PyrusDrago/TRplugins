@@ -1,8 +1,8 @@
-### Son Güncelleme: 13.08.2025 23:11
+### Son Güncelleme: 14.08.2025 23:13
 
 ### Repo Kısa Kodu: TRplugins
 
-### Toplam Eklenti Sayısı: 132
+### Toplam Eklenti Sayısı: 131
 
 ---
 
@@ -47,7 +47,7 @@
 | <img src="https://www.google.com/s2/favicons?domain=diziasia.com&sz=64" width="32" style="vertical-align:middle;"> | **DiziAsia** | Film, Asya Dizisi | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=https://www.diziasya.com/&sz=64" width="32" style="vertical-align:middle;"> | **DiziAsya** | Asya Dizisi, Film, Anime | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=www.dizibox.live&sz=64" width="32" style="vertical-align:middle;"> | **DiziBox** | Dizi | 🇹🇷 [TR] |
-| <img src="https://dizifun2.com/images/data/favicon.png" width="32" style="vertical-align:middle;"> | **DiziFun** | Dizi, Film | 🇹🇷 [TR] |
+| <img src="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizifun4.com&size=128" width="32" style="vertical-align:middle;"> | **DiziFun** | Dizi, Film | 🇹🇷 [TR] |
 | <img src="https://dizifun3.com/images/data/darklogo.png" width="32" style="vertical-align:middle;"> | **DiziFun - Latte** | Dizi, Film | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=dizigom1.co&sz=64" width="32" style="vertical-align:middle;"> | **DiziGom** | Film | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=https://dizikorea.vip&sz=64" width="32" style="vertical-align:middle;"> | **DiziKorea** | Asya Dizisi | 🇹🇷 [TR] |
@@ -79,7 +79,6 @@
 | <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://fullhdizle.one/&size=48" width="32" style="vertical-align:middle;"> | **FullHDIzle** | Film | 🇹🇷 [TR] |
 | <img src="https://www.giniko.com/images/favicon.ico" width="32" style="vertical-align:middle;"> | **GinikoCanli** | Canlı TV | 🇹🇷 [TR] |
 | <img src="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/gofilm.png" width="32" style="vertical-align:middle;"> | **GoFilmIzle - Latte** | Film | 🇹🇷 [TR] |
-| <img src="https://hdfilm.cx/apple-touch-icon.png" width="32" style="vertical-align:middle;"> | **HDFilm** | Film | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=hdfilmcehennemi.com&sz=64" width="32" style="vertical-align:middle;"> | **HDFilmCehennemi** | Film, Dizi | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=www.hdfilmcehennemi2.nl&sz=64" width="32" style="vertical-align:middle;"> | **HDFilmCehennemi2** | Film | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=hdfilmizle.to&sz=64" width="32" style="vertical-align:middle;"> | **HDFilmIzle** | Film, Dizi | 🇹🇷 [TR] |
@@ -133,7 +132,7 @@
 | <img src="https://webdramaturkey.org/public/static/logo.webp?v=2.1.8" width="32" style="vertical-align:middle;"> | **WebDramaTurkey - Latte** | Film, Podcast, Asya Dizisi, Anime | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=webteizle2.com&sz=64" width="32" style="vertical-align:middle;"> | **WebteIzle** | Film | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=xprime.tv&sz=64" width="32" style="vertical-align:middle;"> | **XPrime** | Film | 🇹🇷 [TR] |
-| <img src="https://raw.githubusercontent.com/phisher98/TVVVV/main/yts.png" width="32" style="vertical-align:middle;"> | **YTS** | Film, Torrent | 🇬🇧 [GB] |
+| <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://en.yts-official.mx&size=128" width="32" style="vertical-align:middle;"> | **YTS** | Film, Torrent | 🇬🇧 [GB] |
 | <img src="https://www.google.com/s2/favicons?domain=yabancidizi.tv&sz=64" width="32" style="vertical-align:middle;"> | **YabanciDizi** | Dizi | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=yeniwatch.net.tr&sz=64" width="32" style="vertical-align:middle;"> | **YeniWatch** | Anime | 🇹🇷 [TR] |
 | <img src="https://png.pngtree.com/png-clipart/20220823/ourmid/pngtree-turkey-country-flag-pin-icon-png-image_6120061.png" width="32" style="vertical-align:middle;"> | **YerelDiziler** | Tv series | 🇹🇷 [TR] |
