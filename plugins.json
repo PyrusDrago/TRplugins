@@ -888,7 +888,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.club&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-    "fileSize": 29491,
+    "fileSize": 33022,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -965,7 +965,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.diziyou.co&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-    "fileSize": 14525,
+    "fileSize": 14526,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -1157,7 +1157,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-    "fileSize": 28828,
+    "fileSize": 28830,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -1543,25 +1543,6 @@
     "description": "TLC TV dizi ve programlarını takip etmek için ziyaret edin. TLC TV dizi ve programlarını tek parça ve hd kalitesiyle izleyin.",
     "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/TLC.cs3",
     "name": "TLC"
-  },
-  {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=trgoalsgiris.xyz/&sz=%size%",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-    "fileSize": 18235,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "PyrusDrago"
-    ],
-    "tvTypes": [
-      "Live"
-    ],
-    "version": 6,
-    "internalName": "TRGoals",
-    "description": "TRGoals",
-    "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/TRGoals.cs3",
-    "name": "TRGoals"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.turkanime.co&sz=%size%",
@@ -3081,7 +3062,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 26,
+    "version": 27,
     "internalName": "DiziYou",
     "description": "Diziyou en kaliteli Türkçe dublaj ve altyazılı yabancı dizi izleme sitesidir. Güncel ve efsanevi dizileri 1080p Full HD kalitede izlemek için hemen tıkla!",
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/DiziYou.cs3",
@@ -3130,7 +3111,7 @@
     "iconUrl": "https://filmizle.cx/favicon.ico",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-    "fileSize": 22085,
+    "fileSize": 22094,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3139,7 +3120,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 13,
+    "version": 14,
     "internalName": "FilmIzle",
     "description": "Filmizle ile Full HD Film izle. Yerli ve yabancı filmleri Türkçe dublaj veya Alt yazılı seçeneğiyle kesintisiz ve sorunsuz en hızlı film sitesi.",
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/FilmIzle.cs3",
