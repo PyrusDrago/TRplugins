@@ -1,8 +1,8 @@
-### Son Güncelleme: 14.08.2025 23:13
+### Son Güncelleme: 15.08.2025 23:12
 
 ### Repo Kısa Kodu: TRplugins
 
-### Toplam Eklenti Sayısı: 131
+### Toplam Eklenti Sayısı: 130
 
 ---
 
@@ -112,7 +112,6 @@
 | <img src="https://www.tlctv.com.tr/favicon.ico" width="32" style="vertical-align:middle;"> | **TLCTR** | Dizi | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=www.tlctv.com.tr&sz=64" width="32" style="vertical-align:middle;"> | **TLCtr** | Film | 🇹🇷 [TR] |
 | <img src="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" width="32" style="vertical-align:middle;"> | **TO Grup Türkiye (VPN) - Latte** | Canlı TV | 🇹🇷 [TR] |
-| <img src="https://www.google.com/s2/favicons?domain=trgoalsgiris.xyz/&sz=64" width="32" style="vertical-align:middle;"> | **TRGoals** | Canlı TV | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=tranimaci.com&sz=64" width="32" style="vertical-align:middle;"> | **TRanimaci** | Anime | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=asyalog.com&sz=64" width="32" style="vertical-align:middle;"> | **TRasyalog** | Dizi | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=tafdi.info&sz=64" width="32" style="vertical-align:middle;"> | **Tafdi** | Film | 🇹🇷 [TR] |
