@@ -1,8 +1,8 @@
-### Son Güncelleme: 17.08.2025 23:11
+### Son Güncelleme: 18.08.2025 23:12
 
 ### Repo Kısa Kodu: TRplugins
 
-### Toplam Eklenti Sayısı: 130
+### Toplam Eklenti Sayısı: 131
 
 ---
 
@@ -79,6 +79,7 @@
 | <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://fullhdizle.one/&size=48" width="32" style="vertical-align:middle;"> | **FullHDIzle** | Film | 🇹🇷 [TR] |
 | <img src="https://www.giniko.com/images/favicon.ico" width="32" style="vertical-align:middle;"> | **GinikoCanli** | Canlı TV | 🇹🇷 [TR] |
 | <img src="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/gofilm.png" width="32" style="vertical-align:middle;"> | **GoFilmIzle - Latte** | Film | 🇹🇷 [TR] |
+| <img src="https://www.apkdelisi.net/wp-content/uploads/2022/03/golge-tv-reklamsiz-mod-apk-canli-tv-apkdelisi-0.jpg" width="32" style="vertical-align:middle;"> | **GolgeTV** | Canlı TV | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=hdfilmcehennemi.com&sz=64" width="32" style="vertical-align:middle;"> | **HDFilmCehennemi** | Film, Dizi | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=www.hdfilmcehennemi2.nl&sz=64" width="32" style="vertical-align:middle;"> | **HDFilmCehennemi2** | Film | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=hdfilmizle.to&sz=64" width="32" style="vertical-align:middle;"> | **HDFilmIzle** | Film, Dizi | 🇹🇷 [TR] |
