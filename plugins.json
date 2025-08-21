@@ -1352,7 +1352,7 @@
     "iconUrl": "https://rectvapk.cc/wp-content/uploads/2023/02/Rec-TV.webp",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-    "fileSize": 20925,
+    "fileSize": 20932,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -1363,7 +1363,7 @@
       "Live",
       "TvSeries"
     ],
-    "version": 81,
+    "version": 82,
     "internalName": "RecTV",
     "description": "RecTv APK, Türkiye’deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
     "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/RecTV.cs3",
@@ -2163,7 +2163,7 @@
     "iconUrl": "https://rectvapp.com.tr/wp-content/uploads/2024/08/cropped-cropped-Screenshot_2023-08-31_at_11.02.55_PM-removebg-preview-32x32.webp",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-    "fileSize": 20719,
+    "fileSize": 20717,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -2174,7 +2174,7 @@
       "Live",
       "TvSeries"
     ],
-    "version": 83,
+    "version": 84,
     "internalName": "RecTV",
     "description": "RecTv APK, Türkiye’deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
     "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/RecTV.cs3",
@@ -3748,7 +3748,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=colorhunt.co&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/sarapcanagii/Pitipitii",
-    "fileSize": 18700,
+    "fileSize": 18695,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3757,7 +3757,7 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 8,
+    "version": 9,
     "internalName": "NeonSpor",
     "description": "(Açılmayan Spor Kanallar İçin VPN Gerekebilir.) NeonSpor eklentisinde BeIN Sports, Tabii Spor, S Sports, Exxen Spor, Smart Spor, Tivibu Spor ve Diğer kanallar mevcuttur.",
     "url": "https://raw.githubusercontent.com/sarapcanagii/Pitipitii/builds/NeonSpor.cs3",
