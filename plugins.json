@@ -98,7 +98,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizibox.live&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/maarrem/cs-Kekik",
-    "fileSize": 21377,
+    "fileSize": 21383,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -107,7 +107,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 21,
+    "version": 22,
     "internalName": "DiziBox",
     "description": "Yabancı Dizi izle, Tüm yabancı dizilerin yeni ve eski sezonlarını full hd izleyebileceğiniz elit site.",
     "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/DiziBox.cs3",
@@ -155,7 +155,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizimom.plus&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/maarrem/cs-Kekik",
-    "fileSize": 30861,
+    "fileSize": 30868,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -164,7 +164,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 19,
+    "version": 22,
     "internalName": "DiziMom",
     "description": "Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
     "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/DiziMom.cs3",
@@ -174,7 +174,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal952.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/maarrem/cs-Kekik",
-    "fileSize": 19432,
+    "fileSize": 19434,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -184,7 +184,7 @@
       "TvSeries",
       "Movie"
     ],
-    "version": 19,
+    "version": 20,
     "internalName": "DiziPal",
     "description": "en yeni dizileri güvenli ve hızlı şekilde sunar.",
     "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/DiziPal.cs3",
@@ -194,7 +194,7 @@
     "iconUrl": "https://cdn.diziyou6.com/wp-content/uploads/2020/04/diziyou-favicon.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/maarrem/cs-Kekik",
-    "fileSize": 15805,
+    "fileSize": 15803,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -203,7 +203,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 17,
+    "version": 20,
     "internalName": "DiziYou",
     "description": "Diziyou en kaliteli Türkçe dublaj ve altyazılı yabancı dizi izleme sitesidir. Güncel ve efsanevi dizileri 1080p Full HD kalitede izlemek için hemen tıkla!",
     "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/DiziYou.cs3",
@@ -289,7 +289,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=fullhdfilm.us&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/maarrem/cs-Kekik",
-    "fileSize": 18210,
+    "fileSize": 18207,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -299,7 +299,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 31,
+    "version": 32,
     "internalName": "FullHDFilm",
     "description": "Fullhdfilm ile en yeni vizyon filmler Full HD ve kesintisiz film sizlerle. Özgün film arşivimizle en üstün kaliteli film izle keyfini sunuyoruz.",
     "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/FullHDFilm.cs3",
@@ -309,7 +309,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.fullhdfilmizlesene.de&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/maarrem/cs-Kekik",
-    "fileSize": 33301,
+    "fileSize": 33299,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -318,7 +318,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 23,
+    "version": 25,
     "internalName": "FullHDFilmizlesene",
     "description": "Sinema zevkini evinize kadar getirdik. Türkiye'nin lider Film sitesinde, en yeni filmleri Full HD izleyin.",
     "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/FullHDFilmizlesene.cs3",
@@ -348,7 +348,7 @@
     "iconUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vCp6N1K4bECoYRQD-cisJF2_6V_Hk01ZhDmoPR2JuM8O5qr4MqrPO1munM9cRlleBBSK6odYhLtDBWv4E3vhPhynlmS5hVVtJZShHoGA5REQ8_3v8SIlccTEqzVQu2UJyNYQdJNrKIfWy66RQeT0D-CcmFCbHPz5023H6p2v5fv4NVloZ5Rqo_yGrIY/s320/iNat-Box-App.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/maarrem/cs-Kekik",
-    "fileSize": 30932,
+    "fileSize": 30931,
     "status": 3,
     "language": "tr",
     "authors": [
@@ -359,7 +359,7 @@
       "TvSeries",
       "Live"
     ],
-    "version": 21,
+    "version": 23,
     "internalName": "InatBox",
     "description": "İnatBox cloudstream eklentisidir. Sevdiğiniz yayın platformlarını ve canlı maçları burada bulabilirsiniz.",
     "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/InatBox.cs3",
@@ -369,7 +369,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://jetfilmizle.de&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/maarrem/cs-Kekik",
-    "fileSize": 16498,
+    "fileSize": 16494,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -378,7 +378,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 38,
+    "version": 39,
     "internalName": "JetFilmizle",
     "description": "Binlerce Film İzleme Seçeneğiyle En İyi Film İzleme Sitesi",
     "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/JetFilmizle.cs3",
@@ -407,7 +407,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=kultfilmler.net&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/maarrem/cs-Kekik",
-    "fileSize": 21868,
+    "fileSize": 21873,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -417,7 +417,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 11,
+    "version": 12,
     "internalName": "KultFilmler",
     "description": "Kült Filmler özenle en iyi filmleri derler ve iyi bir altyazılı film izleme deneyimi sunmayı amaçlar",
     "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/KultFilmler.cs3",
@@ -466,7 +466,7 @@
     "iconUrl": "https://rectvapp.com.tr/wp-content/uploads/2024/08/cropped-cropped-Screenshot_2023-08-31_at_11.02.55_PM-removebg-preview-32x32.webp",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/maarrem/cs-Kekik",
-    "fileSize": 20727,
+    "fileSize": 20756,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -477,7 +477,7 @@
       "Live",
       "TvSeries"
     ],
-    "version": 75,
+    "version": 85,
     "internalName": "RecTV",
     "description": "RecTv APK, Türkiye’deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
     "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/RecTV.cs3",
@@ -526,7 +526,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.sinema.cx&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/maarrem/cs-Kekik",
-    "fileSize": 14711,
+    "fileSize": 14710,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -535,7 +535,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 11,
+    "version": 13,
     "internalName": "SinemaCX",
     "description": "Güncel ve en iyi yabancı filmleri yüksek görüntü kalitesinde, Türkçe dublaj ve altyazı seçenekleriyle filmleri full izleyin.",
     "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/SinemaCX.cs3",
@@ -545,7 +545,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.superfilmgeldi.info&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/maarrem/cs-Kekik",
-    "fileSize": 18281,
+    "fileSize": 18277,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -554,7 +554,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 12,
+    "version": 15,
     "internalName": "SuperFilmGeldi",
     "description": "Hd film izliyerek arkadaşlarınızla ve sevdiklerinizle iyi bir vakit geçirmek istiyorsanız açın bir film eğlenmeye bakın. Bilim kurgu filmleri, aşk drama vahşet aşk romantik sıradışı korku filmlerini izle.",
     "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/SuperFilmGeldi.cs3",
@@ -640,7 +640,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=ugurfilm7.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/maarrem/cs-Kekik",
-    "fileSize": 20980,
+    "fileSize": 20981,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -649,7 +649,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 8,
+    "version": 10,
     "internalName": "UgurFilm",
     "description": "Yabancı film izle, Türkçe dublaj ve Türkçe altyazılı film seçenekleriyle 720p ve 1080p HD kalitesinde film izle - Uğur Film full hd film izle.",
     "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/UgurFilm.cs3",
@@ -678,7 +678,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=webteizle2.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/maarrem/cs-Kekik",
-    "fileSize": 20856,
+    "fileSize": 20858,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -687,7 +687,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 11,
+    "version": 12,
     "internalName": "WebteIzle",
     "description": "Her türlü filmi ister dublaj ister altyazılı, en kaliteli bir şekilde izleyebileceğiniz arşivi en geniş gerçek film izleme siteniz.",
     "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/WebteIzle.cs3",
@@ -926,7 +926,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizimom.tv&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-    "fileSize": 30576,
+    "fileSize": 30573,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -965,7 +965,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.diziyou.co&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-    "fileSize": 14526,
+    "fileSize": 14523,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -1491,7 +1491,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.superfilmgeldi.biz&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-    "fileSize": 19772,
+    "fileSize": 19773,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -1852,7 +1852,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizimom.plus&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-    "fileSize": 30903,
+    "fileSize": 30900,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -1861,7 +1861,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 20,
+    "version": 22,
     "internalName": "DiziMom",
     "description": "Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
     "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziMom.cs3",
@@ -1891,7 +1891,7 @@
     "iconUrl": "https://cdn.diziyou6.com/wp-content/uploads/2020/04/diziyou-favicon.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-    "fileSize": 15796,
+    "fileSize": 15799,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -1900,7 +1900,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 19,
+    "version": 20,
     "internalName": "DiziYou",
     "description": "Diziyou en kaliteli Türkçe dublaj ve altyazılı yabancı dizi izleme sitesidir. Güncel ve efsanevi dizileri 1080p Full HD kalitede izlemek için hemen tıkla!",
     "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziYou.cs3",
@@ -2006,7 +2006,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.fullhdfilmizlesene.de&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-    "fileSize": 33133,
+    "fileSize": 33135,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -2015,7 +2015,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 24,
+    "version": 25,
     "internalName": "FullHDFilmizlesene",
     "description": "Sinema zevkini evinize kadar getirdik. Türkiye'nin lider Film sitesinde, en yeni filmleri Full HD izleyin.",
     "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/FullHDFilmizlesene.cs3",
@@ -2242,7 +2242,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.superfilmgeldi.info&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-    "fileSize": 18231,
+    "fileSize": 18233,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -2251,7 +2251,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 14,
+    "version": 15,
     "internalName": "SuperFilmGeldi",
     "description": "Hd film izliyerek arkadaşlarınızla ve sevdiklerinizle iyi bir vakit geçirmek istiyorsanız açın bir film eğlenmeye bakın. Bilim kurgu filmleri, aşk drama vahşet aşk romantik sıradışı korku filmlerini izle.",
     "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/SuperFilmGeldi.cs3",
