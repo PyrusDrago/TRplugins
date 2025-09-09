@@ -1852,7 +1852,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizimom.plus&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-    "fileSize": 30902,
+    "fileSize": 30897,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -1861,7 +1861,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 23,
+    "version": 25,
     "internalName": "DiziMom",
     "description": "Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
     "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziMom.cs3",
@@ -1871,7 +1871,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal952.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-    "fileSize": 19441,
+    "fileSize": 19442,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -1881,7 +1881,7 @@
       "TvSeries",
       "Movie"
     ],
-    "version": 21,
+    "version": 22,
     "internalName": "DiziPal",
     "description": "en yeni dizileri güvenli ve hızlı şekilde sunar.",
     "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziPal.cs3",
@@ -1929,7 +1929,7 @@
     "iconUrl": "https://filmbip.com/uploads/favicon/original/favicon.webp",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-    "fileSize": 14725,
+    "fileSize": 14719,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -1938,7 +1938,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 10,
+    "version": 11,
     "internalName": "FilmBip",
     "description": "Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Filmbip heryerde seninle!",
     "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/FilmBip.cs3",
@@ -2163,7 +2163,7 @@
     "iconUrl": "https://rectvapp.com.tr/wp-content/uploads/2024/08/cropped-cropped-Screenshot_2023-08-31_at_11.02.55_PM-removebg-preview-32x32.webp",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-    "fileSize": 20719,
+    "fileSize": 20718,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -2174,7 +2174,7 @@
       "Live",
       "TvSeries"
     ],
-    "version": 86,
+    "version": 87,
     "internalName": "RecTV",
     "description": "RecTv APK, Türkiye’deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
     "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/RecTV.cs3",
@@ -2409,10 +2409,10 @@
     "name": "kısakod:kraptorcs"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=dizipal1203.com&sz=32",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=dizipal1204.com&sz=32",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/sarapcanagii/Pitipitii",
-    "fileSize": 20395,
+    "fileSize": 20396,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -2422,7 +2422,7 @@
       "TvSeries",
       "Movie"
     ],
-    "version": 40,
+    "version": 41,
     "internalName": "DiziPal",
     "description": "En yeni dizileri güvenli ve hızlı şekilde sunar.",
     "url": "https://raw.githubusercontent.com/sarapcanagii/Pitipitii/builds/DiziPal.cs3",
