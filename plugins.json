@@ -774,7 +774,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-    "fileSize": 18451,
+    "fileSize": 18321,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -907,7 +907,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizimag.net&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-    "fileSize": 26515,
+    "fileSize": 26513,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -916,7 +916,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 13,
+    "version": 14,
     "internalName": "DiziMag",
     "description": "En son çıkan yabancı dizi ve filmleri DiziMag farkıyla full hd 1080p kalitede izle. Dizimag Geniş ve güncel arşiviyle dizi ve filmlerin tadını çıkartın.",
     "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/DiziMag.cs3",
@@ -1986,7 +1986,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=fullhdfilm.us&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-    "fileSize": 18179,
+    "fileSize": 18195,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -1996,7 +1996,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 32,
+    "version": 33,
     "internalName": "FullHDFilm",
     "description": "Fullhdfilm ile en yeni vizyon filmler Full HD ve kesintisiz film sizlerle. Özgün film arşivimizle en üstün kaliteli film izle keyfini sunuyoruz.",
     "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/FullHDFilm.cs3",
@@ -2409,10 +2409,10 @@
     "name": "kısakod:kraptorcs"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=dizipal1204.com&sz=32",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=dizipal1205.com&sz=32",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/sarapcanagii/Pitipitii",
-    "fileSize": 20396,
+    "fileSize": 20397,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -2422,7 +2422,7 @@
       "TvSeries",
       "Movie"
     ],
-    "version": 41,
+    "version": 42,
     "internalName": "DiziPal",
     "description": "En yeni dizileri güvenli ve hızlı şekilde sunar.",
     "url": "https://raw.githubusercontent.com/sarapcanagii/Pitipitii/builds/DiziPal.cs3",
