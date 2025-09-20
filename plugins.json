@@ -1871,7 +1871,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal952.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-    "fileSize": 19441,
+    "fileSize": 19444,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -1881,7 +1881,7 @@
       "TvSeries",
       "Movie"
     ],
-    "version": 23,
+    "version": 24,
     "internalName": "DiziPal",
     "description": "en yeni dizileri güvenli ve hızlı şekilde sunar.",
     "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziPal.cs3",
@@ -2409,10 +2409,10 @@
     "name": "kısakod:kraptorcs"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=dizipal1205.com&sz=32",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=dizipal1206.com&sz=32",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/sarapcanagii/Pitipitii",
-    "fileSize": 20397,
+    "fileSize": 20395,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -2422,7 +2422,7 @@
       "TvSeries",
       "Movie"
     ],
-    "version": 42,
+    "version": 43,
     "internalName": "DiziPal",
     "description": "En yeni dizileri güvenli ve hızlı şekilde sunar.",
     "url": "https://raw.githubusercontent.com/sarapcanagii/Pitipitii/builds/DiziPal.cs3",
@@ -2451,7 +2451,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.4kfilmizlesene.org&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
-    "fileSize": 11118,
+    "fileSize": 11116,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -2460,7 +2460,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 4,
+    "version": 5,
     "internalName": "4KFilmIzlesene",
     "description": "En yeni ve sorunsuz ⚡  Full HD Film izle keyfi her yerde sizinle ! 4K ve 1080p online film izleme farkıyla 4KFilmizlesene&amp;#039;nin Tadını Çıkart.",
     "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/4KFilmIzlesene.cs3",
@@ -2603,7 +2603,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizigom1.co&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
-    "fileSize": 17816,
+    "fileSize": 17812,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -2613,7 +2613,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 7,
+    "version": 8,
     "internalName": "DiziGom",
     "description": "Türkçe altyazılı yabancı dizi izle, Tüm yabancı, kore, netflix dizilerin yeni ve eski sezonlarını orijinal dilinde dizigom1 alt yazılı film izleyebilir, sadece türkçe altyazılı en iyi yabancı diziler ve filmler hakkında yorum yapabilirsiniz.",
     "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/DiziGom.cs3",
@@ -2699,7 +2699,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal683.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
-    "fileSize": 18652,
+    "fileSize": 18654,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -2709,7 +2709,7 @@
       "TvSeries",
       "Movie"
     ],
-    "version": 36,
+    "version": 37,
     "internalName": "DiziPal",
     "description": "en yeni dizileri güvenli ve hızlı şekilde sunar.",
     "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/DiziPal.cs3",
@@ -3223,7 +3223,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=sezonlukdizi6.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
-    "fileSize": 22155,
+    "fileSize": 22153,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3232,7 +3232,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 4,
+    "version": 5,
     "internalName": "SezonlukDizi",
     "description": "Güncel ve eski dizileri en iyi görüntü kalitesiyle bulabileceğiniz yabancı dizi izleme siteniz.",
     "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/SezonlukDizi.cs3",
