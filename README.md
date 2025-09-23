@@ -1,8 +1,8 @@
-### Son Güncelleme: 22.09.2025 23:11
+### Son Güncelleme: 23.09.2025 23:11
 
 ### Repo Kısa Kodu: TRplugins
 
-### Toplam Eklenti Sayısı: 98
+### Toplam Eklenti Sayısı: 93
 
 ---
 
@@ -29,9 +29,6 @@
 | <img src="https://www.google.com/s2/favicons?domain=ddizi.im&sz=64" width="32" style="vertical-align:middle;"> | **DDizi** | Dizi | 🇹🇷 [TR] |
 | <img src="https://www.ddizi.im/images/logo.png" width="32" style="vertical-align:middle;"> | **DDizi - Latte** | Dizi | 🇹🇷 [TR] |
 | <img src="https://www.dmax.com.tr/favicon.ico" width="32" style="vertical-align:middle;"> | **DMax** | Dizi | 🇹🇷 [TR] |
-| <img src="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events.png" width="32" style="vertical-align:middle;"> | **DaddyLive Events (Açık) - Latte** | Canlı TV | 🇹🇷 [TR] |
-| <img src="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive.png" width="32" style="vertical-align:middle;"> | **DaddyLive Spor (Açık) - Latte** | Canlı TV | 🇹🇷 [TR] |
-| <img src="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-vpn.png" width="32" style="vertical-align:middle;"> | **DaddyLive Spor (VPN) - Latte** | Canlı TV | 🇹🇷 [TR] |
 | <img src="https://www.ddizi.im/favicon.ico" width="32" style="vertical-align:middle;"> | **Ddizi** | Dizi | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=www.dizibox.live&sz=64" width="32" style="vertical-align:middle;"> | **DiziBox** | Dizi | 🇹🇷 [TR] |
 | <img src="https://dizifun3.com/images/data/darklogo.png" width="32" style="vertical-align:middle;"> | **DiziFun - Latte** | Dizi, Film | 🇹🇷 [TR] |
@@ -81,7 +78,6 @@
 | <img src="https://www.tlctv.com.tr/favicon.ico" width="32" style="vertical-align:middle;"> | **TLC** | Dizi | 🇹🇷 [TR] |
 | <img src="https://www.tlctv.com.tr/favicon.ico" width="32" style="vertical-align:middle;"> | **TLCTR** | Dizi | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=www.tlctv.com.tr&sz=64" width="32" style="vertical-align:middle;"> | **TLCtr** | Film | 🇹🇷 [TR] |
-| <img src="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" width="32" style="vertical-align:middle;"> | **TO Grup Türkiye (VPN) - Latte** | Canlı TV | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=tranimaci.com&sz=64" width="32" style="vertical-align:middle;"> | **TRanimaci** | Anime | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=asyalog.com&sz=64" width="32" style="vertical-align:middle;"> | **TRasyalog** | Dizi | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=tafdi.info&sz=64" width="32" style="vertical-align:middle;"> | **Tafdi** | Film | 🇹🇷 [TR] |
@@ -92,7 +88,6 @@
 | <img src="https://www.google.com/s2/favicons?domain=tvdiziler.cc&sz=64" width="32" style="vertical-align:middle;"> | **TvDiziler** | Dizi | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=twitch.tv&sz=64" width="32" style="vertical-align:middle;"> | **Twitch** | Canlı TV | 🏴‍☠️ |
 | <img src="https://www.google.com/s2/favicons?domain=ugurfilm7.com&sz=64" width="32" style="vertical-align:middle;"> | **UgurFilm** | Film | 🇹🇷 [TR] |
-| <img src="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" width="32" style="vertical-align:middle;"> | **Vavoo Türkiye (Açık) - Latte** | Canlı TV | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=wfilmizle.my&sz=64" width="32" style="vertical-align:middle;"> | **WFilmİzle** | Film | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=watch2movies.net&sz=64" width="32" style="vertical-align:middle;"> | **Watch2Movies** | Film | 🇬🇧 [GB] |
 | <img src="https://webdramaturkey.org/public/static/logo.webp?v=1.0.19" width="32" style="vertical-align:middle;"> | **WebDramaTurkey** | Asya Dizisi, Film, Dizi, Anime | 🇹🇷 [TR] |
