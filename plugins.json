@@ -1833,7 +1833,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.club&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-    "fileSize": 27165,
+    "fileSize": 27151,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -1842,7 +1842,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 37,
+    "version": 38,
     "internalName": "Dizilla",
     "description": "Dizilla tüm yabancı dizileri ücretsiz olarak Türkçe Dublaj ve altyazılı seçenekleri ile 1080P kalite izleyebileceğiniz yeni nesil yabancı dizi izleme siteniz.",
     "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/Dizilla.cs3",
@@ -2085,7 +2085,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=koreanturk.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-    "fileSize": 12242,
+    "fileSize": 12240,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -2094,7 +2094,7 @@
     "tvTypes": [
       "AsianDrama"
     ],
-    "version": 6,
+    "version": 7,
     "internalName": "KoreanTurk",
     "description": "Güney Kore sevdalılarının vazgeçemediği ve Türkiye'nin en çok ziyaret edilen Güney Kore Portalı; Koreantürk'e hoşgeldiniz!",
     "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/KoreanTurk.cs3",
@@ -2104,7 +2104,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=kultfilmler.net&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-    "fileSize": 21934,
+    "fileSize": 21932,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -2114,7 +2114,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 12,
+    "version": 13,
     "internalName": "KultFilmler",
     "description": "Kült Filmler özenle en iyi filmleri derler ve iyi bir altyazılı film izleme deneyimi sunmayı amaçlar",
     "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/KultFilmler.cs3",
@@ -2251,7 +2251,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 18,
+    "version": 19,
     "internalName": "SuperFilmGeldi",
     "description": "Hd film izliyerek arkadaşlarınızla ve sevdiklerinizle iyi bir vakit geçirmek istiyorsanız açın bir film eğlenmeye bakın. Bilim kurgu filmleri, aşk drama vahşet aşk romantik sıradışı korku filmlerini izle.",
     "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/SuperFilmGeldi.cs3",
@@ -3291,7 +3291,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 13,
+    "version": 14,
     "internalName": "SuperFilmGeldi",
     "description": "Hd film izliyerek arkadaşlarınızla ve sevdiklerinizle iyi bir vakit geçirmek istiyorsanız açın bir film eğlenmeye bakın. Bilim kurgu filmleri, aşk drama vahşet aşk romantik sıradışı korku filmlerini izle.",
     "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/SuperFilmGeldi.cs3",
