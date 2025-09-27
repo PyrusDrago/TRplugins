@@ -916,7 +916,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 15,
+    "version": 16,
     "internalName": "DiziMag",
     "description": "En son çıkan yabancı dizi ve filmleri DiziMag farkıyla full hd 1080p kalitede izle. Dizimag Geniş ve güncel arşiviyle dizi ve filmlerin tadını çıkartın.",
     "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/DiziMag.cs3",
@@ -945,7 +945,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal683.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-    "fileSize": 19206,
+    "fileSize": 19208,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -955,7 +955,7 @@
       "TvSeries",
       "Movie"
     ],
-    "version": 42,
+    "version": 43,
     "internalName": "DiziPal",
     "description": "en yeni dizileri güvenli ve hızlı şekilde sunar.",
     "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/DiziPal.cs3",
@@ -1275,7 +1275,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.koreanturk.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-    "fileSize": 12215,
+    "fileSize": 12216,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -1284,7 +1284,7 @@
     "tvTypes": [
       "AsianDrama"
     ],
-    "version": 5,
+    "version": 6,
     "internalName": "KoreanTurk",
     "description": "Güney Kore sevdalılarının vazgeçemediği ve Türkiye'nin en çok ziyaret edilen Güney Kore Portalı; Koreantürk'e hoşgeldiniz!",
     "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/KoreanTurk.cs3",
@@ -1491,7 +1491,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.superfilmgeldi.biz&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-    "fileSize": 19771,
+    "fileSize": 19769,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -1500,7 +1500,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 22,
+    "version": 23,
     "internalName": "SuperFilmGeldi",
     "description": "Hd film izliyerek arkadaşlarınızla ve sevdiklerinizle iyi bir vakit geçirmek istiyorsanız açın bir film eğlenmeye bakın. Bilim kurgu filmleri, aşk drama vahşet aşk romantik sıradışı korku filmlerini izle.",
     "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/SuperFilmGeldi.cs3",
@@ -1624,7 +1624,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=webteizle2.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-    "fileSize": 30571,
+    "fileSize": 30572,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -2346,7 +2346,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 10,
+    "version": 11,
     "internalName": "UgurFilm",
     "description": "Yabancı film izle, Türkçe dublaj ve Türkçe altyazılı film seçenekleriyle 720p ve 1080p HD kalitesinde film izle - Uğur Film full hd film izle.",
     "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/UgurFilm.cs3",
