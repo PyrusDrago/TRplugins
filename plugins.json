@@ -2661,7 +2661,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizimag.net&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
-    "fileSize": 26645,
+    "fileSize": 26643,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -2670,7 +2670,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 14,
+    "version": 15,
     "internalName": "DiziMag",
     "description": "En son çıkan yabancı dizi ve filmleri DiziMag farkıyla full hd 1080p kalitede izle. Dizimag Geniş ve güncel arşiviyle dizi ve filmlerin tadını çıkartın.",
     "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/DiziMag.cs3",
