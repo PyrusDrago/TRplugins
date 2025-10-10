@@ -1871,7 +1871,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal952.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-    "fileSize": 19443,
+    "fileSize": 19440,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -1881,7 +1881,7 @@
       "TvSeries",
       "Movie"
     ],
-    "version": 26,
+    "version": 27,
     "internalName": "DiziPal",
     "description": "en yeni dizileri güvenli ve hızlı şekilde sunar.",
     "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziPal.cs3",
@@ -2409,7 +2409,7 @@
     "name": "kısakod:kraptorcs"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=dizipal1209.com&sz=32",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=dizipal1210.com&sz=32",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/sarapcanagii/Pitipitii",
     "fileSize": 20398,
@@ -2422,7 +2422,7 @@
       "TvSeries",
       "Movie"
     ],
-    "version": 46,
+    "version": 47,
     "internalName": "DiziPal",
     "description": "En yeni dizileri güvenli ve hızlı şekilde sunar.",
     "url": "https://raw.githubusercontent.com/sarapcanagii/Pitipitii/builds/DiziPal.cs3",
