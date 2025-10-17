@@ -1852,7 +1852,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizimom.plus&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-    "fileSize": 30904,
+    "fileSize": 30902,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -1861,7 +1861,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 31,
+    "version": 32,
     "internalName": "DiziMom",
     "description": "Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
     "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziMom.cs3",
@@ -2066,7 +2066,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://jetfilmizle.de&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-    "fileSize": 16423,
+    "fileSize": 16427,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -2075,7 +2075,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 39,
+    "version": 40,
     "internalName": "JetFilmizle",
     "description": "Binlerce Film İzleme Seçeneğiyle En İyi Film İzleme Sitesi",
     "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/JetFilmizle.cs3",
