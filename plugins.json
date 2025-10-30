@@ -2223,7 +2223,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.superfilmgeldi.info&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-    "fileSize": 18071,
+    "fileSize": 18072,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -2232,7 +2232,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 21,
+    "version": 22,
     "internalName": "SuperFilmGeldi",
     "description": "Hd film izliyerek arkadaşlarınızla ve sevdiklerinizle iyi bir vakit geçirmek istiyorsanız açın bir film eğlenmeye bakın. Bilim kurgu filmleri, aşk drama vahşet aşk romantik sıradışı korku filmlerini izle.",
     "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/SuperFilmGeldi.cs3",
