@@ -1,4 +1,4 @@
-### Son Güncelleme: 01.11.2025 23:09
+### Son Güncelleme: 02.11.2025 23:10
 
 ### Repo Kısa Kodu: TRplugins
 
