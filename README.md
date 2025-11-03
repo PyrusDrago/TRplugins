@@ -1,8 +1,8 @@
-### Son Güncelleme: 02.11.2025 23:10
+### Son Güncelleme: 03.11.2025 23:12
 
 ### Repo Kısa Kodu: TRplugins
 
-### Toplam Eklenti Sayısı: 93
+### Toplam Eklenti Sayısı: 92
 
 ---
 
@@ -39,7 +39,6 @@
 | <img src="https://www.google.com/s2/favicons?domain=https://dizipal952.com&sz=64" width="32" style="vertical-align:middle;"> | **DiziPal** | Dizi, Film | 🇹🇷 [TR] |
 | <img src="https://cdn.diziyou6.com/wp-content/uploads/2020/04/diziyou-favicon.png" width="32" style="vertical-align:middle;"> | **DiziYou** | Dizi | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=dizilla.club&sz=64" width="32" style="vertical-align:middle;"> | **Dizilla** | Dizi | 🇹🇷 [TR] |
-| <img src="https://raw.githubusercontent.com/Kohi-den/extensions-source/927f9c68fd64ce52f6212ae633d0f0585eca3545/src/en/donghuastream/res/mipmap-xxxhdpi/ic_launcher.png" width="32" style="vertical-align:middle;"> | **Donghuastream** | Anime | 🇨🇳 [CN] |
 | <img src="https://filmbip.com/uploads/favicon/original/favicon.webp" width="32" style="vertical-align:middle;"> | **FilmBip** | Film | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=www.filmizleilk.com&sz=64" width="32" style="vertical-align:middle;"> | **FilmIzleIlk** | Film, Dizi | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=filmkovasi.tv&sz=64" width="32" style="vertical-align:middle;"> | **FilmKovasi** | Film | 🇹🇷 [TR] |
