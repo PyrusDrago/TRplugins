@@ -1804,7 +1804,7 @@
     "tvTypes": [
       "AsianDrama"
     ],
-    "version": 30,
+    "version": 31,
     "internalName": "DiziKorea",
     "description": "En Güncel Kore Dizileri izleme Sitesi",
     "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziKorea.cs3",
@@ -2270,7 +2270,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 52,
+    "version": 53,
     "internalName": "TRasyalog",
     "description": "TRasyalog izleme sitesi.",
     "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/TRasyalog.cs3",
