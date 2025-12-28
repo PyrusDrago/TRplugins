@@ -2337,7 +2337,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=webteizle2.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-    "fileSize": 20742,
+    "fileSize": 20741,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -2346,7 +2346,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 14,
+    "version": 15,
     "internalName": "WebteIzle",
     "description": "Her türlü filmi ister dublaj ister altyazılı, en kaliteli bir şekilde izleyebileceğiniz arşivi en geniş gerçek film izleme siteniz.",
     "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/WebteIzle.cs3",
