@@ -2394,7 +2394,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=colorhunt.co&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/sarapcanagii/Pitipitii",
-    "fileSize": 18712,
+    "fileSize": 18814,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -2403,9 +2403,9 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 9,
+    "version": 12,
     "internalName": "NeonSpor",
-    "description": "(Açılmayan Spor Kanallar İçin VPN Gerekebilir.) NeonSpor eklentisinde BeIN Sports, Tabii Spor, S Sports, Exxen Spor, Smart Spor, Tivibu Spor ve Diğer kanallar mevcuttur.",
+    "description": "(Açılmayan Spor Kanallar İçin VPN Gerekebilir.) NeonSpor eklentisi.",
     "url": "https://raw.githubusercontent.com/sarapcanagii/Pitipitii/builds/NeonSpor.cs3",
     "name": "NeonSpor"
   },
