@@ -1,8 +1,8 @@
-### Son Güncelleme: 26.01.2026 01:51
+### Son Güncelleme: 26.01.2026 01:53
 
 ### Repo Kısa Kodu: TRplugins
 
-### Toplam Eklenti Sayısı: 146
+### Toplam Eklenti Sayısı: 148
 
 ---
 
@@ -59,6 +59,7 @@
 | <img src="https://www.google.com/s2/favicons?domain=dizilla.club&sz=64" width="32" style="vertical-align:middle;"> | **Dizilla** | Dizi | 🇹🇷 [TR] |
 | <img src="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizist.live/&size=128" width="32" style="vertical-align:middle;"> | **Dizist** | Dizi | 🇹🇷 [TR] |
 | <img src="https://www.dmax.com.tr/favicon.ico" width="32" style="vertical-align:middle;"> | **Dmax** | Dizi | 🇹🇷 [TR] |
+| <img src="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.filmbol.org/&size=128" width="32" style="vertical-align:middle;"> | **FilmBOL** | Film, Dizi | 🇹🇷 [TR] |
 | <img src="https://filmbip.com/uploads/favicon/original/favicon.webp" width="32" style="vertical-align:middle;"> | **FilmBip** | Film | 🇹🇷 [TR] |
 | <img src="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://filmekseni.net/&size=128" width="32" style="vertical-align:middle;"> | **FilmEkseni** | Film | 🇹🇷 [TR] |
 | <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRbK_Pe3vpG-yUVt1NvckDpaD6COLDitImrBUnHfAVA4fawhijE" width="32" style="vertical-align:middle;"> | **FilmHane** | Film, Dizi | 🇹🇷 [TR] |
@@ -94,6 +95,7 @@
 | <img src="https://www.google.com/s2/favicons?domain=koreanturk.com&sz=64" width="32" style="vertical-align:middle;"> | **KoreanTurk** | Asya Dizisi | 🇹🇷 [TR] |
 | <img src="https://raw.githubusercontent.com/Kraptor123/cs-kraptor/refs/heads/master/.github/icons/logo/kraptorplus.png" width="32" style="vertical-align:middle;"> | **KraptorPlus** | Dizi, Film, Anime, Çizgi Film, Asya Dizisi, Anime Filmi | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=kultfilmler.net&sz=64" width="32" style="vertical-align:middle;"> | **KultFilmler** | Film, Dizi | 🇹🇷 [TR] |
+| <img src="https://i.imgur.com/BsS4wRT.png" width="32" style="vertical-align:middle;"> | **M3UPlayer** | Canlı TV | 🇹🇷 [TR] |
 | <img src="https://raw.githubusercontent.com/Kraptor123/cs-kraptor/refs/heads/master/.github/icons/logo/mirrorverseicon.png" width="32" style="vertical-align:middle;"> | **MirrorVerse** | Film, Dizi | 🇹🇷 [TR] |
 | <img src="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzikkanallari.png" width="32" style="vertical-align:middle;"> | **Müzik TV ve Radyo - Latte** | Canlı TV | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=colorhunt.co&sz=64" width="32" style="vertical-align:middle;"> | **NeonSpor** | Canlı TV | 🇹🇷 [TR] |
