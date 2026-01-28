@@ -1,4 +1,4 @@
-### Son Güncelleme: 27.01.2026 23:13
+### Son Güncelleme: 28.01.2026 23:17
 
 ### Repo Kısa Kodu: TRplugins
 
@@ -50,7 +50,7 @@
 | <img src="https://www.google.com/s2/favicons?sz=64&domain=dizi18.life" width="32" style="vertical-align:middle;"> | **DiziLife** | Film, Dizi | 🇹🇷 [TR] |
 | <img src="https://dizimag.mom/uploads/logo/original/logo-5063.webp" width="32" style="vertical-align:middle;"> | **DiziMag** | Dizi | 🇹🇷 [TR] |
 | <img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.dizimom.mom&size=32" width="32" style="vertical-align:middle;"> | **DiziMom** | Dizi | 🇹🇷 [TR] |
-| <img src="https://www.google.com/s2/favicons?domain=dizipal1226.com&sz=32" width="32" style="vertical-align:middle;"> | **DiziPal** | Dizi, Film | 🇹🇷 [TR] |
+| <img src="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal1206.com&size=128" width="32" style="vertical-align:middle;"> | **DiziPal** | Film, Dizi | 🇹🇷 [TR] |
 | <img src="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal932.com&size=128" width="32" style="vertical-align:middle;"> | **DiziPalOrijinal** | Dizi | 🇹🇷 [TR] |
 | <img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://diziwatch.tv&size=128" width="32" style="vertical-align:middle;"> | **DiziWatch** | Dizi, Anime | 🇹🇷 [TR] |
 | <img src="https://i.imgur.com/zQYsL6Z.png" width="32" style="vertical-align:middle;"> | **DiziYo** | Dizi, Film, Anime | 🇹🇷 [TR] |
