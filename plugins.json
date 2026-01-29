@@ -2045,14 +2045,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziLife.cs3",
     "status": 1,
-    "version": 24,
+    "version": 25,
     "name": "DiziLife",
     "internalName": "DiziLife",
     "authors": [
       "PyrusDrago"
     ],
     "description": "Dizilife yabancı dizi ve film izlemek için tasarlanmış bir platformdur. Tüm dünyadan yerli/yabancı bütün dizileri ve filmleri ücretsiz ve donmadan izleyebilirsiniz.",
-    "fileSize": 21945,
+    "fileSize": 21946,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -2182,14 +2182,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/FilmHane.cs3",
     "status": 1,
-    "version": 24,
+    "version": 25,
     "name": "FilmHane",
     "internalName": "FilmHane",
     "authors": [
       "PyrusDrago"
     ],
     "description": "Son çıkan en yeni filmleri türkçe dublaj ve türkçe altyazılı dil seçenekleriyle Full HD (1080p) kalitelerinde film izle.",
-    "fileSize": 20563,
+    "fileSize": 20565,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
