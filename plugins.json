@@ -135,14 +135,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Dizilla.cs3",
     "status": 1,
-    "version": 66,
+    "version": 67,
     "name": "Dizilla",
     "internalName": "Dizilla",
     "authors": [
       "PyrusDrago"
     ],
     "description": "1080p yabancı dizi izle. Türkçe altyazılı veya dublaj seçenekleriyle 1080p çözünürlükte yabancı dizilere anında ulaş. Popüler dizileri kesintisiz izle.",
-    "fileSize": 69101,
+    "fileSize": 66314,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -698,14 +698,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/AsyaWatch.cs3",
     "status": 1,
-    "version": 9,
+    "version": 10,
     "name": "AsyaWatch",
     "internalName": "AsyaWatch",
     "authors": [
       "PyrusDrago"
     ],
     "description": "Kore, Çin ve Japon dizilerini tek tıkla HD ve Türkçe altyazılı izle. En güncel Asya dizileri, unutulmaz Asya filmleri ve web dramalar seni bekliyor.",
-    "fileSize": 64382,
+    "fileSize": 61769,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -968,14 +968,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/RoketDizi.cs3",
     "status": 1,
-    "version": 39,
+    "version": 40,
     "name": "RoketDizi",
     "internalName": "RoketDizi",
     "authors": [
       "PyrusDrago"
     ],
     "description": "Türkiye'nin en tatlış yabancı dizi izleme sitesi. Türkçe dublaj, altyazılı, eski ve yeni yabancı dizilerin yanı sıra kore (asya) dizileri izleyebilirsiniz.",
-    "fileSize": 58785,
+    "fileSize": 56207,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -987,14 +987,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/SelcukFlix.cs3",
     "status": 1,
-    "version": 12,
+    "version": 13,
     "name": "SelcukFlix",
     "internalName": "SelcukFlix",
     "authors": [
       "PyrusDrago"
     ],
     "description": "Selcukflix'te her türden en yeni ve en popüler dizi ve filmleri izlemenin keyfini çıkarın. Aksiyondan romantiğe, bilim kurgudan dramaya, geniş kütüphanemizde herkes için bir şey var.",
-    "fileSize": 66393,
+    "fileSize": 63564,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -1851,8 +1851,8 @@
   },
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Anizm.cs3",
-    "status": 1,
-    "version": 43,
+    "status": 0,
+    "version": 44,
     "name": "Anizm",
     "internalName": "Anizm",
     "authors": [
@@ -1890,14 +1890,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/AsyaKing.cs3",
     "status": 1,
-    "version": 8,
+    "version": 9,
     "name": "AsyaKing",
     "internalName": "AsyaKing",
     "authors": [
       "PyrusDrago"
     ],
     "description": "Asya Dizi İzle, kore dizi izle, çin dizi izle, bl dizileri izle denilince akla gelen ilk site ; 1080p fullhd türkçe altyazılı olarak izleyin.",
-    "fileSize": 17698,
+    "fileSize": 15366,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -1985,14 +1985,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziAsia.cs3",
     "status": 1,
-    "version": 7,
+    "version": 8,
     "name": "DiziAsia",
     "internalName": "DiziAsia",
     "authors": [
       "PyrusDrago"
     ],
     "description": "DiziAsia - Asya Dizileri İzle",
-    "fileSize": 18648,
+    "fileSize": 15030,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -2045,14 +2045,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziLife.cs3",
     "status": 1,
-    "version": 25,
+    "version": 26,
     "name": "DiziLife",
     "internalName": "DiziLife",
     "authors": [
       "PyrusDrago"
     ],
     "description": "Dizilife yabancı dizi ve film izlemek için tasarlanmış bir platformdur. Tüm dünyadan yerli/yabancı bütün dizileri ve filmleri ücretsiz ve donmadan izleyebilirsiniz.",
-    "fileSize": 21946,
+    "fileSize": 21947,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -2123,14 +2123,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziYo.cs3",
     "status": 1,
-    "version": 48,
+    "version": 49,
     "name": "DiziYo",
     "internalName": "DiziYo",
     "authors": [
       "PyrusDrago"
     ],
     "description": "Diziyo ile Yabancı Dizi, Film, Anime, Çizgi-Film izle.",
-    "fileSize": 63951,
+    "fileSize": 60535,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -2336,14 +2336,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/HintDizi.cs3",
     "status": 1,
-    "version": 9,
+    "version": 10,
     "name": "HintDizi",
     "internalName": "HintDizi",
     "authors": [
       "PyrusDrago"
     ],
     "description": "En sevilen Hint dizileri ve filmleri, güncel içerikler ve arşivlik yapımlar HintDizi.com'da! Dizi arşivimize göz atın ve favori yapımlarınızı kaçırmayın.",
-    "fileSize": 19182,
+    "fileSize": 16186,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -2393,14 +2393,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/KraptorPlus.cs3",
     "status": 1,
-    "version": 27,
+    "version": 28,
     "name": "KraptorPlus",
     "internalName": "KraptorPlus",
     "authors": [
       "PyrusDrago"
     ],
     "description": "Kaliteli kaynakları ile birlikte KraptorPlus eklentisi, sizlere 4K kalitesine kadar yüksek kaliteli ve altyazılı film izleme zevkini sağlıyor.",
-    "fileSize": 321797,
+    "fileSize": 319823,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -2475,14 +2475,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/OpenAnime.cs3",
     "status": 1,
-    "version": 9,
+    "version": 10,
     "name": "OpenAnime",
     "internalName": "OpenAnime",
     "authors": [
       "PyrusDrago"
     ],
     "description": "Anime izleme deneyiminizi zenginleştiren, hızlı ve etkileyici özelliklerle donatılmış, şık bir tasarıma sahip anime platformu. Anime izleme deneyiminiz, kolaylaştırıldı.",
-    "fileSize": 38743,
+    "fileSize": 33253,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
