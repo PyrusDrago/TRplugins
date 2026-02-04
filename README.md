@@ -1,4 +1,4 @@
-### Son Güncelleme: 03.02.2026 23:24
+### Son Güncelleme: 04.02.2026 23:21
 
 ### Repo Kısa Kodu: TRplugins
 
@@ -136,7 +136,7 @@
 | <img src="https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=64" width="32" style="vertical-align:middle;"> | **TurkSCanliTV** | Canlı TV | 🇹🇷 [TR] |
 | <img src="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/bahcesitv.png" width="32" style="vertical-align:middle;"> | **Tv Bahçesi - Latte** | Canlı TV | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?sz=64&domain=www.tv8.com.tr" width="32" style="vertical-align:middle;"> | **Tv8** | Dizi | 🇹🇷 [TR] |
-| <img src="https://www.google.com/s2/favicons?domain=tvdiziler.cc&sz=64" width="32" style="vertical-align:middle;"> | **TvDiziler** | Dizi | 🇹🇷 [TR] |
+| <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://tvdiziler.cc&size=16" width="32" style="vertical-align:middle;"> | **TvDiziler** | Dizi | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=twitch.tv&sz=64" width="32" style="vertical-align:middle;"> | **Twitch** | Canlı TV | 🏴‍☠️ |
 | <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ugurfilm9.com&size=128" width="32" style="vertical-align:middle;"> | **UgurFilm** | Film | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=wfilmizle.my&sz=64" width="32" style="vertical-align:middle;"> | **WFilmİzle** | Film | 🇹🇷 [TR] |
