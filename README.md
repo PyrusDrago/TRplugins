@@ -1,4 +1,4 @@
-### Son Güncelleme: 04.02.2026 23:21
+### Son Güncelleme: 05.02.2026 23:21
 
 ### Repo Kısa Kodu: TRplugins
 
@@ -140,7 +140,7 @@
 | <img src="https://www.google.com/s2/favicons?domain=twitch.tv&sz=64" width="32" style="vertical-align:middle;"> | **Twitch** | Canlı TV | 🏴‍☠️ |
 | <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ugurfilm9.com&size=128" width="32" style="vertical-align:middle;"> | **UgurFilm** | Film | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=wfilmizle.my&sz=64" width="32" style="vertical-align:middle;"> | **WFilmİzle** | Film | 🇹🇷 [TR] |
-| <img src="https://www.google.com/s2/favicons?domain=watch2movies.net&sz=64" width="32" style="vertical-align:middle;"> | **Watch2Movies** | Film | 🇬🇧 [GB] |
+| <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://watch2movies.net/&size=128" width="32" style="vertical-align:middle;"> | **Watch2Movies** | Film | 🇬🇧 [GB] |
 | <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://webdramaturkey.org/&size=40" width="32" style="vertical-align:middle;"> | **WebDramaTurkey** | Asya Dizisi, Film, Anime | 🇹🇷 [TR] |
 | <img src="https://webdramaturkey.org/public/static/logo.webp?v=2.1.8" width="32" style="vertical-align:middle;"> | **WebDramaTurkey - Latte** | Film, Podcast, Asya Dizisi, Anime | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=webteizle2.com&sz=64" width="32" style="vertical-align:middle;"> | **WebteIzle** | Film | 🇹🇷 [TR] |
