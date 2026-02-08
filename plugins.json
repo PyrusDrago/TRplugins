@@ -193,7 +193,7 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziYou.cs3",
     "status": 1,
-    "version": 37,
+    "version": 38,
     "name": "DiziYou",
     "internalName": "DiziYou",
     "authors": [
@@ -488,14 +488,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/SezonlukDizi.cs3",
     "status": 1,
-    "version": 21,
+    "version": 22,
     "name": "SezonlukDizi",
     "internalName": "SezonlukDizi",
     "authors": [
       "PyrusDrago"
     ],
     "description": "Güncel ve eski dizileri en iyi görüntü kalitesiyle bulabileceğiniz yabancı dizi izleme siteniz.",
-    "fileSize": 33642,
+    "fileSize": 33625,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -698,14 +698,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/AsyaWatch.cs3",
     "status": 1,
-    "version": 12,
+    "version": 13,
     "name": "AsyaWatch",
     "internalName": "AsyaWatch",
     "authors": [
       "PyrusDrago"
     ],
     "description": "Kore, Çin ve Japon dizilerini tek tıkla HD ve Türkçe altyazılı izle. En güncel Asya dizileri, unutulmaz Asya filmleri ve web dramalar seni bekliyor.",
-    "fileSize": 63963,
+    "fileSize": 63974,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -968,14 +968,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/RoketDizi.cs3",
     "status": 1,
-    "version": 41,
+    "version": 42,
     "name": "RoketDizi",
     "internalName": "RoketDizi",
     "authors": [
       "PyrusDrago"
     ],
     "description": "Türkiye'nin en tatlış yabancı dizi izleme sitesi. Türkçe dublaj, altyazılı, eski ve yeni yabancı dizilerin yanı sıra kore (asya) dizileri izleyebilirsiniz.",
-    "fileSize": 56207,
+    "fileSize": 56670,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -987,14 +987,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/SelcukFlix.cs3",
     "status": 1,
-    "version": 15,
+    "version": 16,
     "name": "SelcukFlix",
     "internalName": "SelcukFlix",
     "authors": [
       "PyrusDrago"
     ],
     "description": "Selcukflix'te her türden en yeni ve en popüler dizi ve filmleri izlemenin keyfini çıkarın. Aksiyondan romantiğe, bilim kurgudan dramaya, geniş kütüphanemizde herkes için bir şey var.",
-    "fileSize": 65796,
+    "fileSize": 65800,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -2053,7 +2053,7 @@
       "PyrusDrago"
     ],
     "description": "DiziPal Orijinal.",
-    "fileSize": 71630,
+    "fileSize": 71919,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -2104,14 +2104,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziYo.cs3",
     "status": 1,
-    "version": 49,
+    "version": 50,
     "name": "DiziYo",
     "internalName": "DiziYo",
     "authors": [
       "PyrusDrago"
     ],
     "description": "Diziyo ile Yabancı Dizi, Film, Anime, Çizgi-Film izle.",
-    "fileSize": 60535,
+    "fileSize": 60907,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -2317,14 +2317,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/KickTR.cs3",
     "status": 1,
-    "version": 8,
+    "version": 9,
     "name": "KickTR",
     "internalName": "KickTR",
     "authors": [
       "PyrusDrago"
     ],
     "description": "Kick, canlı yayın yapılan bir platformdur. Daha gevşek kuralları ve yayıncılara daha fazla kazanç sağlamasıyla bilinir. Platform, yayıncılardan sadece %5 kesinti yapar ve bu oran diğer yayın platformlarına göre en düşük kesintilerden biridir.",
-    "fileSize": 28233,
+    "fileSize": 28171,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
