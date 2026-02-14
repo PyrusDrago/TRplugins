@@ -2,14 +2,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/AnimeciX.cs3",
     "status": 1,
-    "version": 33,
+    "version": 34,
     "name": "AnimeciX",
     "internalName": "AnimeciX",
     "authors": [
       "PyrusDrago"
     ],
     "description": "AnimeciX, animeleri keşfedebileceğiniz ve animeler hakkında her şeyi öğrenebileceğiniz bir paylaşım platformudur.",
-    "fileSize": 44730,
+    "fileSize": 45020,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -288,23 +288,23 @@
     "name": "FullHDFilm"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=www.fullhdfilmizlesene.de&sz=%size%",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/maarrem/cs-Kekik",
-    "fileSize": 34067,
+    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/FullHDFilmizlesene.cs3",
     "status": 1,
-    "language": "tr",
+    "version": 28,
+    "name": "FullHDFilmizlesene",
+    "internalName": "FullHDFilmizlesene",
     "authors": [
       "PyrusDrago"
     ],
+    "description": "Sinema zevkini evinize kadar getirdik. Türkiye'nin lider Film sitesinde, en yeni filmleri Full HD izleyin.",
+    "fileSize": 59438,
+    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+    "language": "tr",
     "tvTypes": [
       "Movie"
     ],
-    "version": 27,
-    "internalName": "FullHDFilmizlesene",
-    "description": "Sinema zevkini evinize kadar getirdik. Türkiye'nin lider Film sitesinde, en yeni filmleri Full HD izleyin.",
-    "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/FullHDFilmizlesene.cs3",
-    "name": "FullHDFilmizlesene"
+    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=www.fullhdfilmizlesene.de",
+    "apiVersion": 1
   },
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/HDFilmCehennemi.cs3",
@@ -468,14 +468,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/SetFilmIzle.cs3",
     "status": 1,
-    "version": 27,
+    "version": 28,
     "name": "SetFilmIzle",
     "internalName": "SetFilmIzle",
     "authors": [
       "PyrusDrago"
     ],
     "description": "Setfilmizle sitemizde, donma yaşamadan Türkçe dublaj ve altyazılı filmleri ile dizileri muhteşem 1080p full HD kalitesinde izleyebilirsiniz.",
-    "fileSize": 33548,
+    "fileSize": 33306,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -1406,14 +1406,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/WebDramaTurkey.cs3",
     "status": 1,
-    "version": 21,
+    "version": 22,
     "name": "WebDramaTurkey",
     "internalName": "WebDramaTurkey",
     "authors": [
       "PyrusDrago"
     ],
     "description": "Web Drama Turkey - Kore, Çin, Japon Dizileri, Filmleri ve Animeler",
-    "fileSize": 40267,
+    "fileSize": 42958,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -2144,14 +2144,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/FilmEkseni.cs3",
     "status": 1,
-    "version": 27,
+    "version": 28,
     "name": "FilmEkseni",
     "internalName": "FilmEkseni",
     "authors": [
       "PyrusDrago"
     ],
     "description": "Film Ekseni ⚡ Vizyonda ki, en güncel ve en yeni filmleri full hd kalitesinde türkçe dublaj ve altyazı seçenekleriyle 1080p olarak izleyebileceğiniz adresiniz.",
-    "fileSize": 25184,
+    "fileSize": 25496,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -2336,14 +2336,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/KraptorPlus.cs3",
     "status": 1,
-    "version": 31,
+    "version": 33,
     "name": "KraptorPlus",
     "internalName": "KraptorPlus",
     "authors": [
       "PyrusDrago"
     ],
     "description": "Kaliteli kaynakları ile birlikte KraptorPlus eklentisi, sizlere 4K kalitesine kadar yüksek kaliteli ve altyazılı film izleme zevkini sağlıyor.",
-    "fileSize": 302636,
+    "fileSize": 306711,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -2360,14 +2360,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/MirrorVerse.cs3",
     "status": 1,
-    "version": 13,
+    "version": 15,
     "name": "MirrorVerse",
     "internalName": "MirrorVerse",
     "authors": [
       "PyrusDrago"
     ],
     "description": "Netflix, Disney+ ve Primevideo eklentileri tek bir eklentide kendisi bir eklenti degildir bu 3 eklentiyi kurar, tüm eklentilerde altyazı netflixde dublaj desteği var.",
-    "fileSize": 96549,
+    "fileSize": 101665,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -2745,14 +2745,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Youtube.cs3",
     "status": 1,
-    "version": 27,
+    "version": 29,
     "name": "Youtube",
     "internalName": "Youtube",
     "authors": [
       "PyrusDrago"
     ],
     "description": "Youtube",
-    "fileSize": 122730,
+    "fileSize": 112138,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -2774,7 +2774,7 @@
       "PyrusDrago"
     ],
     "description": "Ücretli Hesabınız Yoksa Kullanamazsınız! Cookie Gerekli Cookie Ne Bilmiyorsanız Araştırınız.",
-    "fileSize": 25973,
+    "fileSize": 25974,
     "repositoryUrl": "https://github.com/ByAyzen/AyzenCS3",
     "language": "tr",
     "tvTypes": [
@@ -2794,13 +2794,32 @@
       "PyrusDrago"
     ],
     "description": "M3UPlayer bir m3u oynatıcısıdır. İçerisinde hiç bir M3U dosyasını barındırmaz! Ayarlar butonuna tıklayarak kendiniz ekleyebilirsiniz.",
-    "fileSize": 91272,
+    "fileSize": 91269,
     "repositoryUrl": "https://github.com/ByAyzen/AyzenCS3",
     "language": "tr",
     "tvTypes": [
       "Live"
     ],
     "iconUrl": "https://i.imgur.com/BsS4wRT.png",
+    "apiVersion": 1
+  },
+  {
+    "url": "https://raw.githubusercontent.com/ByAyzen/AyzenCS3/builds/Torrential.cs3",
+    "status": 1,
+    "version": 2,
+    "name": "Torrential",
+    "internalName": "Torrential",
+    "authors": [
+      "PyrusDrago"
+    ],
+    "description": "Torrential eklentisi sürekli geliştirilebilir bir torrent ve debrid oynatıcı eklentisidir. Mevcut kaynaklar arasından Torrentio ve Comet kullanılmaktadır.",
+    "fileSize": 151635,
+    "repositoryUrl": "https://github.com/ByAyzen/AyzenCS3",
+    "language": "tr",
+    "tvTypes": [
+      "Movie"
+    ],
+    "iconUrl": "https://i.imgur.com/cEOwdKR.png",
     "apiVersion": 1
   }
 ]
