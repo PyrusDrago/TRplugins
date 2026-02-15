@@ -1,8 +1,8 @@
-### Son Güncelleme: 14.02.2026 23:14
+### Son Güncelleme: 15.02.2026 23:14
 
 ### Repo Kısa Kodu: TRplugins
 
-### Toplam Eklenti Sayısı: 145
+### Toplam Eklenti Sayısı: 146
 
 ---
 
@@ -70,7 +70,7 @@
 | <img src="https://www.google.com/s2/favicons?domain=filmizlesene.plus&sz=64" width="32" style="vertical-align:middle;"> | **Filmİzlesene** | Film | 🇹🇷 [TR] |
 | <img src="https://img.flixhq.to/xxrz/400x400/100/ab/5f/ab5f0e1996cc5b71919e10e910ad593e/ab5f0e1996cc5b71919e10e910ad593e.png" width="32" style="vertical-align:middle;"> | **FlixHQ** | Film, Dizi | 🇬🇧 [GB] |
 | <img src="https://www.google.com/s2/favicons?domain=fullhdfilm.us&sz=64" width="32" style="vertical-align:middle;"> | **FullHDFilm** | Film, Dizi | 🇹🇷 [TR] |
-| <img src="https://www.google.com/s2/favicons?domain=www.fullhdfilmizlesene.de&sz=64" width="32" style="vertical-align:middle;"> | **FullHDFilmizlesene** | Film | 🇹🇷 [TR] |
+| <img src="https://www.google.com/s2/favicons?sz=64&domain=www.fullhdfilmizlesene.de" width="32" style="vertical-align:middle;"> | **FullHDFilmizlesene** | Film | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=fullhdfilmizlede.net&sz=64" width="32" style="vertical-align:middle;"> | **FullHDFilmİzlede** | Film | 🇹🇷 [TR] |
 | <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://fullhdizle.one/&size=48" width="32" style="vertical-align:middle;"> | **FullHDIzle** | Film | 🇹🇷 [TR] |
 | <img src="https://www.giniko.com/images/favicon.ico" width="32" style="vertical-align:middle;"> | **GinikoCanli** | Canlı TV | 🇹🇷 [TR] |
@@ -125,6 +125,7 @@
 | <img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.teve2.com.tr/&size=128" width="32" style="vertical-align:middle;"> | **Teve2** | Dizi | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?sz=64&domain=www.tlctv.com.tr" width="32" style="vertical-align:middle;"> | **Tlc** | Dizi | 🇹🇷 [TR] |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/New_qBittorrent_Logo.svg/2048px-New_qBittorrent_Logo.svg.png" width="32" style="vertical-align:middle;"> | **TorrentFilm** | Film, Torrent | 🇹🇷 [TR] |
+| <img src="https://i.imgur.com/cEOwdKR.png" width="32" style="vertical-align:middle;"> | **Torrential** | Film | 🇹🇷 [TR] |
 | <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.tranimeizle.io/&size=128" width="32" style="vertical-align:middle;"> | **TrAnimeIzle** | Anime | 🇹🇷 [TR] |
 | <img src="https://www.trdiziizle.vip/fawn.png" width="32" style="vertical-align:middle;"> | **TrDiziIzle** | Dizi | 🇹🇷 [TR] |
 | <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.trt1.com.tr&size=128" width="32" style="vertical-align:middle;"> | **Trt1** | Dizi | 🇹🇷 [TR] |
