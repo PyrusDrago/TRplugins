@@ -1,8 +1,8 @@
-### Son Güncelleme: 16.02.2026 23:18
+### Son Güncelleme: 17.02.2026 23:25
 
 ### Repo Kısa Kodu: TRplugins
 
-### Toplam Eklenti Sayısı: 146
+### Toplam Eklenti Sayısı: 147
 
 ---
 
@@ -90,6 +90,7 @@
 | <img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.kanald.com.tr/&size=128" width="32" style="vertical-align:middle;"> | **KanalD** | Dizi | 🇹🇷 [TR] |
 | <img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://kick.com&size=48" width="32" style="vertical-align:middle;"> | **KickTR** | Canlı TV | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?sz=64&domain=www.koreanturk.com" width="32" style="vertical-align:middle;"> | **KoreanTurk** | Asya Dizisi | 🇹🇷 [TR] |
+| <img src="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://koredizi.com/&size=128" width="32" style="vertical-align:middle;"> | **Koredizi** | Asya Dizisi | 🇹🇷 [TR] |
 | <img src="https://raw.githubusercontent.com/Kraptor123/cs-kraptor/refs/heads/master/.github/icons/logo/kraptorplus.png" width="32" style="vertical-align:middle;"> | **KraptorPlus** | Dizi, Film, Anime, Çizgi Film, Asya Dizisi, Anime Filmi | 🇹🇷 [TR] |
 | <img src="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://kultfilmler.net&size=32" width="32" style="vertical-align:middle;"> | **KultFilmler** | Film, Dizi | 🇹🇷 [TR] |
 | <img src="https://i.imgur.com/BsS4wRT.png" width="32" style="vertical-align:middle;"> | **M3UPlayer** | Canlı TV | 🇹🇷 [TR] |
@@ -136,7 +137,7 @@
 | <img src="https://www.google.com/s2/favicons?sz=64&domain=www.tv8.com.tr" width="32" style="vertical-align:middle;"> | **Tv8** | Dizi | 🇹🇷 [TR] |
 | <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://tvdiziler.cc&size=16" width="32" style="vertical-align:middle;"> | **TvDiziler** | Dizi | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=twitch.tv&sz=64" width="32" style="vertical-align:middle;"> | **Twitch** | Canlı TV | 🏴‍☠️ |
-| <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ugurfilm9.com&size=128" width="32" style="vertical-align:middle;"> | **UgurFilm** | Film | 🇹🇷 [TR] |
+| <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ugurfilm3.xyz/&size=128" width="32" style="vertical-align:middle;"> | **UgurFilm** | Film | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=wfilmizle.my&sz=64" width="32" style="vertical-align:middle;"> | **WFilmİzle** | Film | 🇹🇷 [TR] |
 | <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://watch2movies.net/&size=128" width="32" style="vertical-align:middle;"> | **Watch2Movies** | Film | 🇬🇧 [GB] |
 | <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://webdramaturkey.org/&size=40" width="32" style="vertical-align:middle;"> | **WebDramaTurkey** | Asya Dizisi, Film, Anime | 🇹🇷 [TR] |
