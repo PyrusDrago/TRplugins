@@ -117,7 +117,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizikorea.vip&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-    "fileSize": 22646,
+    "fileSize": 24705,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -288,23 +288,23 @@
     "name": "FullHDFilm"
   },
   {
-    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/FullHDFilmizlesene.cs3",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.fullhdfilmizlesene.de&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
+    "fileSize": 38903,
     "status": 1,
-    "version": 28,
-    "name": "FullHDFilmizlesene",
-    "internalName": "FullHDFilmizlesene",
+    "language": "tr",
     "authors": [
       "PyrusDrago"
     ],
-    "description": "Sinema zevkini evinize kadar getirdik. Türkiye'nin lider Film sitesinde, en yeni filmleri Full HD izleyin.",
-    "fileSize": 59438,
-    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-    "language": "tr",
     "tvTypes": [
       "Movie"
     ],
-    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=www.fullhdfilmizlesene.de",
-    "apiVersion": 1
+    "version": 28,
+    "internalName": "FullHDFilmizlesene",
+    "description": "Sinema zevkini evinize kadar getirdik. Türkiye'nin lider Film sitesinde, en yeni filmleri Full HD izleyin.",
+    "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/FullHDFilmizlesene.cs3",
+    "name": "FullHDFilmizlesene"
   },
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/HDFilmCehennemi.cs3",
@@ -350,8 +350,8 @@
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://jetfilmizle.de&sz=%size%",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/maarrem/cs-Kekik",
-    "fileSize": 16270,
+    "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
+    "fileSize": 18113,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -360,10 +360,10 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 41,
+    "version": 42,
     "internalName": "JetFilmizle",
     "description": "Binlerce Film İzleme Seçeneğiyle En İyi Film İzleme Sitesi",
-    "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/JetFilmizle.cs3",
+    "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/JetFilmizle.cs3",
     "name": "JetFilmizle"
   },
   {
@@ -468,14 +468,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/SetFilmIzle.cs3",
     "status": 1,
-    "version": 28,
+    "version": 29,
     "name": "SetFilmIzle",
     "internalName": "SetFilmIzle",
     "authors": [
       "PyrusDrago"
     ],
     "description": "Setfilmizle sitemizde, donma yaşamadan Türkçe dublaj ve altyazılı filmleri ile dizileri muhteşem 1080p full HD kalitesinde izleyebilirsiniz.",
-    "fileSize": 33306,
+    "fileSize": 35510,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -584,7 +584,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=asyalog.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-    "fileSize": 13787,
+    "fileSize": 14694,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -1793,8 +1793,8 @@
   },
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/AnimeIzlesene.cs3",
-    "status": 1,
-    "version": 22,
+    "status": 0,
+    "version": 23,
     "name": "AnimeIzlesene",
     "internalName": "AnimeIzlesene",
     "authors": [
@@ -1870,7 +1870,7 @@
   },
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/AsyaKing.cs3",
-    "status": 1,
+    "status": 0,
     "version": 11,
     "name": "AsyaKing",
     "internalName": "AsyaKing",
@@ -1927,7 +1927,7 @@
   },
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/BirAsyaDizi.cs3",
-    "status": 1,
+    "status": 0,
     "version": 15,
     "name": "BirAsyaDizi",
     "internalName": "BirAsyaDizi",
@@ -2005,7 +2005,7 @@
   },
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Dizican.cs3",
-    "status": 1,
+    "status": 0,
     "version": 12,
     "name": "Dizican",
     "internalName": "Dizican",
@@ -2026,14 +2026,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziLife.cs3",
     "status": 1,
-    "version": 28,
+    "version": 29,
     "name": "DiziLife",
     "internalName": "DiziLife",
     "authors": [
       "PyrusDrago"
     ],
     "description": "Dizilife yabancı dizi ve film izlemek için tasarlanmış bir platformdur. Tüm dünyadan yerli/yabancı bütün dizileri ve filmleri ücretsiz ve donmadan izleyebilirsiniz.",
-    "fileSize": 24218,
+    "fileSize": 23140,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -2278,7 +2278,7 @@
   },
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/HintDizi.cs3",
-    "status": 1,
+    "status": 0,
     "version": 12,
     "name": "HintDizi",
     "internalName": "HintDizi",
@@ -2336,14 +2336,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/KraptorPlus.cs3",
     "status": 1,
-    "version": 35,
+    "version": 36,
     "name": "KraptorPlus",
     "internalName": "KraptorPlus",
     "authors": [
       "PyrusDrago"
     ],
     "description": "Kaliteli kaynakları ile birlikte KraptorPlus eklentisi, sizlere 4K kalitesine kadar yüksek kaliteli ve altyazılı film izleme zevkini sağlıyor.",
-    "fileSize": 310702,
+    "fileSize": 330292,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -2572,7 +2572,7 @@
   },
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/TRAnimaci.cs3",
-    "status": 1,
+    "status": 0,
     "version": 4,
     "name": "TRAnimaci",
     "internalName": "TRAnimaci",
@@ -2745,14 +2745,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Youtube.cs3",
     "status": 1,
-    "version": 30,
+    "version": 31,
     "name": "Youtube",
     "internalName": "Youtube",
     "authors": [
       "PyrusDrago"
     ],
     "description": "Youtube",
-    "fileSize": 113221,
+    "fileSize": 114317,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -2787,14 +2787,14 @@
   {
     "url": "https://raw.githubusercontent.com/ByAyzen/AyzenCS3/builds/Koredizi.cs3",
     "status": 1,
-    "version": 1,
+    "version": 2,
     "name": "Koredizi",
     "internalName": "Koredizi",
     "authors": [
       "PyrusDrago"
     ],
     "description": "Koredizi ile yoğun bir günün ardından soluklanıp kısa dizilerle dünyanıza renk katabilirsiniz.",
-    "fileSize": 18221,
+    "fileSize": 25655,
     "repositoryUrl": "https://github.com/ByAyzen/AyzenCS3",
     "language": "tr",
     "tvTypes": [
