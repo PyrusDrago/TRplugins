@@ -967,8 +967,8 @@
   },
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/RoketDizi.cs3",
-    "status": 1,
-    "version": 42,
+    "status": 0,
+    "version": 43,
     "name": "RoketDizi",
     "internalName": "RoketDizi",
     "authors": [
@@ -2064,15 +2064,15 @@
   },
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Dizist.cs3",
-    "status": 1,
-    "version": 16,
+    "status": 0,
+    "version": 17,
     "name": "Dizist",
     "internalName": "Dizist",
     "authors": [
       "PyrusDrago"
     ],
     "description": "Yabancı Dizi izle - Dizist",
-    "fileSize": 21185,
+    "fileSize": 21184,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -2360,14 +2360,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/MirrorVerse.cs3",
     "status": 1,
-    "version": 15,
+    "version": 16,
     "name": "MirrorVerse",
     "internalName": "MirrorVerse",
     "authors": [
       "PyrusDrago"
     ],
     "description": "Netflix, Disney+ ve Primevideo eklentileri tek bir eklentide kendisi bir eklenti degildir bu 3 eklentiyi kurar, tüm eklentilerde altyazı netflixde dublaj desteği var.",
-    "fileSize": 101665,
+    "fileSize": 101915,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -2476,8 +2476,8 @@
   },
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Sinefy.cs3",
-    "status": 1,
-    "version": 21,
+    "status": 0,
+    "version": 22,
     "name": "Sinefy",
     "internalName": "Sinefy",
     "authors": [
