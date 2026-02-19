@@ -1,4 +1,4 @@
-### Son Güncelleme: 18.02.2026 23:27
+### Son Güncelleme: 19.02.2026 23:21
 
 ### Repo Kısa Kodu: TRplugins
 
@@ -70,7 +70,7 @@
 | <img src="https://www.google.com/s2/favicons?domain=filmizlesene.plus&sz=64" width="32" style="vertical-align:middle;"> | **Filmİzlesene** | Film | 🇹🇷 [TR] |
 | <img src="https://img.flixhq.to/xxrz/400x400/100/ab/5f/ab5f0e1996cc5b71919e10e910ad593e/ab5f0e1996cc5b71919e10e910ad593e.png" width="32" style="vertical-align:middle;"> | **FlixHQ** | Film, Dizi | 🇬🇧 [GB] |
 | <img src="https://www.google.com/s2/favicons?domain=fullhdfilm.us&sz=64" width="32" style="vertical-align:middle;"> | **FullHDFilm** | Film, Dizi | 🇹🇷 [TR] |
-| <img src="https://www.google.com/s2/favicons?sz=64&domain=www.fullhdfilmizlesene.de" width="32" style="vertical-align:middle;"> | **FullHDFilmizlesene** | Film | 🇹🇷 [TR] |
+| <img src="https://www.google.com/s2/favicons?domain=www.fullhdfilmizlesene.de&sz=64" width="32" style="vertical-align:middle;"> | **FullHDFilmizlesene** | Film | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=fullhdfilmizlede.net&sz=64" width="32" style="vertical-align:middle;"> | **FullHDFilmİzlede** | Film | 🇹🇷 [TR] |
 | <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://fullhdizle.one/&size=48" width="32" style="vertical-align:middle;"> | **FullHDIzle** | Film | 🇹🇷 [TR] |
 | <img src="https://www.giniko.com/images/favicon.ico" width="32" style="vertical-align:middle;"> | **GinikoCanli** | Canlı TV | 🇹🇷 [TR] |
