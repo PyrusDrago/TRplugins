@@ -369,14 +369,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/KoreanTurk.cs3",
     "status": 1,
-    "version": 14,
+    "version": 15,
     "name": "KoreanTurk",
     "internalName": "KoreanTurk",
     "authors": [
       "PyrusDrago"
     ],
     "description": "Güney Kore sevdalılarının vazgeçemediği ve Türkiye'nin en çok ziyaret edilen Güney Kore Portalı; Koreantürk'e hoşgeldiniz!",
-    "fileSize": 19325,
+    "fileSize": 19760,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -1406,14 +1406,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/WebDramaTurkey.cs3",
     "status": 1,
-    "version": 23,
+    "version": 24,
     "name": "WebDramaTurkey",
     "internalName": "WebDramaTurkey",
     "authors": [
       "PyrusDrago"
     ],
     "description": "Web Drama Turkey - Kore, Çin, Japon Dizileri, Filmleri ve Animeler",
-    "fileSize": 43921,
+    "fileSize": 44231,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -2418,14 +2418,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/OpenAnime.cs3",
     "status": 1,
-    "version": 12,
+    "version": 13,
     "name": "OpenAnime",
     "internalName": "OpenAnime",
     "authors": [
       "PyrusDrago"
     ],
     "description": "Anime izleme deneyiminizi zenginleştiren, hızlı ve etkileyici özelliklerle donatılmış, şık bir tasarıma sahip anime platformu. Anime izleme deneyiminiz, kolaylaştırıldı.",
-    "fileSize": 35344,
+    "fileSize": 34542,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -2438,14 +2438,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/SeiCode.cs3",
     "status": 1,
-    "version": 9,
+    "version": 10,
     "name": "SeiCode",
     "internalName": "SeiCode",
     "authors": [
       "PyrusDrago"
     ],
     "description": "Seicode ile en yeni animeler keşfedin!",
-    "fileSize": 31438,
+    "fileSize": 32879,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -2610,8 +2610,8 @@
   },
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/TrDiziIzle.cs3",
-    "status": 1,
-    "version": 16,
+    "status": 0,
+    "version": 17,
     "name": "TrDiziIzle",
     "internalName": "TrDiziIzle",
     "authors": [
