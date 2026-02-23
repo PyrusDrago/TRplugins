@@ -2,14 +2,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/AnimeciX.cs3",
     "status": 1,
-    "version": 36,
+    "version": 37,
     "name": "AnimeciX",
     "internalName": "AnimeciX",
     "authors": [
       "PyrusDrago"
     ],
     "description": "AnimeciX, animeleri keşfedebileceğiniz ve animeler hakkında her şeyi öğrenebileceğiniz bir paylaşım platformudur.",
-    "fileSize": 47813,
+    "fileSize": 48176,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -21,14 +21,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/BelgeselX.cs3",
     "status": 1,
-    "version": 20,
+    "version": 21,
     "name": "BelgeselX",
     "internalName": "BelgeselX",
     "authors": [
       "PyrusDrago"
     ],
     "description": "En yeni belgeseller, türkçe altyazılı yada dublaj olarak 1080p kalitesinde HD belgesel izle.",
-    "fileSize": 27126,
+    "fileSize": 24819,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -350,14 +350,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/JetFilmizle.cs3",
     "status": 1,
-    "version": 45,
+    "version": 46,
     "name": "JetFilmizle",
     "internalName": "JetFilmizle",
     "authors": [
       "PyrusDrago"
     ],
     "description": "Binlerce Film İzleme Seçeneğiyle En İyi Film İzleme Sitesi",
-    "fileSize": 47003,
+    "fileSize": 46285,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -447,8 +447,8 @@
   {
     "iconUrl": "https://rectvapp.com.tr/wp-content/uploads/2024/08/cropped-cropped-Screenshot_2023-08-31_at_11.02.55_PM-removebg-preview-32x32.webp",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/maarrem/cs-Kekik",
-    "fileSize": 24211,
+    "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
+    "fileSize": 25507,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -459,10 +459,10 @@
       "Live",
       "TvSeries"
     ],
-    "version": 97,
+    "version": 98,
     "internalName": "RecTV",
     "description": "RecTv APK, Türkiye’deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
-    "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/RecTV.cs3",
+    "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/RecTV.cs3",
     "name": "RecTV"
   },
   {
@@ -488,14 +488,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/SezonlukDizi.cs3",
     "status": 1,
-    "version": 23,
+    "version": 24,
     "name": "SezonlukDizi",
     "internalName": "SezonlukDizi",
     "authors": [
       "PyrusDrago"
     ],
     "description": "Güncel ve eski dizileri en iyi görüntü kalitesiyle bulabileceğiniz yabancı dizi izleme siteniz.",
-    "fileSize": 34765,
+    "fileSize": 36230,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -602,14 +602,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/TurkAnime.cs3",
     "status": 1,
-    "version": 21,
+    "version": 22,
     "name": "TurkAnime",
     "internalName": "TurkAnime",
     "authors": [
       "PyrusDrago"
     ],
     "description": "Türk Anime TV - Türkiye'nin Online Anime izleme sitesi.",
-    "fileSize": 34576,
+    "fileSize": 43245,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -622,14 +622,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/UgurFilm.cs3",
     "status": 1,
-    "version": 25,
+    "version": 26,
     "name": "UgurFilm",
     "internalName": "UgurFilm",
     "authors": [
       "PyrusDrago"
     ],
     "description": "Yabancı film izle, Türkçe dublaj ve Türkçe altyazılı film seçenekleriyle 720p ve 1080p HD kalitesinde film izle - Uğur Film full hd film izle.",
-    "fileSize": 28450,
+    "fileSize": 30521,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -1139,23 +1139,24 @@
     "name": "XPrime"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=yabancidizi.tv&sz=%size%",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-    "fileSize": 43072,
+    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/YabanciDizi.cs3",
     "status": 1,
-    "language": "tr",
+    "version": 9,
+    "name": "YabanciDizi",
+    "internalName": "YabanciDizi",
     "authors": [
       "PyrusDrago"
     ],
+    "description": "Son çıkan yabancı dizi ve filmleri yabancidizi' de izle. En yeni yabancı film ve diziler, türkçe altyazılı yada dublaj olarak 1080p kalitesinde hd izle.",
+    "fileSize": 36670,
+    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+    "language": "tr",
     "tvTypes": [
+      "Movie",
       "TvSeries"
     ],
-    "version": 8,
-    "internalName": "YabanciDizi",
-    "description": "Son çıkan yabancı dizi ve filmleri yabancidizi' de izle. En yeni yabancı film ve diziler, türkçe altyazılı yada dublaj olarak 1080p kalitesinde hd izle.",
-    "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/YabanciDizi.cs3",
-    "name": "YabanciDizi"
+    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://yabancidizi.so/&size=128",
+    "apiVersion": 1
   },
   {
     "iconUrl": "https://www.4kfilmizleme.net/wp-content/uploads/2022/09/4kfilmizlemefavicon-1.png",
@@ -1406,14 +1407,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/WebDramaTurkey.cs3",
     "status": 1,
-    "version": 24,
+    "version": 25,
     "name": "WebDramaTurkey",
     "internalName": "WebDramaTurkey",
     "authors": [
       "PyrusDrago"
     ],
     "description": "Web Drama Turkey - Kore, Çin, Japon Dizileri, Filmleri ve Animeler",
-    "fileSize": 44231,
+    "fileSize": 45583,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -1793,14 +1794,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Animeler.cs3",
     "status": 1,
-    "version": 27,
+    "version": 29,
     "name": "Animeler",
     "internalName": "Animeler",
     "authors": [
       "PyrusDrago"
     ],
     "description": "HD kalitesinde ücretsiz anime izle! Animeler.me, en yeni ve popüler anime serilerini Türkçe altyazılı ve dublajlı olarak sunar. Favori animelerini hemen keşfet!",
-    "fileSize": 22409,
+    "fileSize": 36045,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -1908,14 +1909,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/CizgiveDizi.cs3",
     "status": 1,
-    "version": 25,
+    "version": 26,
     "name": "CizgiveDizi",
     "internalName": "CizgiveDizi",
     "authors": [
       "PyrusDrago"
     ],
     "description": "Ücretsiz bir şekilde çizgi dizi, dizi, anime ve daha fazlasını eski-yeni demeden izleyebilirsiniz.",
-    "fileSize": 35992,
+    "fileSize": 36106,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -1946,14 +1947,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziAsya.cs3",
     "status": 1,
-    "version": 12,
+    "version": 13,
     "name": "DiziAsya",
     "internalName": "DiziAsya",
     "authors": [
       "PyrusDrago"
     ],
     "description": "Asya'nın en iyi Çin ve Kore dizilerini ve filmlerini keşfedin! Romantizm, dram, aksiyon... Diziasya ile Asya kültürüne hemen adım atın!",
-    "fileSize": 52682,
+    "fileSize": 50377,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
