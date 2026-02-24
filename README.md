@@ -1,4 +1,4 @@
-### Son Güncelleme: 23.02.2026 23:33
+### Son Güncelleme: 24.02.2026 23:23
 
 ### Repo Kısa Kodu: TRplugins
 
@@ -138,7 +138,7 @@
 | <img src="https://www.google.com/s2/favicons?domain=webteizle2.com&sz=64" width="32" style="vertical-align:middle;"> | **WebteIzle** | Film | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=xprime.tv&sz=64" width="32" style="vertical-align:middle;"> | **XPrime** | Film | 🇹🇷 [TR] |
 | <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://en.yts-official.mx&size=128" width="32" style="vertical-align:middle;"> | **YTS** | Film, Torrent | 🇹🇷 [TR] |
-| <img src="https://www.google.com/s2/favicons?domain=yabancidizi.tv&sz=64" width="32" style="vertical-align:middle;"> | **YabanciDizi** | Dizi | 🇹🇷 [TR] |
+| <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://yabancidizi.so/&size=128" width="32" style="vertical-align:middle;"> | **YabanciDizi** | Film, Dizi | 🇹🇷 [TR] |
 | <img src="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.yenikaynak.com/&size=16" width="32" style="vertical-align:middle;"> | **YeniKaynak** | Film, Dizi | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?sz=64&domain=yeniwatch.net.tr" width="32" style="vertical-align:middle;"> | **YeniWatch** | Anime | 🇹🇷 [TR] |
 | <img src="https://png.pngtree.com/png-clipart/20220823/ourmid/pngtree-turkey-country-flag-pin-icon-png-image_6120061.png" width="32" style="vertical-align:middle;"> | **YerelDiziler** | Tv series | 🇹🇷 [TR] |
