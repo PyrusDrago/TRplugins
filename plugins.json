@@ -59,14 +59,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/CizgiMax.cs3",
     "status": 1,
-    "version": 19,
+    "version": 20,
     "name": "CizgiMax",
     "internalName": "CizgiMax",
     "authors": [
       "PyrusDrago"
     ],
     "description": "ÇizgiMax ile Çizgi Film izlemek artık daha kolay, donmadan full hd ve reklamsız bir sitedir, içerisinde 700 den fazla çizgi film olan, Bu site bu işi profesyonelce yapıyor.",
-    "fileSize": 31035,
+    "fileSize": 31038,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -350,14 +350,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/JetFilmizle.cs3",
     "status": 1,
-    "version": 49,
+    "version": 50,
     "name": "JetFilmizle",
     "internalName": "JetFilmizle",
     "authors": [
       "PyrusDrago"
     ],
     "description": "Binlerce Film İzleme Seçeneğiyle En İyi Film İzleme Sitesi",
-    "fileSize": 48901,
+    "fileSize": 49558,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -757,14 +757,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziMag.cs3",
     "status": 1,
-    "version": 38,
+    "version": 39,
     "name": "DiziMag",
     "internalName": "DiziMag",
     "authors": [
       "PyrusDrago"
     ],
     "description": "En son çıkan yabancı dizi ve filmleri DiziMag farkıyla full hd 1080p kalitede izle. Dizimag Geniş ve güncel arşiviyle dizi ve filmlerin tadını çıkartın.",
-    "fileSize": 35155,
+    "fileSize": 35261,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -1968,14 +1968,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziLife.cs3",
     "status": 1,
-    "version": 29,
+    "version": 30,
     "name": "DiziLife",
     "internalName": "DiziLife",
     "authors": [
       "PyrusDrago"
     ],
     "description": "Dizilife yabancı dizi ve film izlemek için tasarlanmış bir platformdur. Tüm dünyadan yerli/yabancı bütün dizileri ve filmleri ücretsiz ve donmadan izleyebilirsiniz.",
-    "fileSize": 23140,
+    "fileSize": 23175,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -2493,8 +2493,8 @@
   },
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Trt1.cs3",
-    "status": 0,
-    "version": 5,
+    "status": 1,
+    "version": 6,
     "name": "Trt1",
     "internalName": "Trt1",
     "authors": [
@@ -2590,14 +2590,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/YesilCamTv.cs3",
     "status": 1,
-    "version": 4,
+    "version": 5,
     "name": "YesilCamTv",
     "internalName": "YesilCamTv",
     "authors": [
       "PyrusDrago"
     ],
     "description": "Türk sinemasının unutulmaz filmler bu adreste.",
-    "fileSize": 18375,
+    "fileSize": 19949,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -2608,15 +2608,15 @@
   },
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Youtube.cs3",
-    "status": 0,
-    "version": 33,
+    "status": 1,
+    "version": 34,
     "name": "Youtube",
     "internalName": "Youtube",
     "authors": [
       "PyrusDrago"
     ],
     "description": "Youtube",
-    "fileSize": 114800,
+    "fileSize": 114801,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
