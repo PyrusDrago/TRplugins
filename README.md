@@ -1,8 +1,8 @@
-### Son Güncelleme: 03.03.2026 23:21
+### Son Güncelleme: 04.03.2026 23:21
 
 ### Repo Kısa Kodu: TRplugins
 
-### Toplam Eklenti Sayısı: 140
+### Toplam Eklenti Sayısı: 141
 
 ---
 
@@ -126,6 +126,7 @@
 | <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.trtcocuk.net.tr&size=128" width="32" style="vertical-align:middle;"> | **TrtCocuk** | Çizgi Film | 🇹🇷 [TR] |
 | <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.turkanime.co&size=64" width="32" style="vertical-align:middle;"> | **TurkAnime** | Anime, Anime Filmi | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=64" width="32" style="vertical-align:middle;"> | **TurkSCanliTV** | Canlı TV | 🇹🇷 [TR] |
+| <img src="https://i.imgur.com/Cff8v6J.png" width="32" style="vertical-align:middle;"> | **Turkdizileri** | Film | 🇹🇷 [TR] |
 | <img src="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/bahcesitv.png" width="32" style="vertical-align:middle;"> | **Tv Bahçesi - Latte** | Canlı TV | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?sz=64&domain=www.tv8.com.tr" width="32" style="vertical-align:middle;"> | **Tv8** | Dizi | 🇹🇷 [TR] |
 | <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://tvdiziler.cc&size=16" width="32" style="vertical-align:middle;"> | **TvDiziler** | Dizi | 🇹🇷 [TR] |
