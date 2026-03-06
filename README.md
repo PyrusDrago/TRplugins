@@ -1,8 +1,8 @@
-### Son Güncelleme: 05.03.2026 23:28
+### Son Güncelleme: 06.03.2026 23:20
 
 ### Repo Kısa Kodu: TRplugins
 
-### Toplam Eklenti Sayısı: 127
+### Toplam Eklenti Sayısı: 132
 
 ---
 
@@ -16,6 +16,7 @@
 | İkon | Eklenti Adı | Türler | Ülke |
 |:----:|:------------|:-------|:----:|
 | <img src="https://www.google.com/s2/favicons?domain=www.4kfilmizlesene.org&sz=64" width="32" style="vertical-align:middle;"> | **4KFilmIzlesene** | Film | 🇹🇷 [TR] |
+| <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animely.net/&size=128" width="32" style="vertical-align:middle;"> | **AnimeElysium** | Anime, Anime Filmi, OVA (Anime) | 🇹🇷 [TR] |
 | <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://animecix.net&size=16" width="32" style="vertical-align:middle;"> | **AnimeciX** | Anime | 🇹🇷 [TR] |
 | <img src="https://animeler.me/wp-content/uploads/cropped-animelerpw-48x48.png" width="32" style="vertical-align:middle;"> | **Animeler** | Anime | 🇹🇷 [TR] |
 | <img src="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/aniworld.png" width="32" style="vertical-align:middle;"> | **Aniworld MC - Latte** | Anime Filmi, Anime, OVA (Anime) | 🇩🇪 [DE] |
@@ -26,6 +27,7 @@
 | <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://asyaminik.com/&size=128" width="32" style="vertical-align:middle;"> | **AsyaMinik** | Asya Dizisi | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?sz=64&domain=asyawatch.com" width="32" style="vertical-align:middle;"> | **AsyaWatch** | Asya Dizisi, Film | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?sz=64&domain=belgeselx.com" width="32" style="vertical-align:middle;"> | **BelgeselX** | Belgesel | 🇹🇷 [TR] |
+| <img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.birasyadizi.com/&size=16" width="32" style="vertical-align:middle;"> | **BirAsyaDizi** | Asya Dizisi | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=64" width="32" style="vertical-align:middle;"> | **CanliTV** | Canlı TV | 🇹🇷 [TR] |
 | <img src="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" width="32" style="vertical-align:middle;"> | **CanliTv** | Canlı TV | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?sz=64&domain=cizgimax.online" width="32" style="vertical-align:middle;"> | **CizgiMax** | Çizgi Film | 🇹🇷 [TR] |
@@ -38,6 +40,7 @@
 | <img src="https://www.google.com/s2/favicons?sz=64&domain=diziasia.com" width="32" style="vertical-align:middle;"> | **DiziAsia** | Asya Dizisi | 🇹🇷 [TR] |
 | <img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.diziasya.com&size=32" width="32" style="vertical-align:middle;"> | **DiziAsya** | Asya Dizisi, Film, Anime | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=www.dizibox.live&sz=64" width="32" style="vertical-align:middle;"> | **DiziBox** | Dizi | 🇹🇷 [TR] |
+| <img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizifilm.org/dizi/breaking-bad/sezon-1/bolum-2&size=128" width="32" style="vertical-align:middle;"> | **DiziFilmORG** | Film, Dizi | 🇹🇷 [TR] |
 | <img src="https://dizifun3.com/images/data/darklogo.png" width="32" style="vertical-align:middle;"> | **DiziFun - Latte** | Dizi, Film | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?sz=64&domain=dizigom1.co" width="32" style="vertical-align:middle;"> | **DiziGom** | Film, Dizi | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=https://dizikorea.vip&sz=64" width="32" style="vertical-align:middle;"> | **DiziKorea** | Asya Dizisi | 🇹🇷 [TR] |
@@ -64,6 +67,7 @@
 | <img src="https://www.google.com/s2/favicons?domain=fullhdfilm.us&sz=64" width="32" style="vertical-align:middle;"> | **FullHDFilm** | Film, Dizi | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?sz=64&domain=www.fullhdfilmizlesene.de" width="32" style="vertical-align:middle;"> | **FullHDFilmizlesene** | Film | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=fullhdfilmizlede.net&sz=64" width="32" style="vertical-align:middle;"> | **FullHDFilmİzlede** | Film | 🇹🇷 [TR] |
+| <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://fullhdizle.one/&size=48" width="32" style="vertical-align:middle;"> | **FullHDIzle** | Film | 🇹🇷 [TR] |
 | <img src="https://www.giniko.com/images/favicon.ico" width="32" style="vertical-align:middle;"> | **GinikoCanli** | Canlı TV | 🇹🇷 [TR] |
 | <img src="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/gofilm.png" width="32" style="vertical-align:middle;"> | **GoFilmIzle - Latte** | Film | 🇹🇷 [TR] |
 | <img src="https://www.apkdelisi.net/wp-content/uploads/2022/03/golge-tv-reklamsiz-mod-apk-canli-tv-apkdelisi-0.jpg" width="32" style="vertical-align:middle;"> | **GolgeTV** | Canlı TV | 🇹🇷 [TR] |
@@ -72,11 +76,13 @@
 | <img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://hdfilmdelisi.one/&size=128" width="32" style="vertical-align:middle;"> | **HDFilmDelisi** | Film | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=hdfilmizle.to&sz=64" width="32" style="vertical-align:middle;"> | **HDFilmIzle** | Film, Dizi | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=hdfilmsitesi.net&sz=64" width="32" style="vertical-align:middle;"> | **HDFilmSitesi** | Film | 🇹🇷 [TR] |
+| <img src="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://hintdizi.com&size=128" width="32" style="vertical-align:middle;"> | **HintDizi** | Asya Dizisi | 🇹🇷 [TR] |
 | <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vCp6N1K4bECoYRQD-cisJF2_6V_Hk01ZhDmoPR2JuM8O5qr4MqrPO1munM9cRlleBBSK6odYhLtDBWv4E3vhPhynlmS5hVVtJZShHoGA5REQ8_3v8SIlccTEqzVQu2UJyNYQdJNrKIfWy66RQeT0D-CcmFCbHPz5023H6p2v5fv4NVloZ5Rqo_yGrIY/s320/iNat-Box-App.png" width="32" style="vertical-align:middle;"> | **InatBox** | Film, Dizi, Canlı TV | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=720pizle.ai&sz=64" width="32" style="vertical-align:middle;"> | **IzleAI** | Film | 🇹🇷 [TR] |
 | <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jetfilmizle.de&size=128" width="32" style="vertical-align:middle;"> | **JetFilmizle** | Film | 🇹🇷 [TR] |
 | <img src="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/kick.png" width="32" style="vertical-align:middle;"> | **KICK Türkiye - Latte** | Dizi, Film | 🇹🇷 [TR] |
 | <img src="https://turkey.mom-rsf.org/uploads/tx_lfrogmom/media/241-101_import.png" width="32" style="vertical-align:middle;"> | **Kanal 7** | Dizi | 🇹🇷 [TR] |
+| <img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.kanald.com.tr/&size=128" width="32" style="vertical-align:middle;"> | **KanalD** | Dizi | 🇹🇷 [TR] |
 | <img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://kick.com&size=48" width="32" style="vertical-align:middle;"> | **KickTR** | Canlı TV | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?sz=64&domain=www.koreanturk.com" width="32" style="vertical-align:middle;"> | **KoreanTurk** | Asya Dizisi | 🇹🇷 [TR] |
 | <img src="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://koredizi.com/&size=128" width="32" style="vertical-align:middle;"> | **Koredizi** | Asya Dizisi | 🇹🇷 [TR] |
@@ -133,7 +139,6 @@
 | <img src="https://www.google.com/s2/favicons?domain=youtube.com&sz=64" width="32" style="vertical-align:middle;"> | **YouTube** | Diğer | 🇹🇷 [TR] |
 | <img src="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/Latte%20Tube/latte-tube.png" width="32" style="vertical-align:middle;"> | **YouTube Özel - Latte** | Canlı TV | 🇹🇷 [TR] |
 | <img src="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.youtube.com/&size=128" width="32" style="vertical-align:middle;"> | **Youtube** | Film, Canlı TV, Müzik, Dizi | 🇹🇷 [TR] |
-| <img src="https://placehold.co/200x200/png" width="32" style="vertical-align:middle;"> | **__PlayerTest** | Film | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=64" width="32" style="vertical-align:middle;"> | **iptvSevenler** | Canlı TV | 🇹🇷 [TR] |
 | <img src="https://www.4kfilmizleme.net/wp-content/uploads/2022/09/4kfilmizlemefavicon-1.png" width="32" style="vertical-align:middle;"> | **kısakod:kraptorcs** | Film | 🇹🇷 [TR] |
 | <img src="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" width="32" style="vertical-align:middle;"> | **myway TV - Latte** | Canlı TV | 🇹🇷 [TR] |
