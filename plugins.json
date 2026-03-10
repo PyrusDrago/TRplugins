@@ -142,7 +142,7 @@
       "PyrusDrago"
     ],
     "description": "1080p yabancı dizi izle. Türkçe altyazılı veya dublaj seçenekleriyle 1080p çözünürlükte yabancı dizilere anında ulaş. Popüler dizileri kesintisiz izle.",
-    "fileSize": 82372,
+    "fileSize": 87460,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -290,14 +290,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/FullHDFilmizlesene.cs3",
     "status": 1,
-    "version": 32,
+    "version": 33,
     "name": "FullHDFilmizlesene",
     "internalName": "FullHDFilmizlesene",
     "authors": [
       "PyrusDrago"
     ],
     "description": "Sinema zevkini evinize kadar getirdik. Türkiye'nin lider Film sitesinde, en yeni filmleri Full HD izleyin.",
-    "fileSize": 77583,
+    "fileSize": 80693,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -705,7 +705,7 @@
       "PyrusDrago"
     ],
     "description": "Kore, Çin ve Japon dizilerini tek tıkla HD ve Türkçe altyazılı izle. En güncel Asya dizileri, unutulmaz Asya filmleri ve web dramalar seni bekliyor.",
-    "fileSize": 85278,
+    "fileSize": 90443,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -994,7 +994,7 @@
       "PyrusDrago"
     ],
     "description": "Selcukflix'te her türden en yeni ve en popüler dizi ve filmleri izlemenin keyfini çıkarın. Aksiyondan romantiğe, bilim kurgudan dramaya, geniş kütüphanemizde herkes için bir şey var.",
-    "fileSize": 87262,
+    "fileSize": 92142,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -1996,7 +1996,7 @@
       "PyrusDrago"
     ],
     "description": "DiziPal Orijinal.",
-    "fileSize": 85714,
+    "fileSize": 90746,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -2035,7 +2035,7 @@
       "PyrusDrago"
     ],
     "description": "Diziyo ile Yabancı Dizi, Film, Anime, Çizgi-Film izle.",
-    "fileSize": 74624,
+    "fileSize": 79760,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
