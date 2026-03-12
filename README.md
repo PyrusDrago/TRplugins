@@ -1,4 +1,4 @@
-### Son Güncelleme: 11.03.2026 23:23
+### Son Güncelleme: 12.03.2026 23:23
 
 ### Repo Kısa Kodu: TRplugins
 
@@ -16,9 +16,9 @@
 | İkon | Eklenti Adı | Türler | Ülke |
 |:----:|:------------|:-------|:----:|
 | <img src="https://www.google.com/s2/favicons?domain=www.4kfilmizlesene.org&sz=64" width="32" style="vertical-align:middle;"> | **4KFilmIzlesene** | Film | 🇹🇷 [TR] |
-| <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animely.net/&size=128" width="32" style="vertical-align:middle;"> | **AnimeElysium** | Anime, Anime Filmi, OVA (Anime) | 🇹🇷 [TR] |
 | <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://animecix.net&size=16" width="32" style="vertical-align:middle;"> | **AnimeciX** | Anime | 🇹🇷 [TR] |
 | <img src="https://animeler.me/wp-content/uploads/cropped-animelerpw-48x48.png" width="32" style="vertical-align:middle;"> | **Animeler** | Anime | 🇹🇷 [TR] |
+| <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animely.net/&size=128" width="32" style="vertical-align:middle;"> | **Animely** | Anime, Anime Filmi, OVA (Anime) | 🇹🇷 [TR] |
 | <img src="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/aniworld.png" width="32" style="vertical-align:middle;"> | **Aniworld MC - Latte** | Anime Filmi, Anime, OVA (Anime) | 🇩🇪 [DE] |
 | <img src="https://anizium.co/assets/images/logo.png" width="32" style="vertical-align:middle;"> | **Anizium** | Anime Filmi, Anime | 🇹🇷 [TR] |
 | <img src="https://asyaanimeleri.top/wp-content/uploads/2021/08/Asya-animeleri-12-e1629130525708.png" width="32" style="vertical-align:middle;"> | **AsyaAnimeleri** | Anime | 🇹🇷 [TR] |
